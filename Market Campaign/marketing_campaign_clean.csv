@@ -1,0 +1,201 @@
+Customer_Name,Email,Campaign_Name,Channel,Clicks,Impressions,Conversion,Revenue,Date
+Tom Hardy,Tomhardy@Mail.Com,New Year Blast,Instagram,5,1946,No,0,5/12/2024
+Nina Patel,Ninapatel@Mail.Com,Black Friday,Facebook,12,1593,No,0,5/11/2024
+Chris Evans,Chrisevans@Mail.Com,Holiday Promo,Google Ads,3,1972,Yes,415.66,10/12/2024
+Mary Johnson,Maryjohnson@Mail.Com,Black Friday,Facebook,19,876,No,0,11/26/2024
+Mark Henry,Markhenry@Mail.Com,New Year Blast,Email,16,1416,Yes,498.59,9/12/2024
+Emma Stone,Emmastone@Mail.Com,Summer Sale,Facebook,19,2034,Yes,314.23,10/11/2024
+John Doe,Johndoe@Mail.Com,Black Friday,Google Ads,8,1799,No,0,11/5/2024
+Michael Brown,Michaelbrown@Mail.Com,Holiday Promo,Google Ads,5,523,No,0,11/5/2024
+Anna White,Annawhite@Mail.Com,Summer Sale,Email,11,449,No,0,4/12/2024
+Brian Cox,Briancox@Mail.Com,New Year Blast,Email,11,1211,Yes,312.95,12/25/2024
+Mark Henry,Markhenry@Mail.Com,Summer Sale,Google Ads,8,1730,No,0,12/22/2024
+Jane Smith,Janesmith@Mail.Com,Summer Sale,Facebook,12,473,Yes,344.36,11/24/2024
+Emma Stone,,Black Friday,Google Ads,1,1595,Yes,262.19,10/11/2024
+Sarah Lee,Sarahlee@Mail.Com,Summer Sale,Email,5,1973,No,0,12/24/2024
+Mark Henry,,Holiday Promo,Instagram,1,1683,No,0,12/21/2024
+Olivia Park,Oliviapark@Mail.Com,Holiday Promo,Facebook,8,1359,No,0,11/23/2024
+Alex Cruz,Alexcruz@Mail.Com,Summer Sale,Facebook,12,1013,No,0,10/11/2024
+Chris Evans,Chrisevans@Mail.Com,Black Friday,Facebook,16,428,No,0,10/12/2024
+Jane Smith,Janesmith@Mail.Com,Summer Sale,Instagram,13,1633,Yes,213.97,11/26/2024
+Olivia Park,Oliviapark@Mail.Com,Black Friday,Facebook,2,958,Yes,401.97,11/17/2024
+Daniel Wu,Danielwu@Mail.Com,New Year Blast,Instagram,10,1282,No,0,12/4/2024
+Mark Henry,Markhenry@Mail.Com,Black Friday,Instagram,10,1819,Yes,372.88,11/23/2024
+James Robert,Jamesrobert@Mail.Com,New Year Blast,Facebook,4,1062,No,0,12/18/2024
+Daniel Wu,Danielwu@Mail.Com,Black Friday,Google Ads,1,1374,No,0,10/11/2024
+Michael Brown,Michaelbrown@Mail.Com,Black Friday,Instagram,13,957,No,0,11/22/2024
+Olivia Park,Oliviapark@Mail.Com,New Year Blast,Email,15,1624,Yes,343.55,4/11/2024
+David King,Davidking@Mail.Com,Black Friday,Facebook,15,2356,Yes,298.69,12/7/2024
+Brian Cox,,Holiday Promo,Email,1,1761,Yes,148.64,12/11/2024
+Sophia Kim,Sophiakim@Mail.Com,Summer Sale,Google Ads,15,327,Yes,112.5,12/25/2024
+John Doe,Johndoe@Mail.Com,Holiday Promo,Google Ads,1,1902,Yes,433.56,11/22/2024
+James Robert,Jamesrobert@Mail.Com,Summer Sale,Instagram,9,370,Yes,304.77,1/12/2024
+Tom Hardy,Tomhardy@Mail.Com,Black Friday,Email,17,1992,Yes,428.84,10/12/2024
+Sarah Lee,Sarahlee@Mail.Com,Holiday Promo,Google Ads,4,1286,No,0,2/12/2024
+Mary Johnson,Maryjohnson@Mail.Com,New Year Blast,Email,3,1586,No,0,12/18/2024
+Alex Cruz,Alexcruz@Mail.Com,New Year Blast,Google Ads,6,2037,No,0,11/24/2024
+Sophia Kim,Sophiakim@Mail.Com,Summer Sale,Email,15,1757,No,0,11/26/2024
+Tom Hardy,Tomhardy@Mail.Com,Black Friday,Facebook,19,1468,Yes,122.37,12/19/2024
+Sophia Kim,Sophiakim@Mail.Com,New Year Blast,Google Ads,17,1356,No,0,11/15/2024
+Michael Brown,Michaelbrown@Mail.Com,Summer Sale,Facebook,18,2345,Yes,308.72,12/15/2024
+Paul Adams,Pauladams@Mail.Com,Holiday Promo,Google Ads,7,1288,Yes,182.13,4/12/2024
+John Doe,Johndoe@Mail.Com,New Year Blast,Instagram,8,491,Yes,66.76,11/4/2024
+Sophia Kim,Sophiakim@Mail.Com,Black Friday,Google Ads,13,981,Yes,362.43,11/23/2024
+Mary Johnson,Maryjohnson@Mail.Com,Summer Sale,Google Ads,6,879,Yes,290.16,11/25/2024
+Emma Stone,Emmastone@Mail.Com,Black Friday,Google Ads,14,918,Yes,485.52,5/12/2024
+Daniel Wu,Danielwu@Mail.Com,Black Friday,Instagram,19,497,Yes,179.09,11/12/2024
+Emma Stone,Emmastone@Mail.Com,New Year Blast,Facebook,19,1435,Yes,169.77,12/17/2024
+Tom Hardy,Tomhardy@Mail.Com,Holiday Promo,Email,3,888,Yes,369.23,12/18/2024
+Paul Adams,,Black Friday,Google Ads,19,2334,Yes,310.3,1/11/2024
+Anna White,Annawhite@Mail.Com,New Year Blast,Email,18,843,No,0,11/27/2024
+Mary Johnson,Maryjohnson@Mail.Com,Black Friday,Facebook,15,1681,No,0,12/15/2024
+Tom Hardy,Tomhardy@Mail.Com,New Year Blast,Email,1,2434,No,0,12/21/2024
+Emma Stone,Emmastone@Mail.Com,Holiday Promo,Instagram,7,1916,Yes,119.19,11/20/2024
+Alex Cruz,,Summer Sale,Instagram,0,1821,No,0,2/12/2024
+Olivia Park,Oliviapark@Mail.Com,Holiday Promo,Email,19,1303,No,0,12/15/2024
+Nina Patel,Ninapatel@Mail.Com,Black Friday,Google Ads,9,690,Yes,478.76,1/12/2024
+David King,,New Year Blast,Instagram,17,1087,No,0,11/11/2024
+Sophia Kim,Sophiakim@Mail.Com,New Year Blast,Instagram,3,772,Yes,163.58,11/7/2024
+Sophia Kim,,Black Friday,Google Ads,13,372,Yes,211.19,11/18/2024
+Tom Hardy,Tomhardy@Mail.Com,Holiday Promo,Facebook,0,1854,Yes,298.97,4/11/2024
+Jane Smith,Janesmith@Mail.Com,New Year Blast,Instagram,20,712,No,0,11/21/2024
+Olivia Park,Oliviapark@Mail.Com,New Year Blast,Email,8,880,Yes,131.36,12/22/2024
+Sophia Kim,,Holiday Promo,Instagram,1,330,No,0,11/18/2024
+Brian Cox,Briancox@Mail.Com,Summer Sale,Instagram,13,1539,Yes,372.82,12/7/2024
+Mark Henry,Markhenry@Mail.Com,Summer Sale,Google Ads,18,2220,No,0,9/12/2024
+David King,Davidking@Mail.Com,Summer Sale,Instagram,3,2327,No,0,12/13/2024
+James Robert,,Black Friday,Instagram,1,2024,No,0,9/11/2024
+Jane Smith,Janesmith@Mail.Com,Black Friday,Facebook,7,639,No,0,11/15/2024
+Sophia Kim,Sophiakim@Mail.Com,New Year Blast,Email,6,1667,Yes,66.66,11/27/2024
+Tom Hardy,Tomhardy@Mail.Com,Summer Sale,Facebook,8,1521,Yes,132.87,11/24/2024
+John Doe,Johndoe@Mail.Com,Summer Sale,Google Ads,0,1693,Yes,312.61,11/21/2024
+John Doe,Johndoe@Mail.Com,Black Friday,Facebook,12,591,Yes,132.07,12/8/2024
+Jane Smith,Janesmith@Mail.Com,Black Friday,Email,17,585,No,0,12/19/2024
+Anna White,Annawhite@Mail.Com,Summer Sale,Email,3,2283,No,0,12/31/2024
+Jane Smith,,Holiday Promo,Instagram,16,2468,No,0,11/30/2024
+Emma Stone,,Holiday Promo,Google Ads,9,1674,No,0,2/12/2024
+David King,,Black Friday,Google Ads,9,2333,No,0,11/24/2024
+Michael Brown,Michaelbrown@Mail.Com,New Year Blast,Facebook,1,606,Yes,170.99,8/12/2024
+David King,Davidking@Mail.Com,New Year Blast,Email,7,2080,No,0,12/31/2024
+Paul Adams,Pauladams@Mail.Com,New Year Blast,Facebook,9,1766,No,0,12/12/2024
+James Robert,,New Year Blast,Facebook,7,2479,Yes,177.71,11/1/2024
+Olivia Park,Oliviapark@Mail.Com,Holiday Promo,Instagram,6,1938,No,0,11/11/2024
+John Doe,Johndoe@Mail.Com,Black Friday,Email,18,405,Yes,365.13,7/11/2024
+Olivia Park,Oliviapark@Mail.Com,Holiday Promo,Google Ads,0,1353,Yes,134.82,11/29/2024
+Mary Johnson,,Holiday Promo,Google Ads,9,1298,Yes,324.53,12/17/2024
+Paul Adams,Pauladams@Mail.Com,Holiday Promo,Google Ads,16,2283,Yes,378.13,12/26/2024
+Anna White,Annawhite@Mail.Com,New Year Blast,Facebook,15,686,No,0,7/12/2024
+Daniel Wu,Danielwu@Mail.Com,Black Friday,Email,9,1666,Yes,71.74,12/7/2024
+Jane Smith,Janesmith@Mail.Com,Black Friday,Email,11,388,No,0,11/24/2024
+Michael Brown,Michaelbrown@Mail.Com,Summer Sale,Google Ads,18,1878,Yes,315.01,11/27/2024
+John Doe,Johndoe@Mail.Com,Holiday Promo,Email,1,324,No,0,11/29/2024
+Mark Henry,Markhenry@Mail.Com,Holiday Promo,Google Ads,12,438,No,0,12/13/2024
+Lucy Gray,Lucygray@Mail.Com,Summer Sale,Facebook,11,1492,No,0,12/21/2024
+Emma Stone,Emmastone@Mail.Com,Summer Sale,Email,8,314,Yes,187,11/23/2024
+Daniel Wu,Danielwu@Mail.Com,New Year Blast,Email,2,1929,Yes,234.79,12/31/2024
+John Doe,Johndoe@Mail.Com,Summer Sale,Email,9,1984,Yes,207.31,12/16/2024
+Sophia Kim,Sophiakim@Mail.Com,New Year Blast,Google Ads,18,2353,No,0,3/12/2024
+Anna White,Annawhite@Mail.Com,Black Friday,Email,1,1247,Yes,101.96,11/18/2024
+Jane Smith,Janesmith@Mail.Com,New Year Blast,Facebook,13,1200,No,0,10/11/2024
+David King,Davidking@Mail.Com,New Year Blast,Instagram,12,634,No,0,11/18/2024
+Paul Adams,Pauladams@Mail.Com,New Year Blast,Facebook,13,1481,No,0,12/22/2024
+Paul Adams,Pauladams@Mail.Com,New Year Blast,Facebook,6,975,Yes,258.96,12/24/2024
+Paul Adams,Pauladams@Mail.Com,Holiday Promo,Facebook,2,1750,No,0,11/3/2024
+Lucy Gray,Lucygray@Mail.Com,Holiday Promo,Instagram,9,1813,Yes,461.16,11/11/2024
+Anna White,Annawhite@Mail.Com,Summer Sale,Email,6,1535,No,0,12/26/2024
+Jane Smith,Janesmith@Mail.Com,Holiday Promo,Email,2,1633,No,0,12/12/2024
+Olivia Park,Oliviapark@Mail.Com,Summer Sale,Google Ads,9,2332,No,0,11/12/2024
+Sophia Kim,Sophiakim@Mail.Com,Black Friday,Instagram,6,1173,No,0,11/18/2024
+Tom Hardy,Tomhardy@Mail.Com,Black Friday,Email,8,1650,Yes,427.62,12/23/2024
+Michael Brown,Michaelbrown@Mail.Com,Holiday Promo,Email,6,1351,No,0,11/27/2024
+David King,Davidking@Mail.Com,New Year Blast,Facebook,18,2372,Yes,365.5,11/26/2024
+Alex Cruz,Alexcruz@Mail.Com,Holiday Promo,Google Ads,17,2479,Yes,270.5,12/17/2024
+Daniel Wu,Danielwu@Mail.Com,Black Friday,Email,13,642,No,0,12/8/2024
+Daniel Wu,Danielwu@Mail.Com,Summer Sale,Instagram,3,1730,No,0,11/28/2024
+Anna White,Annawhite@Mail.Com,Holiday Promo,Instagram,3,1864,No,0,7/12/2024
+Paul Adams,Pauladams@Mail.Com,Holiday Promo,Email,1,723,Yes,255.22,11/14/2024
+Paul Adams,Pauladams@Mail.Com,Holiday Promo,Google Ads,16,2264,No,0,11/10/2024
+Mary Johnson,Maryjohnson@Mail.Com,Summer Sale,Google Ads,20,1960,No,0,12/13/2024
+Mark Henry,Markhenry@Mail.Com,Holiday Promo,Instagram,20,680,No,0,12/19/2024
+Jane Smith,Janesmith@Mail.Com,Summer Sale,Google Ads,12,1673,Yes,184.1,11/26/2024
+David King,Davidking@Mail.Com,New Year Blast,Facebook,20,459,Yes,124.01,7/12/2024
+Mary Johnson,Maryjohnson@Mail.Com,New Year Blast,Email,15,574,Yes,140.99,12/30/2024
+Emma Stone,Emmastone@Mail.Com,New Year Blast,Email,2,1690,No,0,10/11/2024
+John Doe,Johndoe@Mail.Com,New Year Blast,Facebook,14,2148,No,0,12/26/2024
+James Robert,Jamesrobert@Mail.Com,Black Friday,Instagram,19,370,No,0,8/11/2024
+James Robert,Jamesrobert@Mail.Com,Summer Sale,Instagram,18,694,No,0,12/17/2024
+Sarah Lee,Sarahlee@Mail.Com,Holiday Promo,Instagram,14,973,Yes,392.64,12/18/2024
+Alex Cruz,Alexcruz@Mail.Com,Summer Sale,Email,4,2383,Yes,481.05,12/22/2024
+Mark Henry,Markhenry@Mail.Com,New Year Blast,Facebook,10,634,Yes,142.22,11/26/2024
+Olivia Park,Oliviapark@Mail.Com,Black Friday,Facebook,16,2465,Yes,69.07,1/11/2024
+Brian Cox,Briancox@Mail.Com,Holiday Promo,Facebook,4,491,Yes,273.45,11/29/2024
+Alex Cruz,Alexcruz@Mail.Com,Black Friday,Email,3,1644,No,0,12/5/2024
+Nina Patel,Ninapatel@Mail.Com,Holiday Promo,Google Ads,4,2498,Yes,438.95,2/11/2024
+Lucy Gray,Lucygray@Mail.Com,Summer Sale,Facebook,17,1179,Yes,234.31,4/12/2024
+Paul Adams,Pauladams@Mail.Com,Summer Sale,Google Ads,0,555,No,0,4/12/2024
+Nina Patel,Ninapatel@Mail.Com,Holiday Promo,Email,16,1832,No,0,8/12/2024
+Mark Henry,Markhenry@Mail.Com,Black Friday,Instagram,0,822,Yes,81.81,12/23/2024
+Nina Patel,Ninapatel@Mail.Com,Black Friday,Instagram,6,768,Yes,55.44,11/25/2024
+Alex Cruz,Alexcruz@Mail.Com,Holiday Promo,Instagram,7,832,Yes,395.74,11/19/2024
+Brian Cox,Briancox@Mail.Com,Black Friday,Instagram,18,409,Yes,340.23,11/29/2024
+David King,Davidking@Mail.Com,Summer Sale,Instagram,3,1650,Yes,433.12,8/11/2024
+Anna White,Annawhite@Mail.Com,New Year Blast,Google Ads,13,1334,No,0,5/11/2024
+John Doe,,Holiday Promo,Email,2,1993,Yes,86.01,12/16/2024
+Alex Cruz,Alexcruz@Mail.Com,Black Friday,Facebook,8,1966,Yes,238.46,4/12/2024
+Mark Henry,,Holiday Promo,Google Ads,13,1511,Yes,144.77,12/11/2024
+Lucy Gray,Lucygray@Mail.Com,Black Friday,Email,0,1634,No,0,12/11/2024
+Nina Patel,Ninapatel@Mail.Com,Holiday Promo,Instagram,17,1233,No,0,7/11/2024
+John Doe,Johndoe@Mail.Com,Summer Sale,Email,12,984,Yes,489.93,12/11/2024
+Mark Henry,Markhenry@Mail.Com,Holiday Promo,Email,20,1070,Yes,276.29,11/5/2024
+Emma Stone,Emmastone@Mail.Com,Holiday Promo,Email,15,1234,Yes,290.75,12/28/2024
+Anna White,Annawhite@Mail.Com,Black Friday,Instagram,15,1465,No,0,11/15/2024
+Nina Patel,,New Year Blast,Instagram,10,588,No,0,12/21/2024
+Anna White,Annawhite@Mail.Com,Black Friday,Google Ads,5,1801,No,0,11/11/2024
+James Robert,Jamesrobert@Mail.Com,Summer Sale,Facebook,6,2447,No,0,11/21/2024
+James Robert,Jamesrobert@Mail.Com,New Year Blast,Facebook,14,543,No,0,11/18/2024
+Jane Smith,Janesmith@Mail.Com,Holiday Promo,Email,0,792,Yes,65.47,12/27/2024
+Paul Adams,Pauladams@Mail.Com,Holiday Promo,Email,17,578,Yes,302.23,12/28/2024
+Jane Smith,Janesmith@Mail.Com,New Year Blast,Email,0,1039,Yes,146.92,4/12/2024
+Lucy Gray,Lucygray@Mail.Com,Black Friday,Facebook,3,950,No,0,11/13/2024
+Nina Patel,Ninapatel@Mail.Com,Holiday Promo,Email,9,1315,Yes,349.75,11/8/2024
+Olivia Park,Oliviapark@Mail.Com,Summer Sale,Google Ads,7,2411,No,0,12/12/2024
+David King,Davidking@Mail.Com,New Year Blast,Facebook,6,1983,Yes,195.34,12/27/2024
+John Doe,Johndoe@Mail.Com,Black Friday,Instagram,13,1643,No,0,1/11/2024
+Emma Stone,Emmastone@Mail.Com,New Year Blast,Google Ads,11,714,Yes,214.83,10/12/2024
+Brian Cox,,New Year Blast,Instagram,3,2261,No,0,11/14/2024
+Lucy Gray,Lucygray@Mail.Com,Black Friday,Instagram,3,1319,No,0,12/19/2024
+John Doe,Johndoe@Mail.Com,Holiday Promo,Facebook,1,1045,No,0,5/11/2024
+Mark Henry,Markhenry@Mail.Com,Summer Sale,Email,16,1780,No,0,12/22/2024
+Tom Hardy,Tomhardy@Mail.Com,Black Friday,Email,1,1733,Yes,430.33,12/7/2024
+Jane Smith,Janesmith@Mail.Com,New Year Blast,Google Ads,19,1341,No,0,8/12/2024
+David King,Davidking@Mail.Com,New Year Blast,Instagram,9,1492,Yes,69.07,12/26/2024
+James Robert,Jamesrobert@Mail.Com,New Year Blast,Facebook,12,1192,No,0,12/27/2024
+Sophia Kim,Sophiakim@Mail.Com,New Year Blast,Instagram,13,2256,No,0,3/11/2024
+Paul Adams,Pauladams@Mail.Com,New Year Blast,Instagram,5,1281,No,0,11/18/2024
+Sarah Lee,Sarahlee@Mail.Com,Holiday Promo,Facebook,18,1488,No,0,5/11/2024
+Nina Patel,Ninapatel@Mail.Com,Summer Sale,Facebook,8,1821,Yes,330.82,4/11/2024
+Tom Hardy,Tomhardy@Mail.Com,New Year Blast,Facebook,15,1476,Yes,346.94,12/31/2024
+Brian Cox,Briancox@Mail.Com,Holiday Promo,Instagram,5,2334,Yes,206,12/23/2024
+Lucy Gray,Lucygray@Mail.Com,Black Friday,Facebook,19,2495,Yes,154.16,3/11/2024
+Mark Henry,Markhenry@Mail.Com,Black Friday,Instagram,7,1137,Yes,445.53,11/18/2024
+Chris Evans,Chrisevans@Mail.Com,Black Friday,Instagram,1,2226,Yes,479.88,11/25/2024
+Daniel Wu,Danielwu@Mail.Com,Black Friday,Instagram,14,988,Yes,61.97,10/12/2024
+Tom Hardy,Tomhardy@Mail.Com,Black Friday,Instagram,7,1971,No,0,11/30/2024
+Sophia Kim,,Holiday Promo,Google Ads,4,1245,No,0,12/8/2024
+Sarah Lee,Sarahlee@Mail.Com,Summer Sale,Instagram,15,723,Yes,198.55,12/11/2024
+Jane Smith,,New Year Blast,Instagram,15,524,Yes,69.07,11/11/2024
+Daniel Wu,Danielwu@Mail.Com,New Year Blast,Facebook,14,1835,No,0,11/17/2024
+Olivia Park,Oliviapark@Mail.Com,Holiday Promo,Email,11,1243,No,0,12/31/2024
+Paul Adams,Pauladams@Mail.Com,Summer Sale,Instagram,12,1781,Yes,312.22,8/12/2024
+Olivia Park,Oliviapark@Mail.Com,Summer Sale,Instagram,9,1465,Yes,381.89,12/20/2024
+John Doe,Johndoe@Mail.Com,Holiday Promo,Instagram,9,1816,No,0,12/17/2024
+Chris Evans,Chrisevans@Mail.Com,Black Friday,Google Ads,13,2252,Yes,171.87,6/11/2024
+Sarah Lee,Sarahlee@Mail.Com,Summer Sale,Google Ads,20,1720,No,0,11/20/2024
+Michael Brown,Michaelbrown@Mail.Com,Holiday Promo,Email,13,1184,Yes,466.54,12/25/2024
+James Robert,Jamesrobert@Mail.Com,Summer Sale,Google Ads,8,702,No,0,11/7/2024
+Lucy Gray,Lucygray@Mail.Com,New Year Blast,Facebook,1,520,No,0,12/14/2024
+David King,Davidking@Mail.Com,Black Friday,Email,5,1077,No,0,12/24/2024
+John Doe,Johndoe@Mail.Com,Summer Sale,Facebook,12,1455,No,0,11/13/2024
+Sarah Lee,Sarahlee@Mail.Com,Holiday Promo,Facebook,3,1312,No,0,3/11/2024
+Mary Johnson,Maryjohnson@Mail.Com,Black Friday,Google Ads,17,2410,Yes,67.28,11/18/2024
+Alex Cruz,Alexcruz@Mail.Com,Black Friday,Facebook,1,1133,No,0,8/11/2024
