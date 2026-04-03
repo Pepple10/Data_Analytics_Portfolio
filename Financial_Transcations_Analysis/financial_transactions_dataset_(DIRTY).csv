@@ -1,0 +1,501 @@
+Transaction_ID,Customer_Name,Transaction_Date,Amount,Category,Payment_Method,City
+TXN1000,Robert Johnson,13/11/2023,3642.32,Rent,Card,Lagos
+TXN1001,Robert White,10/30/2023,1552.21,Utilities,Transfer,Port Harcourt
+TXN1002,Robert Harris,1/21/2024,2325.26,Health,Transfer,Kano
+TXN1003,Robert White,26/05/2023,621.77,Utilities,Cash,Kano
+TXN1004,Jennifer White,3/17/2024,1999.1,,Card,Kano
+TXN1005,James Brown,6/10/2024,2637.86,Groceries,,Abuja
+TXN1006,William Smith,5/10/2023,2733.24,Health,Cash,Port Harcourt
+TXN1007,Michael Anderson,11/30/2023,4963.19,Groceries,Transfer,Lagos
+TXN1008,Michael Smith,4/17/2023,635.78,Rent,Transfer,Abuja
+TXN1009,Linda Harris,8/12/2023,1385.41,Entertainment,POS,Lagos
+TXN1010,William Taylor,17/01/2023,1549.76,Shopping,Card,Ibadan
+TXN1011,William Thomas,12/31/2023,2558.5,Transport,POS,Port Harcourt
+TXN1012,James Anderson,6/4/2024,471.57,Health,Cash,Abuja
+TXN1013,William Jackson,5/21/2023,4119.47,Rent,Transfer,Kano
+TXN1014,William Taylor,3/2/2024,126.02,Dining,Cash,Kano
+TXN1015,Elizabeth Anderson,2/11/2023,518.72,Rent,Cash,Kano
+TXN1016,James White,5/28/2023,1813.93,Dining,Transfer,Abuja
+TXN1017,Michael White,1/17/2023,2665.79,Utilities,Card,Abuja
+TXN1018,Linda Johnson,12/18/2023,2776.39,Dining,POS,Port Harcourt
+TXN1019,James Taylor,5/30/2023,598.48,,POS,Kano
+TXN1020,Linda Harris,13/03/2024,803.25,Health,Transfer,Ibadan
+TXN1021,Elizabeth Martin,26/08/2023,668.93,Shopping,Cash,Kano
+TXN1022,James Harris,4/25/2024,4876.82,Shopping,,Lagos
+TXN1023,Jennifer Martin,3/28/2024,2688.91,Groceries,POS,Port Harcourt
+TXN1024,Linda White,3/2/2023,4790.32,Dining,Cash,Lagos
+TXN1025,Linda Brown,2/14/2024,4084.55,Rent,POS,Ibadan
+TXN1026,Robert Brown,2/1/2023,309.1,Transport,POS,Port Harcourt
+TXN1027,Patricia Taylor,2/19/2023,4677.65,Rent,POS,Kano
+TXN1028,John White,23/09/2023,1983.16,Transport,Transfer,Ibadan
+TXN1029,Jennifer Brown,22/03/2023,3737.63,Shopping,Cash,Lagos
+TXN1030,Linda Johnson,2/10/2023,2614.56,Utilities,Transfer,Kano
+TXN1031,Linda Brown,11/12/2023,903.51,Groceries,Card,Lagos
+TXN1032,James Martin,7/6/2024,4658.63,Dining,Transfer,Lagos
+TXN1033,Michael Thomas,10/1/2023,2640.56,Shopping,Card,Abuja
+TXN1034,Elizabeth Harris,7/5/2024,4815,Transport,Transfer,Ibadan
+TXN1035,Elizabeth Smith,2/22/2024,3475.68,Transport,Card,Lagos
+TXN1036,Jennifer White,2/12/2024,4983.54,Health,Card,Abuja
+TXN1037,Michael Johnson,2/22/2023,3861.53,Shopping,Cash,Port Harcourt
+TXN1038,Patricia Harris,20/09/2023,4024.04,Dining,Card,Lagos
+TXN1039,John Martin,1/2/2024,445.02,Utilities,POS,Ibadan
+TXN1040,Mary Jackson,8/27/2023,3522.39,Utilities,POS,Kano
+TXN1041,Elizabeth White,11/1/2023,3496.91,Rent,Card,Port Harcourt
+TXN1042,Robert Brown,8/15/2023,4870.99,Rent,Card,Lagos
+TXN1043,John Martin,3/8/2023,2542.6,,Transfer,Ibadan
+TXN1044,James Anderson,11/19/2023,739.4,Dining,Cash,Abuja
+TXN1045,William Johnson,2/16/2023,1266.78,Utilities,Cash,Port Harcourt
+TXN1046,James Johnson,6/18/2023,2749.76,Transport,Card,Port Harcourt
+TXN1047,James Harris,6/20/2023,3831.28,Dining,Cash,Abuja
+TXN1048,Robert Jackson,6/15/2024,2824.07,Groceries,POS,Lagos
+TXN1049,Michael Smith,7/17/2023,1900.36,Entertainment,Cash,Kano
+TXN1050,Robert White,27/01/2024,3620.53,Dining,Cash,Kano
+TXN1051,William Taylor,23/04/2023,2235.8,Groceries,Card,Kano
+TXN1052,Mary Jackson,3/6/2023,4532.73,Shopping,Card,Kano
+TXN1053,Patricia Anderson,6/8/2023,3011.42,Rent,Cash,Port Harcourt
+TXN1054,Linda Anderson,6/15/2023,2377.48,Transport,POS,Port Harcourt
+TXN1055,Robert Harris,3/23/2024,1896.92,Entertainment,POS,Ibadan
+TXN1056,John Harris,1/29/2023,3129.86,Shopping,POS,Lagos
+TXN1057,Jennifer Martin,8/15/2023,2188.62,Health,Transfer,Ibadan
+TXN1058,John Johnson,10/1/2023,2049.79,Utilities,POS,Abuja
+TXN1059,Michael Smith,7/17/2023,4950.34,Shopping,Card,Port Harcourt
+TXN1060,John Taylor,9/3/2023,1033.59,,,Lagos
+TXN1061,John Smith,14/10/2023,4191.99,Groceries,Card,Abuja
+TXN1062,Jennifer Anderson,8/22/2024,553.73,Entertainment,Card,Lagos
+TXN1063,Michael Smith,25/05/2023,1730.01,Transport,POS,Lagos
+TXN1064,Mary Johnson,6/4/2024,389.01,Health,Cash,Ibadan
+TXN1065,Elizabeth White,2/12/2023,2061.39,Utilities,Card,Lagos
+TXN1066,Michael Jackson,2/25/2024,4686.71,Utilities,Transfer,Kano
+TXN1067,Elizabeth Martin,14/10/2023,4979.24,Utilities,Card,Abuja
+TXN1068,John White,23/08/2023,4658.82,Groceries,Cash,Kano
+TXN1069,Patricia White,7/23/2024,2838.43,Entertainment,Transfer,Kano
+TXN1070,Elizabeth Brown,4/8/2023,3476.44,Groceries,POS,Kano
+TXN1071,William White,7/13/2023,4009.7,,POS,Port Harcourt
+TXN1072,Jennifer Thomas,3/17/2024,2570.44,Health,POS,Ibadan
+TXN1073,Linda Smith,11/2/2023,4283.51,Entertainment,Card,Abuja
+TXN1074,James Anderson,27/02/2023,2664.9,Shopping,Card,Ibadan
+TXN1075,Elizabeth Brown,4/8/2024,4086.82,Transport,Card,Ibadan
+TXN1076,Jennifer Anderson,3/7/2023,371.58,Rent,Card,Abuja
+TXN1077,Mary Brown,6/12/2024,768.26,Groceries,POS,Port Harcourt
+TXN1078,James Smith,14/06/2024,4379.34,Shopping,Cash,Port Harcourt
+TXN1079,Patricia Thomas,17/07/2024,4537.4,Dining,,Port Harcourt
+TXN1080,John Martin,18/09/2023,4799.32,Entertainment,Cash,Kano
+TXN1081,Patricia Smith,3/7/2024,685.57,Utilities,POS,Port Harcourt
+TXN1082,Elizabeth Johnson,5/20/2023,2127.26,Shopping,Cash,Lagos
+TXN1083,Patricia Smith,1/24/2023,1464.07,Entertainment,Cash,Kano
+TXN1084,John White,5/24/2023,4061.42,Utilities,POS,Port Harcourt
+TXN1085,John Thomas,5/1/2023,3269.95,,Cash,Port Harcourt
+TXN1086,Jennifer Brown,6/13/2023,1753.59,Rent,POS,Abuja
+TXN1087,Michael Taylor,4/5/2024,956.56,Utilities,Transfer,Kano
+TXN1088,Patricia White,2/11/2023,3835.59,Dining,Cash,Abuja
+TXN1089,Elizabeth Anderson,1/24/2023,3181.24,Groceries,Transfer,Lagos
+TXN1090,William Harris,1/10/2023,4026.93,Entertainment,Transfer,Kano
+TXN1091,Mary White,2/21/2024,4266.23,Health,Transfer,Kano
+TXN1092,Linda Brown,3/12/2024,4472.47,Shopping,,Lagos
+TXN1093,Mary Johnson,11/12/2023,1991.67,Entertainment,POS,Ibadan
+TXN1094,Linda Martin,2/1/2023,984.06,Rent,POS,Abuja
+TXN1095,Michael Johnson,3/5/2024,1814.74,Shopping,Card,Port Harcourt
+TXN1096,William Taylor,13/07/2024,3695,Rent,Cash,Lagos
+TXN1097,William Brown,2/13/2023,868.66,Transport,Transfer,Abuja
+TXN1098,John Jackson,21/06/2023,3070.3,Health,Card,Kano
+TXN1099,Jennifer Anderson,20/09/2023,1717.19,Entertainment,Card,Abuja
+TXN1100,John Thomas,7/1/2024,2194.04,Entertainment,Transfer,Lagos
+TXN1101,Linda Taylor,4/1/2024,4192.22,Utilities,Cash,Kano
+TXN1102,Elizabeth Johnson,4/2/2023,4717.45,Groceries,POS,Abuja
+TXN1103,James Johnson,30/06/2024,2961.97,Transport,POS,Ibadan
+TXN1104,Elizabeth White,4/14/2024,3387.09,Rent,POS,Lagos
+TXN1105,Patricia Anderson,1/23/2023,281.02,Utilities,POS,Lagos
+TXN1106,Patricia White,6/12/2023,515.87,Transport,Card,Port Harcourt
+TXN1107,Elizabeth Smith,11/6/2023,4373.58,Dining,POS,Kano
+TXN1108,Michael Jackson,12/15/2023,3140.86,Dining,Cash,Lagos
+TXN1109,Mary Brown,3/8/2024,1329.76,Health,Transfer,Ibadan
+TXN1110,Mary Anderson,2/14/2024,2126.82,Transport,Card,Lagos
+TXN1111,Jennifer Johnson,11/8/2023,928.05,Dining,Card,Kano
+TXN1112,Robert Jackson,4/21/2023,482.78,Entertainment,Cash,Kano
+TXN1113,Michael Martin,5/4/2024,4947.98,Utilities,Cash,Lagos
+TXN1114,Mary Martin,10/16/2023,3632.03,Dining,Card,Lagos
+TXN1115,Linda Harris,22/03/2024,3382.69,Shopping,POS,Ibadan
+TXN1116,Mary Thomas,5/8/2024,3497.97,Utilities,,Port Harcourt
+TXN1117,Patricia Harris,6/13/2024,2174.98,Utilities,POS,Lagos
+TXN1118,John White,16/04/2024,3849.81,Shopping,Card,Abuja
+TXN1119,Michael Harris,26/11/2023,3423.02,Transport,Card,Ibadan
+TXN1120,Michael Brown,23/04/2024,2064.05,Transport,Card,Abuja
+TXN1121,Patricia Brown,5/10/2024,1716.16,Transport,POS,Kano
+TXN1122,Robert Thomas,30/07/2023,4955.52,Health,Transfer,Abuja
+TXN1123,Robert Anderson,1/21/2023,4570.08,,Cash,Kano
+TXN1124,Linda Thomas,21/11/2023,4689.18,Transport,POS,Lagos
+TXN1125,John Jackson,4/30/2023,395.6,Shopping,POS,Lagos
+TXN1126,Patricia Taylor,1/17/2023,4809.5,Dining,Cash,Ibadan
+TXN1127,James Smith,1/11/2023,1992.25,Groceries,Cash,Lagos
+TXN1128,Elizabeth Taylor,29/07/2023,4945.73,Rent,Transfer,Ibadan
+TXN1129,James Jackson,29/04/2024,4817.47,Transport,Transfer,Port Harcourt
+TXN1130,William Taylor,15/04/2024,1488.81,Transport,POS,Abuja
+TXN1131,Mary Jackson,7/28/2024,3142.92,Shopping,Transfer,Abuja
+TXN1132,William Brown,24/02/2024,4892.2,Shopping,Card,Abuja
+TXN1133,Patricia Martin,2/20/2024,2235.65,Rent,Cash,Kano
+TXN1134,James Brown,16/02/2024,971.07,Rent,POS,Ibadan
+TXN1135,Mary White,17/05/2024,1154.52,Groceries,POS,Port Harcourt
+TXN1136,Mary Harris,14/02/2023,4325.95,,Cash,Abuja
+TXN1137,Michael Johnson,1/5/2024,123.71,Rent,Cash,Kano
+TXN1138,Mary Jackson,5/1/2024,4394.07,Shopping,POS,Kano
+TXN1139,Jennifer White,5/3/2023,797.43,Shopping,Transfer,Ibadan
+TXN1140,Robert White,9/3/2023,145.68,,POS,Lagos
+TXN1141,Jennifer White,9/2/2023,216.2,Utilities,,Lagos
+TXN1142,John Anderson,7/7/2024,3681.36,Health,Card,Port Harcourt
+TXN1143,William Harris,6/30/2024,1680.55,Health,Card,Lagos
+TXN1144,Michael Thomas,15/09/2023,2055.17,Health,Card,Port Harcourt
+TXN1145,Jennifer White,5/2/2024,326.47,,Cash,Ibadan
+TXN1146,Linda Harris,11/29/2023,2428.43,Transport,Card,Port Harcourt
+TXN1147,John Jackson,5/30/2024,1780.46,Transport,POS,Lagos
+TXN1148,Linda Jackson,11/12/2023,568.5,Transport,Cash,Ibadan
+TXN1149,William Smith,3/25/2024,937.64,Groceries,POS,Port Harcourt
+TXN1150,Patricia Harris,8/31/2023,2830.43,Entertainment,POS,Ibadan
+TXN1151,Michael Brown,11/18/2023,4857.21,Entertainment,POS,Ibadan
+TXN1152,Elizabeth Johnson,8/29/2023,1636.4,Dining,,Port Harcourt
+TXN1153,John Harris,5/2/2024,4054.32,Entertainment,Transfer,Ibadan
+TXN1154,Linda White,8/10/2024,2454.85,Entertainment,POS,Kano
+TXN1155,Patricia Martin,7/5/2024,3028.48,Dining,Cash,Ibadan
+TXN1156,John Johnson,4/26/2024,3303.96,Health,POS,Kano
+TXN1157,Mary Thomas,19/05/2024,2986.93,Entertainment,Transfer,Kano
+TXN1158,Michael Taylor,2/1/2023,2260,Transport,Transfer,Lagos
+TXN1159,Michael Smith,7/19/2024,1429.87,Groceries,POS,Abuja
+TXN1160,Michael White,10/25/2023,4635.76,Groceries,POS,Abuja
+TXN1161,Elizabeth White,11/30/2023,3179.44,Health,POS,Port Harcourt
+TXN1162,Patricia White,4/30/2024,1619.86,Rent,Transfer,Lagos
+TXN1163,William Johnson,2/12/2023,4565.1,Health,Cash,Abuja
+TXN1164,Michael Anderson,9/26/2023,1941.37,Transport,Cash,Abuja
+TXN1165,Patricia Smith,7/29/2024,2910.21,Groceries,,Lagos
+TXN1166,John Taylor,7/9/2023,105.73,Transport,Card,Kano
+TXN1167,John Taylor,15/07/2024,1726.1,Transport,POS,Port Harcourt
+TXN1168,Michael White,12/18/2023,3541.9,Groceries,Cash,Ibadan
+TXN1169,John Harris,4/11/2024,4448.56,Rent,Card,Lagos
+TXN1170,Robert Brown,27/05/2024,3781.01,Dining,POS,Port Harcourt
+TXN1171,Robert Martin,27/01/2023,3818.51,Dining,POS,Abuja
+TXN1172,James Jackson,6/20/2024,2505.55,Rent,POS,Lagos
+TXN1173,Patricia Smith,8/8/2024,4717.18,Rent,Cash,Kano
+TXN1174,James Harris,23/01/2023,3978.33,Rent,Transfer,Ibadan
+TXN1175,Michael Taylor,7/10/2023,4192.57,Rent,Card,Port Harcourt
+TXN1176,Michael Thomas,25/01/2023,906.95,Health,Card,Abuja
+TXN1177,Michael Smith,1/10/2024,576.08,Groceries,POS,Ibadan
+TXN1178,John Harris,8/9/2023,279.43,Dining,Cash,Port Harcourt
+TXN1179,Elizabeth Anderson,6/18/2024,2228.05,Utilities,Transfer,Lagos
+TXN1180,Linda Harris,7/3/2023,1635.12,Shopping,Transfer,Abuja
+TXN1181,Elizabeth Jackson,6/2/2024,2394.45,Groceries,Transfer,Abuja
+TXN1182,William Smith,11/8/2024,4282.02,Dining,Transfer,Lagos
+TXN1183,James Anderson,9/14/2023,27.28,Health,Cash,Ibadan
+TXN1184,Elizabeth Brown,12/20/2023,389.59,Groceries,Transfer,Abuja
+TXN1185,James Brown,3/31/2024,497.87,Shopping,Card,Lagos
+TXN1186,Michael Jackson,9/14/2023,3545.04,Entertainment,Card,Abuja
+TXN1187,Mary Johnson,21/03/2024,3964.6,Rent,Card,Kano
+TXN1188,Linda White,8/15/2024,2411.68,Entertainment,Transfer,Port Harcourt
+TXN1189,Linda White,11/29/2023,2197.46,Shopping,Transfer,Lagos
+TXN1190,Jennifer Anderson,7/6/2023,3784.24,Health,Cash,Abuja
+TXN1191,Linda Thomas,4/11/2024,3617.29,Rent,Card,Lagos
+TXN1192,Michael Johnson,8/5/2023,318.09,,Transfer,Abuja
+TXN1193,Michael Brown,31/05/2023,1148.29,Groceries,,Abuja
+TXN1194,Jennifer Martin,12/11/2023,2483.73,Rent,Cash,Lagos
+TXN1195,Patricia Martin,20/10/2023,2652.11,Transport,POS,Lagos
+TXN1196,William Johnson,21/07/2024,248.24,Transport,Transfer,Abuja
+TXN1197,Michael Johnson,1/10/2024,1900.58,Utilities,Transfer,Kano
+TXN1198,John Anderson,13/07/2023,2109.31,Utilities,Transfer,Kano
+TXN1199,Jennifer Smith,7/7/2023,4871.55,Transport,Cash,Lagos
+TXN1200,Linda Harris,5/9/2024,1832.24,Shopping,Cash,Lagos
+TXN1201,Jennifer Smith,2/21/2023,3300.31,Rent,Cash,Kano
+TXN1202,William Johnson,4/7/2024,3737.99,,Transfer,Abuja
+TXN1203,Jennifer Johnson,12/23/2023,101.73,Groceries,POS,Lagos
+TXN1204,Linda Brown,17/01/2024,4822.7,Groceries,Cash,Port Harcourt
+TXN1205,Jennifer Thomas,5/14/2024,3055.5,Entertainment,POS,Abuja
+TXN1206,Robert Martin,4/5/2023,4908.02,Utilities,Transfer,Port Harcourt
+TXN1207,Mary Taylor,2/3/2023,2065.3,Groceries,Transfer,Kano
+TXN1208,Patricia White,1/11/2023,3499.38,Health,,Lagos
+TXN1209,James Thomas,4/9/2024,1732.21,Health,POS,Lagos
+TXN1210,Elizabeth Taylor,2/17/2023,2241.56,Transport,Cash,Ibadan
+TXN1211,William Smith,9/4/2023,4038.4,Rent,Card,Lagos
+TXN1212,William Harris,6/30/2023,2184.24,Dining,Card,Lagos
+TXN1213,Mary Smith,7/13/2024,4733.31,Utilities,,Port Harcourt
+TXN1214,William Brown,9/25/2023,909.61,Rent,POS,Abuja
+TXN1215,Linda Smith,11/5/2023,3239.13,Transport,Card,Lagos
+TXN1216,Jennifer Brown,9/28/2023,1401.38,Utilities,Transfer,Port Harcourt
+TXN1217,John Smith,22/06/2023,3488.98,Entertainment,POS,Lagos
+TXN1218,Linda White,1/18/2023,1052.05,Shopping,POS,Kano
+TXN1219,John Taylor,1/29/2024,3602.67,Utilities,Card,Port Harcourt
+TXN1220,William Johnson,12/10/2023,4148.67,Transport,Transfer,Kano
+TXN1221,Patricia Johnson,11/8/2023,3751.25,Entertainment,,Lagos
+TXN1222,Mary Martin,5/2/2024,547.77,Entertainment,Transfer,Kano
+TXN1223,William Smith,7/10/2023,380.76,Transport,Card,Port Harcourt
+TXN1224,Elizabeth Harris,7/2/2023,225.57,Shopping,POS,Abuja
+TXN1225,William Harris,12/29/2023,4272.97,Rent,POS,Port Harcourt
+TXN1226,Robert Harris,7/26/2023,1824.7,Health,POS,Ibadan
+TXN1227,James Taylor,16/04/2024,432.92,Groceries,Cash,Lagos
+TXN1228,Patricia Thomas,9/11/2023,3082.03,Entertainment,Card,Kano
+TXN1229,James Jackson,14/04/2024,1680.67,Shopping,POS,Port Harcourt
+TXN1230,William Jackson,29/01/2024,4916.19,Transport,POS,Ibadan
+TXN1231,Mary Thomas,28/01/2024,2909.9,Health,Transfer,Abuja
+TXN1232,Michael Thomas,5/1/2023,1253.11,Transport,Cash,Lagos
+TXN1233,Michael Anderson,6/11/2023,26.22,Rent,,Abuja
+TXN1234,John Anderson,4/6/2024,2277.36,Rent,Card,Ibadan
+TXN1235,Jennifer Johnson,5/2/2023,2422.11,Dining,POS,Lagos
+TXN1236,Linda Brown,5/25/2023,154.21,Entertainment,Cash,Port Harcourt
+TXN1237,William Martin,27/08/2023,416.45,Transport,POS,Lagos
+TXN1238,Jennifer Brown,2/23/2024,51.84,Transport,POS,Ibadan
+TXN1239,William White,12/9/2023,2678.68,Transport,POS,Ibadan
+TXN1240,William Harris,25/04/2023,1137.91,Utilities,Cash,Kano
+TXN1241,Jennifer Taylor,19/06/2024,2282.04,Utilities,Transfer,Ibadan
+TXN1242,Jennifer Harris,3/8/2024,1560.66,Rent,POS,Abuja
+TXN1243,Linda Martin,6/1/2024,657.55,Shopping,Cash,Lagos
+TXN1244,Michael Jackson,7/14/2024,4768.68,Transport,Card,Lagos
+TXN1245,James Martin,8/16/2024,4100,Rent,POS,Lagos
+TXN1246,James Brown,9/8/2023,542.08,Rent,POS,Abuja
+TXN1247,James White,1/18/2023,741.55,Rent,Cash,Lagos
+TXN1248,Michael Thomas,10/30/2023,2142.56,Transport,Card,Kano
+TXN1249,James Harris,13/08/2024,3637.36,Health,Transfer,Lagos
+TXN1250,Linda Thomas,7/10/2023,4503.75,Dining,Cash,Kano
+TXN1251,Robert Thomas,11/15/2023,2464.88,Groceries,POS,Abuja
+TXN1252,Mary Thomas,1/2/2023,249.29,Groceries,Card,Ibadan
+TXN1253,William Johnson,31/05/2024,3106.63,Transport,Cash,Lagos
+TXN1254,Michael Taylor,3/26/2023,2443.51,Groceries,Transfer,Kano
+TXN1255,John White,1/2/2024,947.4,Groceries,Transfer,Port Harcourt
+TXN1256,John Brown,1/8/2023,688.32,Rent,Transfer,Abuja
+TXN1257,Patricia White,1/24/2024,1900.43,Transport,POS,Abuja
+TXN1258,Patricia Martin,6/11/2023,4681.28,Dining,Card,Kano
+TXN1259,Michael Anderson,3/14/2023,2203.05,Groceries,Transfer,Lagos
+TXN1260,Michael Jackson,20/08/2023,3984.94,Health,Card,Ibadan
+TXN1261,Linda Taylor,25/01/2023,3988.86,Transport,Cash,Kano
+TXN1262,William Jackson,10/21/2023,3466.77,Utilities,POS,Kano
+TXN1263,John White,5/4/2023,1269.48,Groceries,Transfer,Abuja
+TXN1264,James Anderson,4/6/2024,2265.22,Groceries,Card,Kano
+TXN1265,Linda Thomas,8/21/2023,3069.35,Dining,Transfer,Port Harcourt
+TXN1266,Patricia Jackson,1/31/2024,2336.55,Shopping,Transfer,Kano
+TXN1267,Mary White,30/09/2023,1271.36,Dining,Card,Port Harcourt
+TXN1268,William Brown,12/27/2023,3113.42,Utilities,Transfer,Port Harcourt
+TXN1269,William Thomas,2/15/2023,2112.83,Groceries,POS,Lagos
+TXN1270,Robert Thomas,4/17/2023,4185.66,Utilities,Cash,Ibadan
+TXN1271,Jennifer Taylor,3/30/2023,1606.23,Rent,,Ibadan
+TXN1272,Mary Smith,3/28/2023,366.94,Health,POS,Port Harcourt
+TXN1273,Robert Jackson,7/31/2024,1676.77,Shopping,Cash,Abuja
+TXN1274,Linda Martin,15/12/2023,2142.49,Transport,Cash,Ibadan
+TXN1275,Mary Smith,1/17/2024,1609.38,Utilities,Transfer,Kano
+TXN1276,William Harris,14/07/2023,1425.72,Transport,Transfer,Abuja
+TXN1277,Robert Johnson,9/30/2023,2787.24,Utilities,,Lagos
+TXN1278,Patricia Brown,10/3/2023,4218.88,Utilities,POS,Ibadan
+TXN1279,Linda Johnson,1/29/2024,3986.28,Utilities,Transfer,Port Harcourt
+TXN1280,James Martin,6/26/2024,4339.2,Health,POS,Port Harcourt
+TXN1281,William Martin,8/12/2023,1507.09,Dining,Cash,Lagos
+TXN1282,Michael White,6/1/2023,1607.43,Transport,Card,Lagos
+TXN1283,Jennifer Brown,4/14/2023,1502.47,Dining,Card,Abuja
+TXN1284,Elizabeth Thomas,9/3/2023,4896.84,Health,Cash,Port Harcourt
+TXN1285,Linda Taylor,17/05/2023,3938.92,Health,Card,Port Harcourt
+TXN1286,Michael Smith,2/7/2023,2129.56,Dining,Transfer,Lagos
+TXN1287,James Jackson,7/6/2023,5.27,Utilities,Cash,Ibadan
+TXN1288,Mary Taylor,24/03/2024,306.34,Dining,Card,Abuja
+TXN1289,James Taylor,12/4/2024,4676.63,Dining,Card,Port Harcourt
+TXN1290,Jennifer Jackson,30/06/2023,3144.7,Transport,Cash,Port Harcourt
+TXN1291,John Harris,5/23/2023,4818.94,Groceries,Transfer,Lagos
+TXN1292,James Jackson,9/22/2023,2683.76,Groceries,Card,Kano
+TXN1293,Robert Thomas,3/3/2024,4376.51,Entertainment,POS,Lagos
+TXN1294,Mary Smith,10/30/2023,1613.2,Health,Transfer,Abuja
+TXN1295,Mary Martin,4/3/2024,2398.53,Transport,POS,Kano
+TXN1296,Linda Brown,5/13/2023,3156.6,Health,POS,Lagos
+TXN1297,Michael White,12/18/2023,4131.95,Groceries,Card,Lagos
+TXN1298,Michael Anderson,3/17/2023,3702.49,Entertainment,Transfer,Port Harcourt
+TXN1299,Elizabeth Johnson,5/29/2024,3032.15,Entertainment,Card,Abuja
+TXN1300,Elizabeth Jackson,6/13/2024,4778.2,Shopping,POS,Abuja
+TXN1301,Patricia Johnson,18/01/2023,4046.22,Groceries,,Port Harcourt
+TXN1302,Michael Taylor,2/18/2024,3796.52,Shopping,Transfer,Port Harcourt
+TXN1303,William Smith,4/26/2024,1225.68,,POS,Port Harcourt
+TXN1304,William Johnson,6/15/2023,106.93,,Cash,Kano
+TXN1305,James Taylor,2/13/2023,4186.21,Groceries,Card,Ibadan
+TXN1306,Patricia Harris,5/13/2023,4950.72,Shopping,POS,Lagos
+TXN1307,Michael Jackson,7/29/2024,3804.83,Groceries,Cash,Port Harcourt
+TXN1308,Patricia Thomas,3/16/2023,769.71,Groceries,,Port Harcourt
+TXN1309,Elizabeth Smith,10/13/2023,1388.98,Health,Cash,Ibadan
+TXN1310,Mary Martin,5/8/2023,3305.15,Rent,Card,Port Harcourt
+TXN1311,Elizabeth Thomas,8/1/2023,633.67,Utilities,Transfer,Lagos
+TXN1312,Robert Anderson,28/03/2024,269.2,Utilities,Transfer,Kano
+TXN1313,Patricia Brown,7/10/2023,468.54,Transport,Card,Ibadan
+TXN1314,Robert Jackson,10/5/2023,1005.91,Rent,POS,Port Harcourt
+TXN1315,James Harris,17/07/2023,3818.66,Transport,POS,Kano
+TXN1316,Elizabeth Taylor,8/18/2023,3761.77,Dining,Cash,Port Harcourt
+TXN1317,Patricia Johnson,5/16/2024,3515.93,Health,POS,Ibadan
+TXN1318,Linda Jackson,4/12/2023,1331.14,Groceries,Card,Port Harcourt
+TXN1319,Elizabeth Johnson,9/3/2023,4247.45,Health,Transfer,Abuja
+TXN1320,James Anderson,23/12/2023,1331,Dining,Transfer,Lagos
+TXN1321,Jennifer Brown,2/9/2023,276.89,Transport,Cash,Port Harcourt
+TXN1322,Elizabeth Anderson,4/28/2023,1212.57,Shopping,Cash,Kano
+TXN1323,Elizabeth Jackson,9/1/2024,3090.79,Groceries,Transfer,Port Harcourt
+TXN1324,Michael Thomas,8/21/2024,489.97,Groceries,Transfer,Ibadan
+TXN1325,Patricia Johnson,3/30/2023,1638.78,Rent,,Ibadan
+TXN1326,William Martin,12/2/2023,1548.75,Rent,Cash,Kano
+TXN1327,Linda Johnson,31/05/2024,4116.78,Transport,Cash,Ibadan
+TXN1328,Jennifer Taylor,1/12/2023,2880.16,Shopping,Card,Port Harcourt
+TXN1329,Mary Smith,8/3/2024,2647.3,Entertainment,Cash,Port Harcourt
+TXN1330,James Harris,4/24/2023,1265.27,Entertainment,Cash,Kano
+TXN1331,Linda Taylor,6/10/2023,1732.63,,Transfer,Kano
+TXN1332,Robert White,28/03/2023,3194.4,Entertainment,Card,Port Harcourt
+TXN1333,Mary Smith,2/6/2023,3479.83,Transport,Cash,Ibadan
+TXN1334,Robert White,2/10/2024,283.77,Transport,Card,Ibadan
+TXN1335,John Taylor,7/22/2024,2826.5,Groceries,POS,Lagos
+TXN1336,James Brown,8/2/2024,3879.54,Rent,POS,Kano
+TXN1337,Jennifer Thomas,7/2/2024,2345.97,Health,Transfer,Lagos
+TXN1338,William Taylor,5/5/2024,3256.18,Rent,POS,Kano
+TXN1339,Jennifer Thomas,6/23/2024,1161.1,Entertainment,Cash,Port Harcourt
+TXN1340,Patricia Martin,16/01/2024,170.99,Transport,POS,Ibadan
+TXN1341,Michael Taylor,6/2/2023,1192.01,Shopping,Card,Kano
+TXN1342,Jennifer White,5/26/2023,584.63,Utilities,Transfer,Abuja
+TXN1343,Jennifer Martin,24/01/2023,2594.22,Dining,Cash,Lagos
+TXN1344,Patricia White,12/4/2024,2914.07,Shopping,POS,Port Harcourt
+TXN1345,Robert Thomas,22/03/2024,1823.14,Dining,Transfer,Kano
+TXN1346,Elizabeth Johnson,3/17/2023,1440.81,Rent,Card,Kano
+TXN1347,Michael White,10/28/2023,4033.58,Groceries,Cash,Ibadan
+TXN1348,John Jackson,10/9/2023,755.22,,Cash,Abuja
+TXN1349,Mary Johnson,1/23/2024,1280.61,Utilities,POS,Abuja
+TXN1350,John Martin,9/14/2023,1194.85,Utilities,Cash,Abuja
+TXN1351,Patricia White,20/03/2023,1716.08,Utilities,Card,Ibadan
+TXN1352,Patricia Taylor,1/19/2023,1868.98,,POS,Kano
+TXN1353,Mary White,25/10/2023,3368.2,Dining,,Kano
+TXN1354,Robert Martin,3/30/2023,1907.05,Transport,Transfer,Port Harcourt
+TXN1355,John White,5/8/2023,307.29,Shopping,POS,Ibadan
+TXN1356,John White,3/19/2023,3437.18,Transport,Cash,Kano
+TXN1357,Elizabeth Thomas,4/6/2023,3182.18,Groceries,Card,Lagos
+TXN1358,Robert Martin,5/28/2023,3974.56,Rent,Card,Port Harcourt
+TXN1359,William Jackson,8/17/2024,950.86,Groceries,POS,Ibadan
+TXN1360,Robert Jackson,14/05/2023,845.75,Groceries,Card,Abuja
+TXN1361,Elizabeth Brown,2/6/2023,1382.67,Utilities,POS,Abuja
+TXN1362,Linda Martin,5/1/2024,3526.64,Shopping,Transfer,Ibadan
+TXN1363,John White,31/03/2024,4104.06,Rent,Cash,Abuja
+TXN1364,William Taylor,1/11/2023,4674.1,,Transfer,Lagos
+TXN1365,William Harris,8/5/2023,4173.66,Health,Transfer,Abuja
+TXN1366,Michael Brown,11/5/2023,2127.49,Transport,Card,Ibadan
+TXN1367,William Harris,9/21/2023,3102.38,Utilities,Card,Port Harcourt
+TXN1368,Robert Harris,6/14/2023,4787.4,Transport,POS,Kano
+TXN1369,Mary White,12/22/2023,200.7,Rent,Card,Kano
+TXN1370,John Smith,8/2/2024,620.62,Groceries,POS,Kano
+TXN1371,Patricia Jackson,26/02/2023,2700.1,Utilities,Card,Ibadan
+TXN1372,Robert Smith,11/15/2023,189.41,Shopping,Transfer,Port Harcourt
+TXN1373,James Harris,19/03/2024,3761.77,Health,Transfer,Kano
+TXN1374,Jennifer Taylor,7/9/2024,249.94,Utilities,POS,Ibadan
+TXN1375,John Jackson,14/08/2024,4608.36,Groceries,Card,Abuja
+TXN1376,Linda White,2/2/2024,2717.92,Health,POS,Lagos
+TXN1377,James Jackson,6/15/2023,2206.25,Shopping,Card,Ibadan
+TXN1378,Patricia White,9/14/2023,4440.23,Health,Cash,Ibadan
+TXN1379,Linda Smith,11/26/2023,4195.03,Groceries,Transfer,Ibadan
+TXN1380,Mary Smith,2/5/2023,1258.94,Shopping,Card,Ibadan
+TXN1381,James Brown,9/5/2023,298,Transport,POS,Ibadan
+TXN1382,Elizabeth Anderson,24/03/2024,4486.96,Health,Transfer,Lagos
+TXN1383,Elizabeth Jackson,25/03/2024,3046.15,Transport,,Port Harcourt
+TXN1384,Michael Smith,7/22/2023,4130.47,Health,Card,Port Harcourt
+TXN1385,Linda Harris,10/4/2024,2352.51,Entertainment,,Lagos
+TXN1386,Linda White,27/12/2023,82.81,Health,Card,Ibadan
+TXN1387,Elizabeth Martin,12/17/2023,4529.3,Health,Card,Ibadan
+TXN1388,Elizabeth Brown,1/10/2023,1735.73,Health,Transfer,Abuja
+TXN1389,Linda Taylor,2/18/2024,165.27,Utilities,Transfer,Kano
+TXN1390,Elizabeth Johnson,10/9/2023,2326.84,Utilities,Card,Lagos
+TXN1391,Mary Brown,1/17/2024,1031.76,Transport,POS,Lagos
+TXN1392,Michael Johnson,21/01/2024,2214.28,Transport,POS,Port Harcourt
+TXN1393,John Taylor,3/6/2023,4218.74,Utilities,Cash,Abuja
+TXN1394,John Taylor,29/07/2024,4872.83,Utilities,Cash,Port Harcourt
+TXN1395,Mary Johnson,5/8/2024,2040.66,Groceries,POS,Port Harcourt
+TXN1396,Patricia Martin,7/15/2023,3216.26,Groceries,,Kano
+TXN1397,Michael White,1/1/2024,1144.08,Shopping,Card,Port Harcourt
+TXN1398,Robert Jackson,5/6/2024,3765.28,Dining,Card,Abuja
+TXN1399,Robert Thomas,2/26/2024,4596.96,Groceries,Card,Lagos
+TXN1400,Patricia Martin,12/4/2023,1614.17,Entertainment,POS,Kano
+TXN1401,John Thomas,10/29/2023,3732.28,,,Port Harcourt
+TXN1402,William Taylor,28/03/2024,3998.44,Dining,Card,Kano
+TXN1403,Elizabeth White,4/18/2023,2495.58,Groceries,POS,Lagos
+TXN1404,Michael Thomas,17/06/2024,979.3,Shopping,Transfer,Abuja
+TXN1405,Linda Anderson,24/08/2023,2462.9,Rent,Cash,Abuja
+TXN1406,John Anderson,5/3/2024,2040.48,Health,Card,Lagos
+TXN1407,John Johnson,5/4/2023,3632.28,,Transfer,Kano
+TXN1408,Robert Jackson,3/29/2024,2242.39,Health,Card,Lagos
+TXN1409,Linda Anderson,2/26/2024,3718.52,Groceries,POS,Abuja
+TXN1410,Robert Johnson,16/05/2024,3704.7,Shopping,POS,Ibadan
+TXN1411,Robert White,22/02/2023,2945.47,Dining,Card,Ibadan
+TXN1412,Mary Brown,21/03/2024,4630.19,Transport,POS,Ibadan
+TXN1413,Michael Smith,11/12/2023,401.98,Transport,Card,Lagos
+TXN1414,Elizabeth Thomas,14/04/2024,4195.17,Groceries,POS,Ibadan
+TXN1415,James Smith,3/8/2023,3567.36,,Transfer,Ibadan
+TXN1416,Elizabeth Johnson,3/3/2023,3475.56,Health,Card,Kano
+TXN1417,William Anderson,2/13/2024,1450.89,Groceries,Transfer,Lagos
+TXN1418,John Smith,6/8/2023,3049.84,Dining,Transfer,Ibadan
+TXN1419,John Anderson,10/16/2023,3384.26,Entertainment,Cash,Lagos
+TXN1420,Jennifer Martin,27/03/2023,933.25,Transport,Card,Lagos
+TXN1421,William White,8/5/2024,2088.13,Entertainment,Cash,Abuja
+TXN1422,Linda Anderson,31/07/2023,347.21,,Card,Kano
+TXN1423,John Smith,6/27/2023,3797.25,Transport,Cash,Kano
+TXN1424,Linda Taylor,19/03/2024,4583.22,Dining,Transfer,Ibadan
+TXN1425,Patricia Brown,9/6/2023,3005.18,Utilities,Transfer,Lagos
+TXN1426,Michael Brown,2/27/2024,1515.04,Shopping,Transfer,Abuja
+TXN1427,Patricia Harris,2/19/2023,3472.4,Entertainment,,Ibadan
+TXN1428,Robert Jackson,10/10/2023,4991.96,,POS,Port Harcourt
+TXN1429,William Anderson,2/2/2023,1444.45,Rent,Transfer,Lagos
+TXN1430,Mary Anderson,5/8/2024,2227.81,Groceries,Transfer,Port Harcourt
+TXN1431,James Martin,3/29/2024,2534.91,Shopping,Cash,Ibadan
+TXN1432,William Martin,5/1/2023,4362.01,Groceries,Transfer,Kano
+TXN1433,William Smith,3/31/2023,1007.49,Utilities,POS,Ibadan
+TXN1434,Patricia White,8/23/2023,3932.95,Rent,POS,Abuja
+TXN1435,Michael Anderson,7/11/2023,1888.18,Utilities,POS,Kano
+TXN1436,Mary Harris,1/5/2023,2121.22,Utilities,Card,Lagos
+TXN1437,Linda Thomas,15/06/2024,1038.32,Utilities,POS,Ibadan
+TXN1438,Elizabeth Johnson,3/28/2023,97.29,Shopping,Transfer,Abuja
+TXN1439,Patricia Brown,5/6/2024,1776.31,Dining,POS,Abuja
+TXN1440,Robert Taylor,5/24/2024,4855.99,Transport,Card,Lagos
+TXN1441,William Taylor,2/18/2023,624.46,Groceries,POS,Abuja
+TXN1442,Linda Johnson,1/4/2023,2262.15,Transport,Cash,Lagos
+TXN1443,James Taylor,3/3/2023,4338.48,,Card,Lagos
+TXN1444,John Brown,7/25/2024,4078.9,Health,Cash,Abuja
+TXN1445,Patricia Martin,7/12/2024,4149.63,Health,,Lagos
+TXN1446,Michael Brown,10/9/2023,4783.34,Entertainment,Transfer,Ibadan
+TXN1447,Linda Harris,27/07/2024,2915.03,Shopping,Card,Abuja
+TXN1448,John Taylor,19/02/2023,4698.49,Health,Transfer,Kano
+TXN1449,Jennifer Brown,9/16/2023,1919.8,Transport,Transfer,Port Harcourt
+TXN1450,John Brown,7/6/2024,1197.81,Shopping,Cash,Ibadan
+TXN1451,Mary Thomas,7/12/2024,768.49,Utilities,Card,Port Harcourt
+TXN1452,John Jackson,7/30/2024,3774.38,Shopping,Card,Port Harcourt
+TXN1453,Robert White,7/12/2023,2157.86,Transport,Transfer,Port Harcourt
+TXN1454,William Anderson,5/10/2023,2407.18,Transport,Transfer,Port Harcourt
+TXN1455,Patricia Martin,20/06/2023,4677.46,Dining,Cash,Ibadan
+TXN1456,James Jackson,4/1/2023,4664.37,Transport,Cash,Kano
+TXN1457,Jennifer Martin,9/6/2024,4653.78,Health,Cash,Port Harcourt
+TXN1458,James Anderson,6/2/2024,4538.8,Health,POS,Abuja
+TXN1459,Michael Johnson,9/16/2023,1286.93,Rent,Transfer,Port Harcourt
+TXN1460,Robert Thomas,3/21/2024,4532.31,Shopping,Card,Ibadan
+TXN1461,James Brown,5/21/2024,868.4,Shopping,POS,Lagos
+TXN1462,James Smith,12/10/2023,1025.34,Utilities,POS,Kano
+TXN1463,John Brown,11/14/2023,2870.38,Transport,Cash,Ibadan
+TXN1464,James Martin,4/21/2023,1552.86,Dining,Card,Abuja
+TXN1465,Robert Brown,2/8/2023,3876.62,Groceries,Transfer,Port Harcourt
+TXN1466,John Brown,3/19/2024,857.63,Dining,Transfer,Kano
+TXN1467,Patricia Jackson,17/05/2024,687.73,Entertainment,Card,Kano
+TXN1468,John White,5/12/2023,1430.38,Transport,POS,Port Harcourt
+TXN1469,Linda Jackson,24/09/2023,1230.61,Groceries,POS,Kano
+TXN1470,Elizabeth White,6/4/2023,801.66,Entertainment,Card,Lagos
+TXN1471,James Anderson,1/17/2023,4831.46,Groceries,Card,Abuja
+TXN1472,James Jackson,1/31/2024,3603.87,Shopping,POS,Ibadan
+TXN1473,James Martin,20/07/2024,82,Groceries,,Kano
+TXN1474,Elizabeth Taylor,29/04/2024,1917.17,Rent,POS,Lagos
+TXN1475,James Johnson,9/8/2023,4172.09,Transport,Cash,Lagos
+TXN1476,Jennifer Anderson,5/5/2023,2286.86,Groceries,Card,Lagos
+TXN1477,Linda Taylor,3/11/2023,2372.42,Health,Cash,Abuja
+TXN1478,Mary Taylor,8/19/2023,3871.41,Utilities,Card,Abuja
+TXN1479,William Taylor,18/08/2023,4454.97,Health,Cash,Abuja
+TXN1480,Jennifer Thomas,7/28/2023,3464.65,Health,Transfer,Ibadan
+TXN1481,James Brown,18/11/2023,1323.55,Groceries,Card,Port Harcourt
+TXN1482,William Smith,15/02/2023,88.34,Dining,Card,Kano
+TXN1483,Robert Thomas,8/8/2023,3205.41,Rent,POS,Kano
+TXN1484,Mary White,5/30/2024,1129.79,,POS,Lagos
+TXN1485,Linda White,1/6/2023,4768.1,Dining,Transfer,Ibadan
+TXN1486,Elizabeth Johnson,3/29/2024,1368.17,Health,Transfer,Lagos
+TXN1487,Jennifer Martin,8/17/2023,3270.87,Utilities,Card,Lagos
+TXN1488,James Smith,1/7/2023,1271.62,Health,Card,Lagos
+TXN1489,John Jackson,27/05/2024,3542.43,Groceries,Card,Port Harcourt
+TXN1490,Patricia Jackson,5/20/2023,2793.1,Transport,Transfer,Kano
+TXN1491,Robert Brown,2/12/2024,1804.39,Transport,,Lagos
+TXN1492,Patricia Harris,6/28/2024,2506.87,Health,Cash,Kano
+TXN1493,Robert White,11/27/2023,2245.82,Health,Cash,Lagos
+TXN1494,Mary White,4/13/2024,315.01,Transport,Cash,Lagos
+TXN1495,Linda Smith,11/20/2023,1291.21,Utilities,Cash,Ibadan
+TXN1496,Linda Thomas,3/10/2023,2141.06,,Transfer,Kano
+TXN1497,Linda Harris,19/12/2023,4249.53,Transport,,Lagos
+TXN1498,Michael White,6/20/2023,2156.38,Rent,POS,Abuja
+TXN1499,James Brown,17/09/2023,1207.29,,Cash,Port Harcourt
