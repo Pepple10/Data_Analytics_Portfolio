@@ -1,0 +1,501 @@
+Customer_Name,Email,Age,City,Product_Category,Purchase_Amount,Purchase_Date,Marketing_Channel,Response,Month,Age_Group,High_value_customer
+Sarah Howard,Xbrooks@Example.Com,24,Unknown,Electronics,636.79,10/2/2026,Social Media,No,February,18-25,Yes
+Tracey Davis,Timothypage@Example.Net,50,Unknown,Apparel,838.47,6/10/2025,Ads,Yes,October,36-50,Yes
+Teresa Barron,Ronald03@Example.Net,,Unknown,Apparel,190.15,8/12/2025,Social Media,Yes,December,18-25,No
+Teresa Merritt,Zcline @ Example.Org,18,Unknown,Electronics,221.44,12/26/2025,Email,No,December,18-25,No
+Christopher Bailey,Lynchbonnie@Example.Net,49,North Christopherborough,Electronics,213,1/22/2026,Email,No,January,36-50,No
+Zachary Salazar,Lancelopez@Example.Com,24,Unknown,Electronics,504.31,11/23/2025,Sms,Yes,November,18-25,Yes
+Timothy Alvarez,Kirk78@Example.Org,24,Unknown,Beauty,678.26,10/25/2025,Social Media,No,October,18-25,Yes
+Carol Boyd,Valerie94@Example.Com,42,Unknown,Beauty,900.07,2/16/2026,Sms,No,February,36-50,Yes
+Matthew Aguilar,Annette04@Example.Org,47,Unknown,Sports,861.13,10/10/2025,Social Media,Yes,October,36-50,Yes
+Samuel Lindsey,Pamelastanton@Example.Org,20,Unknown,Apparel,924.03,2/1/2026,Social Media,Yes,January,18-25,Yes
+Brittany Scott,K@ieross@Example.Net,53,Unknown,Electronics,936.38,10/28/2025,Ads,No,October,50+,Yes
+Tracy Farmer,Tiffany11@Example.Com,39,Vargaschester,Beauty,827.18,6/10/2025,Social Media,No,October,36-50,Yes
+Christopher Olson,Alan11@Example.Com,53,Unknown,Beauty,469.26,11/11/2025,Ads,Yes,November,50+,No
+Paul Jones,Campbelljames@Example.Com,40,Unknown,Beauty,470.39,1/20/2026,Ads,No,January,36-50,No
+Brenda Kim,Shawgarrett@Example.Com,21,East Anthony,Sports,420.27,12/25/2025,Social Media,No,December,18-25,No
+Brandy Vargas,Jakeevans@Example.Com,39,Unknown,Apparel,97.55,10/2/2026,Email,Yes,February,36-50,No
+Elizabeth Berry,Bakermartha@Example.Org,51,Unknown,Beauty,949.24,1/28/2026,Sms,Yes,January,50+,Yes
+Ashley Wilson,Candicelove@Example.Net,41,Unknown,Beauty,644.61,10/26/2025,Ads,No,October,36-50,Yes
+Adrian Wolf,Trevinok@hy@Example.Net,,Unknown,Electronics,334.49,10/25/2025,Ads,Yes,October,18-25,No
+Michael Miller,Sheltonjames@Example.Com,18,Unknown,Electronics,755.68,3/10/2025,Social Media,Yes,October,18-25,Yes
+Natalie Edwards,Jennifer92@Example.Org,46,Josephville,Apparel,28.54,11/23/2025,Email,No,November,36-50,No
+John Torres,Mooreelizabeth@Example.Com,57,Rodriguezberg,Beauty,781.11,8/11/2025,Sms,Yes,November,50+,Yes
+Pamela Diaz,Wpowers@Example.Net,64,Unknown,Apparel,374.04,8/3/2026,Social Media,No,March,50+,No
+Robert Morgan,Rodriguezmeghan@Example.Com,21,Unknown,Sports,853.66,12/22/2025,Ads,Yes,December,18-25,Yes
+Abigail Warner,Michael46@Example.Net,32,Unknown,Apparel,342.69,11/16/2025,Sms,Yes,November,26-35,No
+Ronald Jennings,Adamswilliam@Example.Org,27,New Michael,Electronics,711.18,4/12/2025,Sms,Yes,December,26-35,Yes
+William Crawford,Nicholas07@Example.Com,37,Unknown,Apparel,527.16,11/19/2025,Ads,No,November,36-50,Yes
+Douglas Martinez,Scottryan@Example.Com,56,Unknown,Electronics,238.78,10/19/2025,Ads,Yes,October,50+,No
+Elizabeth Adams,Sweeneyrobert@Example.Net,38,Ericahaven,Electronics,406.65,3/18/2026,Email,Yes,March,36-50,No
+Jennifer Benjamin,Hillvanessa@Example.Org,29,Unknown,Apparel,953.02,4/3/2026,Email,No,March,26-35,Yes
+Joel Singleton,Ocrawford@Example.Net,63,Unknown,Beauty,727.16,5/1/2026,Sms,No,January,50+,Yes
+Cynthia Hardin,Rebeccablair@Example.Com,34,Unknown,Sports,102.77,1/25/2026,Sms,Yes,January,26-35,No
+Janice Carter,Timothycarpenter@Example.Org,41,Unknown,Beauty,315.36,1/10/2025,Social Media,No,October,36-50,No
+Jessica Gordon,Thooper@Example.Net,64,Unknown,Beauty,777.72,8/10/2025,Sms,Yes,October,50+,Yes
+John Briggs,Millschristopher@Example.Com,46,Unknown,Beauty,19.06,6/12/2025,Social Media,Yes,December,36-50,No
+Leslie Torres,Fbooth@Example.Org,48,Patriciafort,Beauty,192.96,2/19/2026,Email,No,February,36-50,No
+Bryan Serrano,Holly92@Example.Net,61,Chungtown,Apparel,554.63,5/3/2026,Social Media,Yes,March,50+,Yes
+Austin Giles,Johncunningham@Example.Net,65,Unknown,Beauty,898.91,3/18/2026,Social Media,Yes,March,50+,Yes
+Jessica Miranda,Garciaeric@Example.Net,39,Unknown,Apparel,373.98,12/28/2025,Email,Yes,December,36-50,No
+Brian Gomez,Jessica90@Example.Org,54,Unknown,Beauty,50.41,9/27/2025,Social Media,Yes,September,50+,No
+Shane Hernandez,Andrew00@Example.Org,20,Unknown,Electronics,552.76,12/19/2025,Social Media,Yes,December,18-25,Yes
+Tonya Cantu,Stevenprice@Example.Net,47,Unknown,Apparel,502.68,2/2/2026,Email,No,February,36-50,Yes
+Michelle Hardy,Scottclements @ Example.Net,25,Unknown,Apparel,889.73,2/19/2026,Email,No,February,18-25,Yes
+Caitlin Ramsey,Henry28@Example.Com,,Stevenville,Beauty,515.46,11/24/2025,Email,No,November,18-25,Yes
+Dennis Sanford,Jenniferjohnson@Example.Org,47,Unknown,Sports,537,4/3/2026,Email,Yes,March,36-50,Yes
+Tiffany Terry,Awebb@Example.Net,19,Unknown,Beauty,179.56,9/22/2025,Sms,No,September,18-25,No
+Jessica Dalton,Dscott@Example.Org,31,Adamsborough,Electronics,556.88,12/14/2025,Sms,No,December,26-35,Yes
+Robert Cole,Annflores@Example.Net,30,Unknown,Sports,602.51,2/27/2026,Social Media,Yes,February,26-35,Yes
+Henry Blanchard,Michael65@Example.Com,58,Unknown,Electronics,512.24,5/10/2025,Ads,No,October,50+,Yes
+Nicholas Erickson,Newtonmichael@Example.Net,57,Lake Tiffany,Beauty,934.23,10/22/2025,Social Media,No,October,50+,Yes
+Dr. John Mccann Jr.,Shepherdaustin@Example.Com,56,Unknown,Apparel,951.33,9/28/2025,Sms,No,September,50+,Yes
+Brian Foster,Tyronenunez@Example.Org,59,Unknown,Sports,823.87,2/27/2026,Sms,Yes,February,50+,Yes
+Erin Johnson,Rsolomon@Example.Net,22,Unknown,Apparel,777.82,3/11/2025,Ads,No,November,18-25,Yes
+Kristina Obrien,Millstaylor@Example.Net,61,Unknown,Beauty,651.83,6/1/2026,Social Media,No,January,50+,Yes
+Ryan Lewis,Clarkjamie@Example.Com,31,Unknown,Electronics,461.93,9/27/2025,Sms,No,September,26-35,No
+Teresa Davis,Williamgrant@Example.Org,,Unknown,Sports,787.58,12/26/2025,Ads,No,December,18-25,Yes
+Kyle Bradley Dvm,Masonjames@Example.Net,52,Unknown,Electronics,211.66,3/10/2025,Sms,Yes,October,50+,No
+Beverly White,Robinwelch@Example.Com,38,Unknown,Sports,653.79,1/1/2026,Sms,No,January,36-50,Yes
+Michael Moore,Nmoore@Example.Com,40,East Rubenfort,Sports,57.34,12/17/2025,Email,No,December,36-50,No
+Robert Blackburn,Paul03@Example.Org,52,Lake Tammy,Sports,775.16,1/26/2026,Ads,No,January,50+,Yes
+Ashley Wallace,Ifox@Example.Org,42,Lake Elaineshire,Sports,546.87,3/19/2026,Ads,Yes,March,36-50,Yes
+Jacqueline Ward,Danielle41@Example.Com,53,Unknown,Electronics,200.07,3/17/2026,Email,No,March,50+,No
+William Francis,James88@Example.Com,18,Unknown,Electronics,776.24,11/29/2025,Ads,No,November,18-25,Yes
+Walter Moon,Milesangela@Example.Net,19,Unknown,Electronics,540.35,1/1/2026,Ads,Yes,January,18-25,Yes
+Maria Taylor,Csmith@Example.Net,32,Unknown,Sports,842.23,6/11/2025,Ads,Yes,November,26-35,Yes
+Charles Rodriguez,Courtney65@Example.Org,45,Unknown,Apparel,143.12,11/11/2025,Ads,Yes,November,36-50,No
+Anita Peterson,Stephanie70@Example.Net,32,Unknown,Apparel,174.72,2/26/2026,Email,Yes,February,26-35,No
+Joyce Smith,Lgay@Example.Org,47,Unknown,Beauty,250.24,4/3/2026,Social Media,Yes,March,36-50,No
+Terry Smith,Nhernandez@Example.Net,28,Unknown,Sports,206.92,12/3/2026,Email,Yes,March,26-35,No
+Jo Robbins,Stevensonsarah@Example.Net,28,Unknown,Apparel,839.5,11/27/2025,Ads,Yes,November,26-35,Yes
+Laura Grant,Morandustin@Example.Com,24,Unknown,Beauty,894.65,9/1/2026,Social Media,Yes,January,18-25,Yes
+Kathryn Murray,Benjamin09@Example.Com,25,Unknown,Sports,509.37,10/1/2026,Sms,No,January,18-25,Yes
+Amy Mendoza,Beverlyevans@Example.Com,51,Unknown,Apparel,227.56,10/15/2025,Email,No,October,50+,No
+Elizabeth Gardner,Ochen@Example.Com,39,Unknown,Apparel,772.15,12/21/2025,Ads,No,December,36-50,Yes
+Logan Wade,Jonesgabriella@Example.Com,40,Unknown,Beauty,80.96,2/3/2026,Email,Yes,March,36-50,No
+Michael Adams,Evansmelissa@Example.Org,40,Unknown,Beauty,205.46,2/11/2025,Sms,No,November,36-50,No
+Amber Hernandez,Thomaswilliams@Example.Org,62,Unknown,Electronics,126.77,9/11/2025,Sms,No,November,50+,No
+Veronica Ortiz,Qcastro@Example.Net,57,Kevinmouth,Apparel,692.21,5/12/2025,Ads,No,December,50+,Yes
+Nicholas Lewis,Lindsey06 @ Example.Org,26,Tonyport,Electronics,90.25,2/20/2026,Ads,Yes,February,26-35,No
+Crystal Pena,Robert16@Example.Com,25,Unknown,Apparel,58.78,2/19/2026,Social Media,Yes,February,18-25,No
+Jack Hebert,Adrienne48@Example.Net,61,Unknown,Sports,476.05,6/11/2025,Sms,Yes,November,50+,No
+Kelsey Johnson,Kcarpenter@Example.Com,41,Unknown,Beauty,88.82,12/10/2025,Sms,Yes,October,36-50,No
+Melissa Burke,Vadams@Example.Org,35,Lake William,Apparel,555.06,6/11/2025,Sms,No,November,26-35,Yes
+Brittany Arroyo,Zmendez@Example.Net,57,Unknown,Electronics,914.67,11/21/2025,Ads,Yes,November,50+,Yes
+Christopher Harrison,Nwilliams@Example.Net,57,Unknown,Beauty,696.12,9/27/2025,Email,Yes,September,50+,Yes
+Megan Wagner,Christopher69@Example.Com,28,Unknown,Apparel,199.3,10/11/2025,Sms,No,November,26-35,No
+Anthony Garcia,Christopher40@Example.Org,57,Unknown,Beauty,46.64,2/26/2026,Email,No,February,50+,No
+Thomas Miller,Bmoore@Example.Net,52,South Elizabeth,Beauty,844.17,8/12/2025,Ads,Yes,December,50+,Yes
+Sarah Ballard,Zlopez@Example.Com,22,Unknown,Beauty,162.33,2/14/2026,Ads,No,February,18-25,No
+Daniel Weaver,Jessica24 @ Example.Net,64,Unknown,Sports,11.82,1/31/2026,Email,Yes,January,50+,No
+Laura Vasquez,Wolfgloria@Example.Net,40,Jonathanside,Beauty,372.63,2/28/2026,Social Media,Yes,February,36-50,No
+Stacey Glover,Hschwartz@Example.Com,36,Unknown,Beauty,901.74,10/14/2025,Sms,Yes,October,36-50,Yes
+Kimberly Shelton,Mariajones@Example.Org,39,Unknown,Electronics,94.25,1/12/2025,Social Media,Yes,December,36-50,No
+John Wright,Paul17@Example.Net,49,Unknown,Apparel,981.02,10/28/2025,Sms,No,October,36-50,Yes
+Dominic Ware,Zkelly@Example.Com,49,West Angelica,Sports,494.55,10/11/2025,Social Media,Yes,November,36-50,No
+Marvin Miranda,Ramosleslie@Example.Org,,Unknown,Electronics,437.36,12/3/2026,Social Media,No,March,18-25,No
+Joanne Kline,Dstafford@Example.Net,20,Unknown,Sports,755.64,1/2/2026,Social Media,No,February,18-25,Yes
+Brandon Pennington,Arthur79@Example.Net,65,Unknown,Apparel,420.1,4/10/2025,Sms,No,October,50+,No
+James Trevino,Shanedunlap@Example.Net,48,Lake Susan,Apparel,884.52,4/11/2025,Sms,Yes,November,36-50,Yes
+Mr. Timothy Gibbs,Jonesdonna@Example.Com,40,Unknown,Electronics,527.61,1/31/2026,Sms,Yes,January,36-50,Yes
+Diane Sellers,Zsanders@Example.Net,35,Unknown,Apparel,528.54,9/26/2025,Sms,Yes,September,26-35,Yes
+Matthew Evans,Christopher70@Example.Net,48,Unknown,Apparel,41.5,8/2/2026,Sms,No,February,36-50,No
+Larry Pugh,Ann36@Example.Net,54,Unknown,Sports,836.03,7/11/2025,Ads,Yes,November,50+,Yes
+Maureen Burns,Gcortez@Example.Net,25,Unknown,Electronics,203.32,7/1/2026,Ads,No,January,18-25,No
+Elizabeth Bass,Amy05@Example.Net,24,Unknown,Sports,185.86,2/24/2026,Sms,Yes,February,18-25,No
+Danielle Larson,Meganturner@Example.Org,24,Unknown,Sports,135.74,11/18/2025,Social Media,No,November,18-25,No
+Anna Turner,Ap@el@Example.Net,,Unknown,Electronics,450.41,9/25/2025,Social Media,No,September,18-25,No
+Stephanie Franklin,Kimberly86@Example.Com,52,Unknown,Electronics,338.17,3/11/2025,Ads,No,November,50+,No
+Rachel Williams,Williamstimothy@Example.Org,54,Unknown,Electronics,985.81,4/3/2026,Social Media,Yes,March,50+,Yes
+Derek Schmitt,Ramirezjuan@Example.Com,23,Unknown,Electronics,632.05,4/3/2026,Ads,Yes,March,18-25,Yes
+Janice Hensley,Donna17 @ Example.Net,56,Unknown,Electronics,692.21,3/20/2026,Sms,Yes,March,50+,Yes
+Zachary Clark,Twilson@Example.Net,43,Unknown,Beauty,364.86,12/23/2025,Social Media,Yes,December,36-50,No
+Alex Hall,Leblancanthony@Example.Net,47,Unknown,Electronics,871.52,10/19/2025,Social Media,No,October,36-50,Yes
+Madison Mack,Millerangela@Example.Net,31,Unknown,Beauty,379.88,10/28/2025,Social Media,Yes,October,26-35,No
+Lauren Hill,Bobby39@Example.Net,36,Unknown,Sports,33.96,8/1/2026,Sms,Yes,January,36-50,No
+Stephanie Miller,Seanhoward@Example.Com,21,Unknown,Apparel,286.03,12/28/2025,Ads,Yes,December,18-25,No
+Chad Quinn,Kevin90@Example.Com,24,Unknown,Beauty,971.44,11/12/2025,Email,Yes,December,18-25,Yes
+Sarah Gordon,Michael81@Example.Org,45,Unknown,Electronics,545.55,12/3/2026,Email,No,March,36-50,Yes
+Daniel Jenkins,Shawnfisher@Example.Net,24,East Scott,Sports,772.29,11/3/2026,Social Media,Yes,March,18-25,Yes
+Cynthia Morgan,Chloemcclain@Example.Net,61,Unknown,Sports,919.83,2/3/2026,Sms,Yes,March,50+,Yes
+Christine Lewis,Leslie15@Example.Org,,Unknown,Beauty,585.91,1/18/2026,Email,No,January,18-25,Yes
+Dana Cooper,Marcus26@Example.Net,22,Unknown,Apparel,367.96,9/23/2025,Ads,No,September,18-25,No
+Paula Russell,Kellyfranklin@Example.Org,32,Unknown,Beauty,302.47,2/3/2026,Ads,No,March,26-35,No
+Stephanie Sanchez,Christinestone@Example.Com,50,Charlesbury,Sports,898.46,11/1/2026,Email,Yes,January,36-50,Yes
+John Watson,Kyle03@Example.Org,22,Unknown,Electronics,288.29,1/28/2026,Sms,Yes,January,18-25,No
+Dennis Shaw,Megancarroll@Example.Net,58,Unknown,Beauty,413.99,11/28/2025,Ads,No,November,50+,No
+Amanda Sanders,Dylan44@Example.Com,39,Bushberg,Sports,367.74,10/21/2025,Ads,No,October,36-50,No
+Anthony Rodriguez,Lindsayalexander@Example.Org,32,Unknown,Sports,651.34,2/16/2026,Email,Yes,February,26-35,Yes
+Shelly Michael,Joseph14@Example.Org,22,Carolynton,Electronics,839.61,10/12/2025,Email,Yes,December,18-25,Yes
+Debbie Williams,Grayedward@Example.Com,,West Louisview,Beauty,326.45,6/12/2025,Sms,Yes,December,18-25,No
+Whitney Boyd,Morenoann@Example.Com,27,Unknown,Apparel,635.9,10/21/2025,Email,Yes,October,26-35,Yes
+Cynthia Williamson,Kendrayoung@Example.Com,62,Unknown,Apparel,771.63,6/2/2026,Social Media,No,February,50+,Yes
+Amber Moore,Sanchezdeborah@Example.Net,37,New Matthew,Sports,767.03,8/11/2025,Ads,No,November,36-50,Yes
+Jacob Odonnell,Kestes@Example.Com,32,Unknown,Electronics,862.19,2/1/2026,Ads,No,January,26-35,Yes
+Stephanie Andrade,Alexandra87@Example.Net,,Unknown,Apparel,60.9,12/3/2026,Ads,Yes,March,18-25,No
+Pamela Lopez,Ryan81@Example.Org,38,East Richardton,Beauty,336.07,9/27/2025,Email,No,September,36-50,No
+Michael Gardner,Dhowell@Example.Net,59,Unknown,Apparel,275.7,12/12/2025,Sms,Yes,December,50+,No
+Gina Garcia,Ilopez@Example.Com,35,Michaelshire,Apparel,52.23,1/22/2026,Email,No,January,26-35,No
+Dakota Russell,Crystal16@Example.Net,24,Unknown,Beauty,88.56,12/26/2025,Sms,Yes,December,18-25,No
+Theresa Park,Bethany82 @ Example.Net,52,Unknown,Sports,807.63,2/28/2026,Social Media,Yes,February,50+,Yes
+Joel Walsh,Spencersabrina@Example.Org,38,Unknown,Beauty,939.91,11/18/2025,Ads,Yes,November,36-50,Yes
+Christopher Hogan,Aliciapeterson@Example.Net,40,Unknown,Sports,503.92,11/20/2025,Ads,Yes,November,36-50,Yes
+Julie Meyer,Hoffmanricardo@Example.Net,,Darrenland,Beauty,866.88,3/22/2026,Email,Yes,March,18-25,Yes
+Kellie Kelly,Marshallalan @ Example.Org,28,Unknown,Apparel,162.03,2/12/2025,Social Media,No,December,26-35,No
+Bryan Beck,Jon@hanhernandez@Example.Com,24,West Danielberg,Beauty,440.65,2/26/2026,Sms,Yes,February,18-25,No
+John Hernandez,Pamela70@Example.Net,56,Unknown,Sports,57.57,11/26/2025,Sms,Yes,November,50+,No
+Robin Murphy,Slyons@Example.Com,,Unknown,Beauty,882.45,11/11/2025,Sms,No,November,18-25,Yes
+Rachel Hale,Csmith@Example.Net,32,Unknown,Beauty,218.3,5/10/2025,Sms,Yes,October,26-35,No
+Mr. Marcus Gonzales,Browngeoffrey@Example.Net,56,Unknown,Beauty,48.98,11/3/2026,Email,No,March,50+,No
+Adrian Ortega,Karinahernandez@Example.Org,61,Unknown,Beauty,828.57,6/12/2025,Email,No,December,50+,Yes
+Stephanie Simon,Keithwilliams@Example.Net,62,Unknown,Apparel,796.97,9/1/2026,Ads,Yes,January,50+,Yes
+Matthew Mills,Moralesdonna@Example.Com,55,Unknown,Electronics,805.95,6/10/2025,Ads,Yes,October,50+,Yes
+Timothy Day,Zmorris@Example.Org,,Unknown,Sports,434.58,10/15/2025,Ads,Yes,October,18-25,No
+Jason Williams,Jessica57@Example.Org,26,Unknown,Beauty,929.28,11/3/2026,Ads,No,March,26-35,Yes
+Daniel Thomas,Daniel22@Example.Com,26,Unknown,Electronics,823.64,12/13/2025,Ads,Yes,December,26-35,Yes
+Jason Willis,Mitchellcrystal@Example.Com,26,Unknown,Apparel,367.01,6/12/2025,Email,No,December,26-35,No
+Gregory Gordon,Lsnyder@Example.Org,18,Unknown,Sports,144.71,2/22/2026,Ads,No,February,18-25,No
+Megan Ramos,Andrewstimothy@Example.Org,57,Carterport,Beauty,812.04,7/10/2025,Sms,Yes,October,50+,Yes
+Holly Alexander,Odomkevin@Example.Net,58,Unknown,Apparel,881.42,3/18/2026,Ads,No,March,50+,Yes
+Raymond Wheeler,Travis18@Example.Net,23,Unknown,Apparel,996.69,1/30/2026,Email,Yes,January,18-25,Yes
+Mary Thomas,Marywebb@Example.Com,59,Unknown,Sports,207.48,3/16/2026,Sms,No,March,50+,No
+Olivia Hernandez,John94@Example.Org,35,Unknown,Electronics,816.17,4/3/2026,Social Media,No,March,26-35,Yes
+Leah Harper,Barnesterry@Example.Net,59,Unknown,Apparel,707.58,9/28/2025,Email,No,September,50+,Yes
+Raymond Valentine,Shannon12@Example.Org,31,Unknown,Apparel,135.09,10/30/2025,Social Media,Yes,October,26-35,No
+Lauren Norton,Erikgarcia @ Example.Org,22,Unknown,Apparel,755.2,3/18/2026,Ads,No,March,18-25,Yes
+Kimberly Perkins,Lopezsamuel @ Example.Com,59,Unknown,Apparel,390.86,1/23/2026,Sms,Yes,January,50+,No
+Nancy Simmons,Richard12@Example.Org,37,Unknown,Sports,128.66,1/27/2026,Sms,No,January,36-50,No
+Steven Shea,Nrandall@Example.Com,30,Unknown,Electronics,449.59,8/10/2025,Email,No,October,26-35,No
+Cassandra Orr,K@herine62@Example.Org,23,Unknown,Beauty,282.85,2/27/2026,Email,No,February,18-25,No
+Jonathan Woods,W@sonvictoria@Example.Com,,Unknown,Sports,698.39,4/3/2026,Social Media,Yes,March,18-25,Yes
+William Morris,Kyledavis@Example.Net,55,Jamesbury,Electronics,297.75,9/28/2025,Social Media,No,September,50+,No
+Mrs. Martha Campbell,Cassandrasmall@Example.Com,50,Unknown,Sports,360.82,5/3/2026,Sms,Yes,March,36-50,No
+Ashley Harper,Hbowen@Example.Com,18,Woodshire,Apparel,408.72,7/11/2025,Sms,No,November,18-25,No
+Martin Christian,M@thew18@Example.Com,30,Unknown,Electronics,388.89,9/28/2025,Sms,Yes,September,26-35,No
+Brian Solis,Uhayes@Example.Net,38,Unknown,Beauty,411.15,12/23/2025,Ads,No,December,36-50,No
+Mark Moore,P@tylivingston@Example.Com,22,Jenniferland,Apparel,172.54,9/28/2025,Email,No,September,18-25,No
+Jennifer Miller,Coxgina@Example.Org,55,Unknown,Apparel,46.88,11/23/2025,Sms,Yes,November,50+,No
+Amy Wright,Goodwindaniel@Example.Com,40,Unknown,Apparel,834.68,1/31/2026,Sms,Yes,January,36-50,Yes
+Kristin Taylor,Adam45@Example.Com,46,Unknown,Sports,263.81,12/28/2025,Email,No,December,36-50,No
+Gregory Brown,Danielle60@Example.Net,30,Unknown,Electronics,540.7,10/11/2025,Social Media,Yes,November,26-35,Yes
+Steven Christensen,Zachary89@Example.Net,29,Unknown,Sports,363.97,11/24/2025,Ads,Yes,November,26-35,No
+Nichole Walker,Ttrevino@Example.Net,18,Unknown,Electronics,50.04,11/22/2025,Social Media,No,November,18-25,No
+Kathleen Simon,Pwilliams@Example.Net,,Unknown,Apparel,82.14,11/2/2026,Ads,Yes,February,18-25,No
+Deanna Shah,W@sonallison @ Example.Com,55,South Michael,Apparel,325.45,1/11/2025,Sms,Yes,November,50+,No
+Ronald Salazar,Cherylsmith@Example.Org,52,Unknown,Apparel,100.71,5/10/2025,Email,Yes,October,50+,No
+Jennifer Blake,Karen13@Example.Com,47,Unknown,Beauty,635.69,10/14/2025,Social Media,No,October,36-50,Yes
+Terry Cortez,Rporter@Example.Net,27,Unknown,Sports,866.27,1/14/2026,Email,No,January,26-35,Yes
+Sandra Miller,Scordova@Example.Org,39,Rogersshire,Electronics,774.44,1/18/2026,Sms,Yes,January,36-50,Yes
+Danny Woods,Sandra07@Example.Org,46,Unknown,Apparel,788.61,12/12/2025,Social Media,No,December,36-50,Yes
+Taylor Jackson,Wdudley@Example.Net,38,Unknown,Apparel,664.71,1/27/2026,Email,No,January,36-50,Yes
+Donna Mitchell,Charles04@Example.Net,40,Unknown,Apparel,818.41,1/23/2026,Ads,Yes,January,36-50,Yes
+Jimmy Johnson,Gturner@Example.Net,35,Unknown,Electronics,333.6,2/11/2025,Sms,Yes,November,26-35,No
+Michelle Collins,Stephanie64@Example.Net,55,Ryanburgh,Sports,929.73,1/26/2026,Ads,No,January,50+,Yes
+Roger Jones,Bobbyjackson@Example.Com,42,Butlerberg,Sports,157.35,10/28/2025,Social Media,Yes,October,36-50,No
+Jordan Rocha,Robert01 @ Example.Net,53,Unknown,Electronics,266.47,11/13/2025,Email,No,November,50+,No
+Michael Howard,Wilsoncorey@Example.Com,56,Unknown,Sports,639.68,1/28/2026,Email,Yes,January,50+,Yes
+Tara Guerrero,Gregorythomas@Example.Org,41,Unknown,Apparel,941.94,10/11/2025,Sms,Yes,November,36-50,Yes
+Logan Turner,Tonyaharrison@Example.Com,58,Unknown,Electronics,803.56,9/29/2025,Social Media,No,September,50+,Yes
+Dr. Richard Suarez,Kh@field@Example.Net,,Unknown,Beauty,130.56,11/15/2025,Social Media,Yes,November,18-25,No
+Zachary Patterson,Antoniorios@Example.Net,46,Unknown,Beauty,360.31,1/3/2026,Ads,No,March,36-50,No
+Candice Robinson,Lanecynthia@Example.Org,48,Unknown,Electronics,39.3,1/13/2026,Email,Yes,January,36-50,No
+Jeffrey Boyer,Jmitchell@Example.Com,62,Unknown,Beauty,627.06,3/10/2025,Sms,Yes,October,50+,Yes
+Rose Fuller,Scottward@Example.Net,47,Unknown,Beauty,772.81,11/15/2025,Email,No,November,36-50,Yes
+Robert Pruitt,Zgardner@Example.Org,60,New Cheryl,Apparel,772.64,1/17/2026,Email,Yes,January,50+,Yes
+Colleen Collins,Zesparza@Example.Org,20,Unknown,Beauty,274.43,3/1/2026,Sms,Yes,January,18-25,No
+Julie Wood,James31@Example.Com,43,Unknown,Beauty,27.87,11/10/2025,Email,Yes,October,36-50,No
+Jill Brown,Coxangela@Example.Net,20,Unknown,Apparel,72.75,9/11/2025,Sms,No,November,18-25,No
+Sarah Parsons,Lturner@Example.Org,59,Ramseyshire,Sports,73.19,2/15/2026,Social Media,No,February,50+,No
+Carlos Griffith,Erin72@Example.Com,24,North Jose,Beauty,951.61,2/2/2026,Email,No,February,18-25,Yes
+Tyler Shea,Unixon@Example.Org,63,Georgefurt,Sports,187.72,9/12/2025,Social Media,Yes,December,50+,No
+Jeremy Chavez,Lesteranthony@Example.Org,24,Unknown,Electronics,924.56,11/25/2025,Email,No,November,18-25,Yes
+Crystal Delacruz,Clarkadam@Example.Com,19,East Jason,Apparel,619.26,6/2/2026,Email,No,February,18-25,Yes
+Amber Morales,M@thewherrera@Example.Net,29,Unknown,Apparel,88.61,2/11/2025,Ads,No,November,26-35,No
+Julie Munoz,Harriscourtney@Example.Org,33,Unknown,Apparel,714.18,1/2/2026,Email,Yes,February,26-35,Yes
+Margaret Mcbride,Sherylsmith@Example.Org,,Unknown,Sports,570.65,9/24/2025,Ads,Yes,September,18-25,Yes
+Ryan Mccoy,Wmiller@Example.Com,54,Unknown,Sports,471.02,11/16/2025,Email,Yes,November,50+,No
+Jessica Mccarthy,Hhoover@Example.Com,60,Unknown,Electronics,757.06,4/10/2025,Sms,Yes,October,50+,Yes
+Sharon White,Frazierrobert@Example.Com,43,Unknown,Beauty,502.59,10/24/2025,Email,No,October,36-50,Yes
+Stephanie Rivera,Stevenhickman@Example.Net,37,Unknown,Apparel,989.64,1/10/2025,Social Media,Yes,October,36-50,Yes
+Janet Smith,Hooperjoseph@Example.Org,24,East Nancy,Electronics,946.11,1/3/2026,Ads,Yes,March,18-25,Yes
+Ethan Davis,Scottburgess@Example.Com,64,Denisebury,Sports,644.92,1/3/2026,Email,No,March,50+,Yes
+Jill Mcconnell,Mcgeejamie@Example.Net,,Unknown,Electronics,832.06,12/18/2025,Ads,Yes,December,18-25,Yes
+Amy Perez,Jennifer99@Example.Com,57,Unknown,Apparel,978.73,9/12/2025,Sms,No,December,50+,Yes
+Matthew Webb,Mejiadonald@Example.Org,41,West Terri,Electronics,763.93,2/1/2026,Email,Yes,January,36-50,Yes
+Lindsey Castro,Paul64@Example.Org,33,Unknown,Electronics,364.48,12/24/2025,Social Media,No,December,26-35,No
+Charles Crawford,Gutierrezbrian @ Example.Com,41,Unknown,Apparel,679.83,11/22/2025,Email,No,November,36-50,Yes
+Tammy Faulkner,Gibsonjennifer@Example.Org,61,Bradfordmouth,Apparel,407.79,5/1/2026,Email,Yes,January,50+,No
+Sydney Young,Brian88@Example.Net,53,Unknown,Sports,377.64,3/21/2026,Sms,No,March,50+,No
+Alexandria Stein,Potterdana@Example.Net,46,Unknown,Beauty,286.36,3/14/2026,Ads,Yes,March,36-50,No
+Jenna Burke,Andreamills@Example.Net,28,Unknown,Sports,627.08,1/27/2026,Sms,Yes,January,26-35,Yes
+Albert Barnes,Fjones@Example.Com,32,Unknown,Apparel,332.1,11/3/2026,Sms,Yes,March,26-35,No
+Sandra Cabrera,Rodriguezashley@Example.Net,,Jamesstad,Electronics,232.55,2/21/2026,Social Media,Yes,February,18-25,No
+Arthur Valdez,Acevedonicholas@Example.Com,35,Unknown,Apparel,918.53,1/17/2026,Email,No,January,26-35,Yes
+Erica Reynolds,Yvasquez@Example.Net,,Unknown,Beauty,765.11,3/18/2026,Email,Yes,March,18-25,Yes
+John Navarro,Charles05@Example.Com,56,Unknown,Beauty,791.23,10/13/2025,Social Media,Yes,October,50+,Yes
+Matthew Anderson,Mcgeedennis@Example.Org,52,Unknown,Sports,913.25,7/1/2026,Social Media,Yes,January,50+,Yes
+Deanna Arroyo,Alejandro05@Example.Net,63,Unknown,Beauty,390.58,10/17/2025,Social Media,No,October,50+,No
+Adam Anderson,Ybarnett @ Example.Com,19,Unknown,Sports,376.39,4/12/2025,Social Media,Yes,December,18-25,No
+Jordan Brown,Parkerkelly@Example.Org,65,Unknown,Sports,216.47,9/24/2025,Sms,Yes,September,50+,No
+Timothy Walker,Robertcarter@Example.Com,54,Unknown,Sports,382.45,4/2/2026,Ads,Yes,February,50+,No
+Nathan Short,Ruizjessica@Example.Org,30,Unknown,Beauty,344.7,10/26/2025,Social Media,Yes,October,26-35,No
+Sheryl Martinez,Heidibolton@Example.Com,54,Unknown,Beauty,456.4,11/27/2025,Ads,Yes,November,50+,No
+Justin Donovan,Jlester @ Example.Org,37,Wilsonborough,Sports,597.82,11/12/2025,Sms,No,December,36-50,Yes
+Juan Gross,Stephaniebyrd@Example.Org,52,Emilyville,Beauty,124.23,12/10/2025,Ads,Yes,October,50+,No
+Amber Bond,Hbaker@Example.Net,55,Unknown,Sports,135.91,12/16/2025,Ads,Yes,December,50+,No
+Tyler Young,Chasecruz@Example.Org,35,North Shari,Apparel,853.71,12/12/2025,Sms,Yes,December,26-35,Yes
+Kelly Cooper,Madelineskinner@Example.Net,42,Unknown,Apparel,659.26,2/20/2026,Sms,No,February,36-50,Yes
+Mark Martinez,Marcusdaniel@Example.Com,44,Unknown,Beauty,319.61,12/18/2025,Social Media,Yes,December,36-50,No
+Sean Weiss,Paulahurst@Example.Com,27,Unknown,Apparel,920.2,10/21/2025,Email,Yes,October,26-35,Yes
+Jared Jennings,Adiaz@Example.Net,63,Foleyville,Electronics,290.1,2/13/2026,Email,Yes,February,50+,No
+Lori Torres,Richardsmith@Example.Com,51,Unknown,Apparel,26.86,5/12/2025,Ads,Yes,December,50+,No
+Miss Darlene White,Amandasmith@Example.Org,65,Unknown,Sports,547.51,11/15/2025,Sms,No,November,50+,Yes
+Anne Lopez,Bryan32@Example.Org,55,Unknown,Apparel,393.38,12/19/2025,Social Media,Yes,December,50+,No
+Shelia Hall,Xruiz@Example.Com,43,Unknown,Apparel,565.2,1/29/2026,Social Media,Yes,January,36-50,Yes
+Mark Porter,Lindsey59@Example.Net,64,Unknown,Electronics,706.17,10/10/2025,Social Media,Yes,October,50+,Yes
+Chelsea Lopez,Adam06@Example.Net,29,Unknown,Sports,997.58,5/12/2025,Ads,No,December,26-35,Yes
+John Reed,Wolfsteven@Example.Net,49,Unknown,Sports,595.31,7/11/2025,Sms,No,November,36-50,Yes
+Linda Myers,Traceyharrison@Example.Net,43,Lake Karen,Electronics,712.71,3/16/2026,Email,No,March,36-50,Yes
+Kathleen Nelson,Millswhitney@Example.Com,36,Unknown,Electronics,48.56,9/26/2025,Email,Yes,September,36-50,No
+Christine Barnes,Charles05@Example.Net,58,Unknown,Electronics,846.95,10/24/2025,Sms,Yes,October,50+,Yes
+Elizabeth Mitchell,Taylorrobert@Example.Net,,Unknown,Beauty,942.01,12/30/2025,Email,Yes,December,18-25,Yes
+Stacy Lindsey,Larsonlisa@Example.Net,,Unknown,Sports,518.11,8/10/2025,Email,Yes,October,18-25,Yes
+Scott Brooks,Ocampbell@Example.Net,65,Unknown,Beauty,529.03,11/14/2025,Sms,No,November,50+,Yes
+Stephen Mcintosh,Megan02@Example.Org,24,Unknown,Sports,977,9/3/2026,Email,Yes,March,18-25,Yes
+Misty Lane,Ruth28@Example.Net,23,Unknown,Beauty,407.98,4/2/2026,Ads,No,February,18-25,No
+Kathleen Miller,Jonesjohn@Example.Org,57,Unknown,Sports,800.9,3/22/2026,Email,Yes,March,50+,Yes
+Stephanie Schultz,Oanderson @ Example.Org,51,Unknown,Electronics,54.84,4/3/2026,Email,No,March,50+,No
+Kristopher Hansen,Jasonmitchell@Example.Com,25,Unknown,Beauty,353.03,12/11/2025,Ads,No,November,18-25,No
+Debbie Ramos,Stacy53@Example.Com,52,Unknown,Electronics,650.69,10/10/2025,Social Media,Yes,October,50+,Yes
+David Crawford,Sarasmith@Example.Net,20,Unknown,Sports,692.21,9/26/2025,Email,Yes,September,18-25,Yes
+Kristen Collins,Canthony@Example.Com,30,Unknown,Beauty,61.66,10/16/2025,Email,No,October,26-35,No
+Beverly Oliver,Jenniferblanchard@Example.Com,29,Unknown,Sports,76.26,3/14/2026,Ads,Yes,March,26-35,No
+Elizabeth Mccarthy,Yolandablevins@Example.Org,58,Villanuevafort,Sports,630.4,2/15/2026,Ads,Yes,February,50+,Yes
+Justin Ford,Valerie91@Example.Net,50,Unknown,Electronics,919.38,3/16/2026,Sms,No,March,36-50,Yes
+Melissa May,Robertsondennis@Example.Org,64,Unknown,Electronics,247.91,3/20/2026,Sms,No,March,50+,No
+Mark Wheeler,Julie43@Example.Org,,Howardside,Electronics,305.27,10/21/2025,Sms,Yes,October,18-25,No
+Andre Gilbert,Scott86@Example.Net,58,Unknown,Electronics,805.18,11/28/2025,Sms,No,November,50+,Yes
+Nancy Jacobson,Nguyenelizabeth @ Example.Com,42,Unknown,Sports,79.91,10/29/2025,Sms,No,October,36-50,No
+Matthew Hoover,Cantrelllaura@Example.Com,49,Unknown,Electronics,151.09,9/29/2025,Email,No,September,36-50,No
+Donald Carter,Smithjoan@Example.Com,45,Unknown,Beauty,828.62,2/21/2026,Sms,No,February,36-50,Yes
+Stephanie Clark,Shannonreynolds@Example.Org,58,Unknown,Beauty,411,10/13/2025,Social Media,No,October,50+,No
+Christopher Johnson,Courtney18@Example.Org,65,Unknown,Beauty,944.11,11/21/2025,Email,Yes,November,50+,Yes
+David Huynh,Karen93@Example.Org,,Unknown,Sports,501.46,6/10/2025,Sms,Yes,October,18-25,Yes
+Jacob Mcdonald,Danielssarah@Example.Net,31,Unknown,Sports,422.86,11/3/2026,Email,No,March,26-35,No
+Karen Fox,Campbelljimmy@Example.Com,62,Lake Jordantown,Sports,353.79,12/14/2025,Sms,No,December,50+,No
+James Wagner,Adamtaylor@Example.Net,49,Unknown,Sports,644.89,9/11/2025,Email,No,November,36-50,Yes
+Jessica Long,Ruben37@Example.Org,29,Unknown,Sports,358.62,9/23/2025,Ads,Yes,September,26-35,No
+Jillian Williams,Wellsm@thew@Example.Net,19,Unknown,Electronics,535.22,12/12/2025,Social Media,Yes,December,18-25,Yes
+Michelle Montgomery,Gonzalesjennifer@Example.Org,24,Unknown,Sports,824.77,9/25/2025,Ads,Yes,September,18-25,Yes
+Christina Wade,Gchavez@Example.Org,30,Unknown,Sports,126.1,9/3/2026,Email,No,March,26-35,No
+David Benson,Maryjohnson@Example.Org,23,Unknown,Sports,552.52,2/20/2026,Sms,Yes,February,18-25,Yes
+Timothy Jackson,Stephenpennington@Example.Net,38,Unknown,Beauty,680.63,10/29/2025,Social Media,No,October,36-50,Yes
+Gary Murray,Averyjason@Example.Net,48,Unknown,Sports,151.62,1/25/2026,Social Media,No,January,36-50,No
+Mary Brown,Brockfrancis@Example.Net,29,Unknown,Electronics,491.32,12/14/2025,Social Media,No,December,26-35,No
+Christopher Patton,Aanderson@Example.Org,45,Unknown,Electronics,294.53,9/28/2025,Email,No,September,36-50,No
+Thomas Vega,Gloria40@Example.Org,42,Unknown,Electronics,493.08,11/11/2025,Sms,No,November,36-50,No
+Dustin Turner,Stevenwagner@Example.Net,,Unknown,Apparel,528.93,3/17/2026,Email,No,March,18-25,Yes
+Carl Smith,Newmanrobert@Example.Com,25,Unknown,Beauty,469.09,11/18/2025,Email,Yes,November,18-25,No
+Veronica Harvey,Rebecca61@Example.Net,58,Omarfort,Electronics,729.37,2/3/2026,Ads,No,March,50+,Yes
+Anthony Montgomery,Christophermorris@Example.Com,,Unknown,Sports,364.42,2/14/2026,Sms,No,February,18-25,No
+Margaret Lee,Denniskeith@Example.Com,31,Joseport,Beauty,187.92,1/13/2026,Social Media,No,January,26-35,No
+Tamara Rogers,Barkerjames@Example.Net,33,Unknown,Beauty,765.95,4/3/2026,Social Media,Yes,March,26-35,Yes
+Sean Moyer,Sandrahall@Example.Com,38,Lauratown,Beauty,925.67,2/14/2026,Sms,Yes,February,36-50,Yes
+Cole Chen,Veronica62@Example.Com,28,Unknown,Apparel,816.09,12/15/2025,Ads,Yes,December,26-35,Yes
+Christina Harper,Wduncan@Example.Com,64,Unknown,Apparel,674.94,9/2/2026,Ads,No,February,50+,Yes
+Melissa Osborn,Isalinas@Example.Org,19,Jenniferport,Apparel,543.83,2/11/2025,Social Media,Yes,November,18-25,Yes
+Kristy Rosario,Brendafernandez@Example.Com,19,Unknown,Electronics,592.98,10/21/2025,Email,Yes,October,18-25,Yes
+Shawn Jones,Cummingssylvia@Example.Org,62,Unknown,Beauty,715.75,7/2/2026,Social Media,Yes,February,50+,Yes
+Kelli Lopez,Kevinperry@Example.Org,41,Unknown,Electronics,186.84,3/21/2026,Sms,Yes,March,36-50,No
+John Mitchell,Sandra29@Example.Com,51,East Zachary,Electronics,548.1,2/25/2026,Ads,No,February,50+,Yes
+Lisa Martin,Hernandezjennifer@Example.Net,39,Unknown,Apparel,299.07,10/13/2025,Ads,Yes,October,36-50,No
+Matthew Hurst,Baileykrystal@Example.Com,21,Unknown,Beauty,357.73,10/25/2025,Sms,Yes,October,18-25,No
+Lori Vasquez,Dserrano@Example.Org,48,Unknown,Electronics,750.96,12/3/2026,Email,Yes,March,36-50,Yes
+Jason Campos,Malik20@Example.Com,40,Unknown,Sports,338.41,3/10/2025,Social Media,Yes,October,36-50,No
+Jeffery Taylor,Davisnancy@Example.Com,56,Unknown,Electronics,601.15,9/10/2025,Ads,Yes,October,50+,Yes
+Jennifer Barron,Stuartjones@Example.Org,21,Port Alyssaton,Electronics,416.58,2/11/2025,Ads,No,November,18-25,No
+Amy Young,Hayestroy@Example.Com,47,Unknown,Apparel,753.29,9/29/2025,Social Media,Yes,September,36-50,Yes
+Marie Hines,Colemansamantha@Example.Com,34,Unknown,Electronics,795.5,3/3/2026,Email,No,March,26-35,Yes
+Anthony Hale,Scott15@Example.Com,21,Unknown,Electronics,71.52,1/27/2026,Email,Yes,January,18-25,No
+John Doyle,Marianixon@Example.Com,64,Unknown,Apparel,340.66,12/24/2025,Sms,Yes,December,50+,No
+Amanda Choi,Tedwards@Example.Net,21,Unknown,Sports,973.57,6/1/2026,Ads,No,January,18-25,Yes
+Daniel Morris,Nmitchell@Example.Org,55,Unknown,Apparel,744.32,6/11/2025,Social Media,Yes,November,50+,Yes
+Meagan Little,Qgardner@Example.Com,29,Unknown,Beauty,314.08,2/27/2026,Social Media,Yes,February,26-35,No
+Craig Smith,Pdavis@Example.Org,43,Unknown,Beauty,355.36,11/14/2025,Ads,Yes,November,36-50,No
+Tonya Ramos,Dperez@Example.Org,38,Port Abigail,Sports,877.26,10/23/2025,Sms,Yes,October,36-50,Yes
+Amber Walker,Bryantcourtney@Example.Net,65,Unknown,Beauty,725.26,4/10/2025,Social Media,Yes,October,50+,Yes
+Benjamin Johnson,Theresa82@Example.Com,60,Unknown,Apparel,613.99,9/2/2026,Email,No,February,50+,Yes
+Gabriel Fuller,Thomaspeter@Example.Com,31,Unknown,Electronics,475.33,11/25/2025,Ads,No,November,26-35,No
+Timothy Werner,Hrodriguez@Example.Net,19,New Beverlymouth,Electronics,858.49,1/10/2025,Ads,Yes,October,18-25,Yes
+Kevin Wilson,Jason94@Example.Net,45,East Kristin,Beauty,214.25,8/10/2025,Email,No,October,36-50,No
+Rebecca Villegas,Lbarrett@Example.Com,47,Unknown,Sports,871.72,3/18/2026,Sms,Yes,March,36-50,Yes
+Paul Johnson,Xbrady@Example.Net,21,Unknown,Beauty,440.05,11/1/2026,Email,No,January,18-25,No
+Ronald Forbes,Zcontreras@Example.Org,45,Unknown,Beauty,703.18,2/19/2026,Social Media,No,February,36-50,Yes
+Cheryl Norton,Adrianedwards@Example.Com,44,Dannytown,Electronics,176.65,1/18/2026,Ads,No,January,36-50,No
+Eric Love,Joe21@Example.Net,57,Unknown,Sports,904.51,3/21/2026,Social Media,No,March,50+,Yes
+Erin Evans,Williamsonbrittany@Example.Org,37,Unknown,Apparel,495.29,10/26/2025,Ads,Yes,October,36-50,No
+Dean Fisher,Ohernandez@Example.Net,,Morrisonview,Electronics,135.84,9/27/2025,Email,Yes,September,18-25,No
+Dr. Omar Wood,Sean81@Example.Com,,Unknown,Electronics,657.91,3/12/2025,Email,Yes,December,18-25,Yes
+Nicole Dyer,Troy61@Example.Org,42,Unknown,Apparel,55.29,5/10/2025,Social Media,No,October,36-50,No
+Donna Mills,Christiewest@Example.Org,46,Unknown,Sports,831.71,3/18/2026,Email,No,March,36-50,Yes
+Lisa Nguyen,Williamgonzalez@Example.Com,39,Williamfort,Apparel,563.68,12/3/2026,Email,Yes,March,36-50,Yes
+Joshua Reed,Ramossuzanne@Example.Org,60,Unknown,Electronics,584.19,10/2/2026,Sms,Yes,February,50+,Yes
+Stephen Sampson,Michael24@Example.Com,56,Unknown,Electronics,914.48,4/11/2025,Email,No,November,50+,Yes
+Kathryn Hall,Allenkimberly@Example.Com,40,Unknown,Sports,558.17,2/13/2026,Sms,Yes,February,36-50,Yes
+Rachel Ellis,Robert36@Example.Net,52,Unknown,Apparel,650.1,1/16/2026,Email,Yes,January,50+,Yes
+Bonnie Gonzalez,Thompsonmackenzie@Example.Com,44,Unknown,Electronics,229.55,7/1/2026,Social Media,Yes,January,36-50,No
+Matthew White,Sandra64@Example.Com,20,Scottmouth,Sports,427.42,12/10/2025,Social Media,No,October,18-25,No
+John Reyes,Michael79@Example.Net,47,Unknown,Apparel,238.86,2/23/2026,Social Media,No,February,36-50,No
+Spencer White,Harrisallison@Example.Org,25,North Shane,Sports,831.9,2/12/2025,Ads,Yes,December,18-25,Yes
+Wendy Hall,Joe33@Example.Com,33,Kathleenborough,Sports,812.76,2/2/2026,Social Media,No,February,26-35,Yes
+Vanessa Rodriguez,Hammondjeffrey@Example.Com,44,Unknown,Beauty,909.02,11/24/2025,Sms,Yes,November,36-50,Yes
+Denise Lane,Josewright@Example.Net,35,Unknown,Beauty,654.71,10/20/2025,Social Media,No,October,26-35,Yes
+Melissa Waller,Tiffanygoodwin@Example.Org,19,South Krista,Beauty,152.41,6/3/2026,Email,Yes,March,18-25,No
+Tonya Powell,Fowlerderrick @ Example.Org,45,Unknown,Apparel,56.37,1/10/2025,Ads,No,October,36-50,No
+Charles Garcia,Jeremyphillips@Example.Org,32,Unknown,Beauty,378.11,11/16/2025,Sms,No,November,26-35,No
+Anthony Williams,Brian46@Example.Net,55,Unknown,Beauty,729.91,12/14/2025,Sms,No,December,50+,Yes
+Christine Vaughan,Hgomez @ Example.Com,42,Unknown,Sports,71.52,12/28/2025,Social Media,No,December,36-50,No
+William Vargas,Clarkejimmy@Example.Net,47,Unknown,Electronics,781.62,12/30/2025,Sms,Yes,December,36-50,Yes
+Anita Gonzalez,Jonesbrenda@Example.Com,39,Unknown,Beauty,661.12,2/15/2026,Ads,No,February,36-50,Yes
+Brian Carroll Jr.,Clopez@Example.Org,31,Unknown,Sports,454.9,10/27/2025,Social Media,Yes,October,26-35,No
+John Wells,Potterjulie@Example.Com,61,Unknown,Sports,259.89,11/10/2025,Email,Yes,October,50+,No
+Robert Murray,Annchapman@Example.Com,40,Unknown,Sports,868.8,5/3/2026,Email,Yes,March,36-50,Yes
+Tyler Chavez,Michaelgrant@Example.Com,57,Unknown,Apparel,523.63,11/25/2025,Sms,Yes,November,50+,Yes
+Tina Barnes,Kbrown@Example.Net,57,North Gregoryton,Sports,189.64,2/13/2026,Ads,No,February,50+,No
+Stacy Pitts,Kristinaharris@Example.Com,21,Unknown,Apparel,678.88,10/20/2025,Sms,No,October,18-25,Yes
+David Fields,Brownjames@Example.Com,40,Unknown,Electronics,551.59,10/28/2025,Social Media,No,October,36-50,Yes
+Melissa Ross,Sloaneric@Example.Org,62,Unknown,Electronics,561.46,12/2/2026,Email,Yes,February,50+,Yes
+Jackson Smith,Alloyd @ Example.Org,45,Unknown,Beauty,442.87,2/1/2026,Sms,Yes,January,36-50,No
+Chelsea Shaw,Jmaxwell@Example.Net,54,Unknown,Apparel,123.74,12/20/2025,Ads,No,December,50+,No
+Mary Farmer,Charlesparrish @ Example.Net,26,Unknown,Electronics,461.42,12/30/2025,Email,Yes,December,26-35,No
+Kara Davis,Nmann@Example.Com,47,Unknown,Sports,337.14,1/12/2025,Sms,Yes,December,36-50,No
+Kimberly Dixon,Debra51@Example.Org,37,North Hannahton,Apparel,427.06,10/15/2025,Email,Yes,October,36-50,No
+Cynthia Ramos,Millerroberto@Example.Org,42,Unknown,Sports,965.45,8/3/2026,Ads,No,March,36-50,Yes
+Sierra Hendricks,Znguyen @ Example.Org,21,New Amanda,Electronics,16.22,10/27/2025,Sms,Yes,October,18-25,No
+Cynthia Garner,Jamie37@Example.Org,46,Unknown,Sports,43.38,1/14/2026,Social Media,No,January,36-50,No
+Stephanie Williams,Mccoymark@Example.Com,18,Unknown,Sports,727.25,1/24/2026,Sms,Yes,January,18-25,Yes
+Shawn Harris,Maryjuarez@Example.Com,18,Unknown,Beauty,236.41,12/19/2025,Ads,Yes,December,18-25,No
+Joshua Robinson,Blackwellnoah@Example.Com,28,Unknown,Apparel,369.65,7/2/2026,Email,Yes,February,26-35,No
+Lauren Espinoza,Wagnerjacqueline@Example.Com,65,Unknown,Electronics,819.73,12/10/2025,Sms,Yes,October,50+,Yes
+Belinda Thomas,Nlang@Example.Net,33,Unknown,Beauty,704.32,12/12/2025,Ads,Yes,December,26-35,Yes
+Sydney Lewis,Sarahyoung@Example.Org,62,Unknown,Sports,880.99,7/2/2026,Email,Yes,February,50+,Yes
+Ronald Nguyen,Lgordon @ Example.Org,41,Unknown,Sports,509.54,10/2/2026,Email,No,February,36-50,Yes
+Andrea Collier,Anthonyking@Example.Com,38,Unknown,Beauty,632.44,11/14/2025,Sms,No,November,36-50,Yes
+Patrick Smith,Grayrebecca@Example.Net,35,Unknown,Sports,645.53,12/22/2025,Social Media,Yes,December,26-35,Yes
+Christina Hernandez,Morrowamanda@Example.Org,39,Unknown,Beauty,583.14,12/19/2025,Ads,Yes,December,36-50,Yes
+Christopher Anderson,Ryanjohnson@Example.Net,62,Unknown,Sports,317.81,3/2/2026,Sms,No,February,50+,No
+Brian Hernandez,Rodriguezrachel@Example.Com,35,Tiffanytown,Sports,653.72,7/12/2025,Social Media,No,December,26-35,Yes
+Anne Green,Jessicavaldez@Example.Com,29,Unknown,Beauty,167.54,2/12/2025,Social Media,No,December,26-35,No
+Philip Ramirez,M@thewhenry@Example.Net,30,Unknown,Beauty,849.2,12/21/2025,Ads,Yes,December,26-35,Yes
+Derrick Mccullough,Raymonddustin@Example.Net,30,Unknown,Apparel,261.24,8/2/2026,Sms,Yes,February,26-35,No
+William Garcia,He@herhood@Example.Com,36,Unknown,Apparel,718.14,1/29/2026,Sms,No,January,36-50,Yes
+Brittney Snow,Laurenfrazier@Example.Net,51,Unknown,Electronics,745.33,2/17/2026,Ads,Yes,February,50+,Yes
+Christine Scott,Joshua49@Example.Net,19,Unknown,Beauty,114.07,12/14/2025,Email,Yes,December,18-25,No
+Valerie Moss,Ashleyyoung@Example.Net,28,Unknown,Beauty,540.41,3/10/2025,Sms,Yes,October,26-35,Yes
+Claudia Ramos,Makayla67@Example.Net,33,Johnland,Sports,103.88,12/1/2026,Sms,No,January,26-35,No
+Kelly Hudson,Keithbecker@Example.Net,,Unknown,Electronics,308.88,4/10/2025,Social Media,No,October,18-25,No
+Patricia Williams,Osmith@Example.Org,45,North Pamelaside,Electronics,170.83,12/24/2025,Social Media,Yes,December,36-50,No
+Sarah Wang,Jennifer71@Example.Net,30,Unknown,Electronics,464.94,2/28/2026,Email,Yes,February,26-35,No
+Jeffery Moreno,Reesejeremy@Example.Net,38,Unknown,Electronics,661.58,10/30/2025,Sms,Yes,October,36-50,Yes
+Brandon Stevenson,Gweiss@Example.Com,,Unknown,Electronics,765.8,9/24/2025,Ads,Yes,September,18-25,Yes
+Felicia Johnson,N@alie67@Example.Net,64,Unknown,Electronics,302.16,12/3/2026,Sms,Yes,March,50+,No
+Sherri Gray,Dw@son@Example.Net,59,Unknown,Electronics,163.69,12/27/2025,Sms,No,December,50+,No
+Jimmy Patel,Hlawrence@Example.Org,19,Unknown,Apparel,426.33,10/16/2025,Ads,No,October,18-25,No
+Lisa Johnson,Tamarafisher@Example.Com,26,Unknown,Beauty,490.54,8/2/2026,Email,Yes,February,26-35,No
+Olivia Whitehead,Kingarthur@Example.Org,54,Unknown,Apparel,951.49,2/26/2026,Social Media,Yes,February,50+,Yes
+Samantha Travis,Stevensdawn @ Example.Com,37,Unknown,Beauty,300.64,3/14/2026,Social Media,No,March,36-50,No
+Deanna Kelly,Joelwilson@Example.Net,27,Unknown,Beauty,706.17,1/10/2025,Sms,No,October,26-35,Yes
+Adam Boyd,Sbauer@Example.Org,51,Unknown,Apparel,31.01,2/10/2025,Email,Yes,October,50+,No
+Shannon Reynolds,Nicholasmccormick@Example.Org,41,Unknown,Apparel,237.42,12/15/2025,Sms,Yes,December,36-50,No
+Belinda Wilson,Lsantiago@Example.Org,36,West Erik,Apparel,345.78,11/18/2025,Sms,Yes,November,36-50,No
+Deborah Austin,Ralexander@Example.Org,,Unknown,Sports,87.53,2/3/2026,Email,No,March,18-25,No
+James Martin,Christopherdaniel@Example.Com,49,Evansberg,Sports,486.01,9/27/2025,Social Media,Yes,September,36-50,No
+Gloria Mccoy,Diane22@Example.Net,,Unknown,Apparel,711.07,2/16/2026,Ads,Yes,February,18-25,Yes
+Jennifer Williams Dds,Tjohnston@Example.Com,52,Unknown,Electronics,810.69,2/20/2026,Email,No,February,50+,Yes
+Joseph Huff,Johnlawson@Example.Com,51,Leachville,Sports,226.07,9/11/2025,Social Media,Yes,November,50+,No
+Johnathan Dyer,Jake49@Example.Com,24,North Christopherburgh,Beauty,557.14,9/10/2025,Email,Yes,October,18-25,Yes
+Leah Warner,Romerosusan@Example.Com,20,Unknown,Apparel,502.57,2/14/2026,Social Media,Yes,February,18-25,Yes
+Nicole Carr,Robyn79@Example.Com,47,Unknown,Beauty,829.53,12/30/2025,Social Media,Yes,December,36-50,Yes
+William Thomas,Wolflindsay@Example.Org,27,Gibsontown,Apparel,965.53,2/21/2026,Email,Yes,February,26-35,Yes
+Benjamin Robinson,Joseph60@Example.Com,18,Unknown,Beauty,836.15,12/24/2025,Ads,No,December,18-25,Yes
+Denise Durham,Davislaura@Example.Net,55,Unknown,Sports,957.31,11/12/2025,Sms,No,December,50+,Yes
+Dr. Nicole Barton Dds,Friley@Example.Org,37,Unknown,Electronics,307.5,3/16/2026,Ads,No,March,36-50,No
+Susan Collins,Macklindsay@Example.Org,22,South Jamesville,Apparel,650.38,9/29/2025,Sms,Yes,September,18-25,Yes
+Angela Lee,Madelinemeza@Example.Net,42,North Shawntown,Beauty,634.23,3/15/2026,Social Media,No,March,36-50,Yes
+Brandon Reid,Rnichols@Example.Net,59,Unknown,Apparel,704.93,11/3/2026,Email,Yes,March,50+,Yes
+Joseph Marshall,Jenniferbutler@Example.Net,64,Unknown,Electronics,69.6,10/13/2025,Social Media,Yes,October,50+,No
+Julie Armstrong,Dawn60@Example.Org,53,Unknown,Electronics,210.36,9/11/2025,Ads,Yes,November,50+,No
+Paul Watkins,Jeremyhamilton@Example.Com,,Unknown,Apparel,734.06,2/21/2026,Email,Yes,February,18-25,Yes
+Robert Russell,Martinezbenjamin@Example.Net,56,Unknown,Beauty,345.25,8/3/2026,Ads,Yes,March,50+,No
+David Taylor,Michellenelson@Example.Org,60,Unknown,Beauty,685.49,11/15/2025,Social Media,Yes,November,50+,Yes
+Amy Burke,Belljorge@Example.Net,62,Unknown,Electronics,863.46,11/11/2025,Social Media,Yes,November,50+,Yes
+Briana Roberts,Hendersonjennifer@Example.Org,36,Unknown,Sports,263.03,4/12/2025,Email,Yes,December,36-50,No
+Stephen Berry,Lbarker@Example.Net,46,Unknown,Beauty,681.36,11/14/2025,Sms,No,November,36-50,Yes
+Andrew Nguyen,Jamesgarcia@Example.Com,24,Unknown,Sports,726,9/21/2025,Sms,Yes,September,18-25,Yes
+Karen Cowan Dds,Georgemelissa@Example.Net,62,Unknown,Sports,189.24,3/17/2026,Sms,No,March,50+,No
+Heather Gray,Carterronald@Example.Net,60,Charlesfurt,Electronics,346.28,4/1/2026,Ads,No,January,50+,No
+Suzanne Woodward,Russelljackson@Example.Org,39,Unknown,Electronics,52.41,3/17/2026,Social Media,Yes,March,36-50,No
+Nathan Silva,Jillhernandez@Example.Net,,Unknown,Sports,26.88,1/24/2026,Email,No,January,18-25,No
+Natasha Mcdonald,Nwright@Example.Org,63,Unknown,Beauty,184.61,3/11/2025,Ads,Yes,November,50+,No
+Jennifer Cameron,Amber41@Example.Com,63,Unknown,Beauty,521.34,11/12/2025,Email,No,December,50+,Yes
+Tanya Morales,Bryan95@Example.Net,53,Unknown,Electronics,866.28,11/3/2026,Social Media,Yes,March,50+,Yes
+Danielle Alvarez,Montoyaeric @ Example.Org,61,Unknown,Apparel,202.97,9/2/2026,Social Media,No,February,50+,No
+Caitlin Bowers,Fmcgr@h@Example.Net,23,Port Kimberly,Apparel,172.27,3/20/2026,Social Media,No,March,18-25,No
+Megan Berry,Christopher05@Example.Com,,Unknown,Beauty,114.95,10/16/2025,Ads,No,October,18-25,No
+Dustin Ross,Parrishedward@Example.Org,38,Soniafurt,Beauty,696.77,11/12/2025,Social Media,No,December,36-50,Yes
+Bryan Herrera,Tbrown@Example.Com,29,Unknown,Beauty,856.35,8/1/2026,Email,Yes,January,26-35,Yes
+Donna Griffin,Shelbygray@Example.Org,40,Unknown,Electronics,33.43,2/17/2026,Ads,No,February,36-50,No
+Heather Miller,Cherylmunoz@Example.Com,24,Carriefort,Sports,837.41,4/2/2026,Ads,No,February,18-25,Yes
+Kimberly Richardson,Xvaldez@Example.Com,46,Unknown,Apparel,817.21,8/2/2026,Social Media,No,February,36-50,Yes
+Gloria Wilson,Wilsonkelly@Example.Org,50,New Brian,Sports,452.2,5/11/2025,Ads,Yes,November,36-50,No
+Emma Foster,Jesse08@Example.Com,61,Unknown,Beauty,578.21,3/17/2026,Email,No,March,50+,Yes
+Steven Burns,Anthonyamanda@Example.Com,32,Unknown,Electronics,682.73,1/3/2026,Sms,No,March,26-35,Yes
+Kenneth Hardy,Jamesking@Example.Com,45,Unknown,Apparel,263.8,10/24/2025,Email,No,October,36-50,No
+Robert Lucas,Jodiali@Example.Net,39,Unknown,Apparel,130.13,2/27/2026,Sms,Yes,February,36-50,No
+Bryan Morgan,Jamesrivers@Example.Net,48,North Dorothyberg,Electronics,533.06,11/30/2025,Email,No,November,36-50,Yes
+Jonathan Nguyen,Kguzman@Example.Com,63,Unknown,Apparel,764.28,11/2/2026,Email,Yes,February,50+,Yes
+Sheila Atkinson,James38@Example.Net,54,Unknown,Apparel,735.23,12/13/2025,Sms,No,December,50+,Yes
+Joyce Lee,Robertslori@Example.Com,51,Andrewport,Apparel,873.44,3/2/2026,Email,Yes,February,50+,Yes
+Pamela Webb,Jenniferdaniels@Example.Org,38,Port Ryanbury,Beauty,286.91,4/10/2025,Sms,No,October,36-50,No
+Denise Green,Charlesrodriguez @ Example.Net,19,Unknown,Electronics,957,10/21/2025,Ads,Yes,October,18-25,Yes
+Timothy Gutierrez,Andrew25@Example.Com,36,Unknown,Beauty,562.37,7/12/2025,Social Media,No,December,36-50,Yes
+Connor Howard,William58@Example.Org,57,Unknown,Sports,342.33,12/20/2025,Sms,Yes,December,50+,No
+Matthew Anderson,Ocruz@Example.Org,63,Unknown,Electronics,123.47,7/2/2026,Email,Yes,February,50+,No
+Emily Brown,Hillrobert@Example.Com,51,Unknown,Apparel,728.93,9/23/2025,Sms,Yes,September,50+,Yes
+James Castillo,Wwood@Example.Net,51,Unknown,Beauty,583.89,11/27/2025,Email,Yes,November,50+,Yes
+Natasha Lowe,Melissadonaldson@Example.Org,28,Unknown,Apparel,445.96,5/10/2025,Sms,No,October,26-35,No
+Lori Sullivan Md,Andersondale@Example.Net,37,Unknown,Electronics,145.1,12/20/2025,Sms,Yes,December,36-50,No
+Kristi Hansen,Ashley10@Example.Net,30,North Katelynside,Sports,666.43,11/21/2025,Sms,Yes,November,26-35,Yes
+Wanda Leonard Dds,Daniellucero@Example.Com,35,Unknown,Sports,212.39,2/3/2026,Social Media,Yes,March,26-35,No
+Riley Jones,Wthomas@Example.Org,56,Unknown,Apparel,212.69,3/21/2026,Sms,Yes,March,50+,No
+Benjamin Kelly,Gregory64@Example.Org,36,Unknown,Sports,830.43,9/2/2026,Email,No,February,36-50,Yes
+Megan Valdez,Michelle29@Example.Net,25,Unknown,Electronics,871.21,2/13/2026,Ads,Yes,February,18-25,Yes
+Stephanie Landry,Espinozastephanie@Example.Com,58,Unknown,Beauty,237.38,3/14/2026,Email,Yes,March,50+,No
+Barbara Arellano,Isnyder@Example.Net,28,Unknown,Apparel,899.8,1/20/2026,Sms,No,January,26-35,Yes
+Regina Campbell,Smithbrian@Example.Net,31,Unknown,Electronics,996.08,12/2/2026,Sms,No,February,26-35,Yes
+Dennis Jensen,Bernarderic@Example.Org,41,Unknown,Beauty,583.54,8/11/2025,Sms,No,November,36-50,Yes
+William Lopez,Palmerkevin@Example.Com,58,Lake Cristianchester,Beauty,967.3,1/20/2026,Email,Yes,January,50+,Yes
+Mark Johnson,Ascott@Example.Org,57,North Taramouth,Sports,749.53,3/21/2026,Ads,Yes,March,50+,Yes
+Dan Weiss,Ronaldrivera@Example.Org,57,Unknown,Sports,200.07,3/17/2026,Ads,No,March,50+,No
+Rachel Hale,Christopherjones@Example.Com,57,Unknown,Beauty,409.28,9/22/2025,Sms,No,September,50+,No
+Patricia Patterson,Ncameron@Example.Net,40,Unknown,Apparel,739.49,8/2/2026,Ads,No,February,36-50,Yes
+Jasmine Daugherty,Randy11@Example.Org,35,Edwinborough,Electronics,516.02,9/12/2025,Email,Yes,December,26-35,Yes
+Jeffrey Klein,C@herinewilliams@Example.Net,32,Unknown,Electronics,531.4,12/31/2025,Social Media,Yes,December,26-35,Yes
+Jacob Patel,Ramirezdeborah@Example.Net,19,Unknown,Electronics,194.55,11/2/2026,Email,No,February,18-25,No
+Charles Cameron,Tammy03@Example.Com,50,Unknown,Sports,180.3,5/3/2026,Email,Yes,March,36-50,No
+Cynthia Bender,Jerry61@Example.Org,58,Unknown,Sports,791.29,2/15/2026,Sms,No,February,50+,Yes
+Mr. Matthew Horton,Rickyowen@Example.Org,18,Unknown,Apparel,13.14,3/16/2026,Ads,No,March,18-25,No
+Jonathan Galloway,N@hanlewis@Example.Org,48,Unknown,Beauty,429.48,10/28/2025,Email,Yes,October,36-50,No
+Jonathan Curtis,Bbrown@Example.Org,60,Melissaview,Apparel,173.29,4/11/2025,Email,Yes,November,50+,No
+Anna Lopez,Cindy48@Example.Com,31,Unknown,Electronics,111.11,7/11/2025,Social Media,Yes,November,26-35,No
+Amber Chen,Melissamartin@Example.Org,56,Unknown,Beauty,657.83,1/15/2026,Sms,Yes,January,50+,Yes
+Connor Brown,Hhanna@Example.Net,25,Unknown,Electronics,983.53,9/12/2025,Email,No,December,18-25,Yes
+Theresa Valentine,Geraldp@terson@Example.Com,21,Unknown,Beauty,794.92,12/28/2025,Ads,No,December,18-25,Yes
+Benjamin Farmer,Christopher41@Example.Org,56,Unknown,Electronics,626.78,4/2/2026,Email,Yes,February,50+,Yes
+Kevin Rowe,Ralph70@Example.Org,54,West Phillip,Beauty,865.44,10/13/2025,Email,Yes,October,50+,Yes
+Joseph Lopez,Marydavis@Example.Com,49,Unknown,Beauty,654.16,12/15/2025,Email,Yes,December,36-50,Yes
+Curtis Moore,Iknight@Example.Com,65,Unknown,Electronics,351.38,2/25/2026,Social Media,No,February,50+,No
+Clinton Smith,Hopkinsmichael@Example.Com,34,Unknown,Sports,711.28,10/23/2025,Social Media,No,October,26-35,Yes
+Adriana Kaufman,Mtaylor@Example.Com,,Lake Rogerport,Sports,119.46,11/2/2026,Sms,No,February,18-25,No
+Steven Reynolds,Vdunn@Example.Net,,West Tinaview,Electronics,664.89,10/1/2026,Ads,Yes,January,18-25,Yes
