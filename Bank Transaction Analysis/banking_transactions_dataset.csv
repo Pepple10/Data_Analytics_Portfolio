@@ -1,0 +1,301 @@
+Customer_Name,Age,Gender,City,Account_Type,Transaction_ID,Transaction_Date,Transaction_Type,Amount,Balance_After,Channel,Fraud_Flag,Bank_Fee
+Elizabeth Moore,,Female,Abuja,Current,TXN1000,2/16/2024,Transfer,385.12,2627.84,Web,No,2.44
+James Robert,37,Female,Abuja,Savings,TXN1001,3/18/2024,Transfer,48.84,2062.98,Web,No,1.11
+Michael Davis,49,Male,Ibadan,Credit,TXN1002,4/25/2024,Deposit,248.91,790.74,ATM,No,11.21
+Linda Miller,,Male,Ibadan,Savings,TXN1003,3/25/2024,Payment,140.46,-112.10,ATM,No,12.69
+Elizabeth Moore,29,Female,Lagos,Savings,TXN1004,4/27/2024,Withdrawal,1960.51,115.47,POS,No,12.22
+Patricia Brown,53,Female,Port Harcourt,Current,TXN1005,1/27/2024,Payment,115.41,4156.20,POS,No,10.22
+William Wilson,63,Female,Abuja,Current,TXN1006,4/18/2024,Deposit,729.88,1815.99,POS,No,12.38
+James Robert,65,Female,Ibadan,Credit,TXN1007,1/26/2024,Withdrawal,1215.62,80.22,ATM,No,6.61
+Elizabeth Moore,,Female,Port Harcourt,Savings,TXN1008,3/13/2024,Withdrawal,861.36,4954.27,Mobile App,No,4.41
+William Wilson,34,Female,Abuja,Credit,TXN1009,4/15/2024,Transfer,1857.23,3236.16,Web,No,18.86
+Patricia Brown,21,Male,Abuja,Savings,TXN1010,1/5/2024,Payment,1839.80,483.90,ATM,No,0.09
+Michael Davis,,Female,Abuja,Credit,TXN1011,3/26/2024,Transfer,261.99,3838.75,ATM,No,6.45
+Mary Johnson,61,Male,Abuja,Savings,TXN1012,1/19/2024,Withdrawal,1096.89,-330.84,Web,No,8.47
+Elizabeth Moore,,Female,Abuja,Current,TXN1013,3/20/2024,Transfer,1946.41,4548.37,Web,No,18.55
+William Wilson,50,Female,Port Harcourt,Current,TXN1014,3/7/2024,Deposit,573.32,3604.20,ATM,No,9.57
+David Taylor,,Female,Port Harcourt,Credit,TXN1015,2/14/2024,Payment,10.64,1046.99,ATM,No,7.31
+David Taylor,44,Female,Ibadan,Current,TXN1016,11/2/2024,Transfer,1821.88,3769.44,POS,No,8.94
+Patricia Brown,19,Female,Lagos,Savings,TXN1017,4/6/2024,Deposit,978.27,-381.87,ATM,No,1.56
+Linda Miller,,Female,Abuja,Credit,TXN1018,4/4/2024,Payment,746.05,1422.71,Mobile App,No,6.39
+Mary Johnson,,Male,Ibadan,Current,TXN1019,1/31/2024,Deposit,118.03,324.97,ATM,No,9.76
+Jennifer Anderson,55,Male,Abuja,Credit,TXN1020,4/4/2024,Transfer,1913.63,2497.90,Mobile App,No,8.85
+James Robert,42,Female,Ibadan,Current,TXN1021,4/27/2024,Deposit,335.74,4081.02,Mobile App,No,17.77
+Jennifer Anderson,,Male,Port Harcourt,Current,TXN1022,3/7/2024,Deposit,800.82,3257.29,Web,No,20.00
+Mary Johnson,22,Male,Lagos,Savings,TXN1023,1/20/2024,Transfer,1682.49,71.48,POS,No,12.99
+John Williams,,Male,Port Harcourt,Current,TXN1024,1/13/2024,Withdrawal,28.12,4450.22,Web,No,11.81
+Linda Miller,62,Male,Abuja,Current,TXN1025,10/1/2024,Payment,1465.26,590.07,Mobile App,No,1.33
+Michael Davis,23,Male,Abuja,Current,TXN1026,2/14/2024,Payment,651.18,3089.60,POS,Yes,1.42
+Jennifer Anderson,61,Female,Lagos,Savings,TXN1027,3/29/2024,Deposit,741.47,1683.21,ATM,No,9.60
+Patricia Brown,65,Female,Ibadan,Current,TXN1028,2/13/2024,Transfer,955.55,3328.09,ATM,No,8.97
+Elizabeth Moore,,Female,Abuja,Credit,TXN1029,3/2/2024,Payment,1630.15,1355.52,Web,No,14.64
+Michael Davis,65,Female,Ibadan,Savings,TXN1030,9/3/2024,Withdrawal,374.28,1527.22,ATM,No,0.79
+James Robert,43,Female,Port Harcourt,Credit,TXN1031,8/1/2024,Transfer,389.96,2741.30,Web,No,18.77
+William Wilson,,Female,Ibadan,Savings,TXN1032,4/3/2024,Transfer,1943.81,1287.85,Mobile App,No,0.27
+David Taylor,,Male,Abuja,Credit,TXN1033,3/11/2024,Withdrawal,1410.42,2078.64,POS,No,10.55
+Elizabeth Moore,,Female,Port Harcourt,Credit,TXN1034,1/8/2024,Payment,1117.14,-470.11,ATM,No,16.57
+Jennifer Anderson,,Male,Lagos,Credit,TXN1035,4/19/2024,Payment,1045.89,1186.16,Mobile App,No,13.42
+Mary Johnson,65,Female,Abuja,Current,TXN1036,1/1/2024,Deposit,671.31,4439.43,ATM,No,1.09
+Elizabeth Moore,,Female,Port Harcourt,Current,TXN1037,2/24/2024,Deposit,246.35,2586.65,Web,No,3.67
+David Taylor,43,Female,Abuja,Credit,TXN1038,4/10/2024,Transfer,947.49,-13.33,Web,No,10.55
+James Robert,35,Male,Abuja,Savings,TXN1039,2/1/2024,Withdrawal,237.81,1764.68,ATM,No,19.78
+William Wilson,41,Female,Abuja,Credit,TXN1040,4/19/2024,Transfer,292.00,4925.76,Web,No,0.18
+Mary Johnson,35,Male,Abuja,Savings,TXN1041,2/2/2024,Transfer,477.47,1059.94,Web,No,12.05
+Elizabeth Moore,,Male,Abuja,Current,TXN1042,4/20/2024,Payment,995.29,4435.37,Mobile App,No,8.61
+David Taylor,35,Male,Ibadan,Savings,TXN1043,3/18/2024,Withdrawal,1110.51,1755.26,Mobile App,No,17.05
+William Wilson,59,Female,Abuja,Credit,TXN1044,4/7/2024,Transfer,539.45,4396.63,Mobile App,No,12.58
+Patricia Brown,28,Male,Ibadan,Savings,TXN1045,3/30/2024,Withdrawal,1173.87,2458.12,POS,No,18.40
+Mary Johnson,,Male,Ibadan,Credit,TXN1046,4/9/2024,Withdrawal,1185.71,635.63,Mobile App,No,12.55
+Michael Davis,55,Male,Ibadan,Savings,TXN1047,2/20/2024,Withdrawal,552.87,3057.01,ATM,No,11.32
+William Wilson,,Female,Lagos,Savings,TXN1048,6/3/2024,Transfer,767.59,1253.51,POS,No,4.00
+James Robert,,Male,Ibadan,Savings,TXN1049,3/22/2024,Deposit,1553.96,3924.62,Web,No,1.95
+James Robert,,Male,Abuja,Savings,TXN1050,3/17/2024,Payment,1522.65,2442.26,POS,No,17.74
+James Robert,46,Female,Ibadan,Credit,TXN1051,3/23/2024,Deposit,563.18,4712.89,ATM,No,9.57
+John Williams,,Male,Ibadan,Savings,TXN1052,2/16/2024,Withdrawal,1994.90,2672.77,POS,No,15.09
+David Taylor,21,Male,Abuja,Savings,TXN1053,3/2/2024,Transfer,336.51,3749.62,Mobile App,No,12.70
+John Williams,,Male,Abuja,Current,TXN1054,1/17/2024,Transfer,1772.88,3093.27,Mobile App,Yes,8.97
+Jennifer Anderson,,Male,Port Harcourt,Current,TXN1055,4/22/2024,Transfer,220.57,3750.16,Mobile App,No,12.01
+Mary Johnson,,Female,Port Harcourt,Savings,TXN1056,3/14/2024,Withdrawal,1786.11,3901.43,Web,No,5.01
+Elizabeth Moore,19,Female,Abuja,Credit,TXN1057,2/6/2024,Deposit,1973.80,883.97,ATM,No,1.59
+Michael Davis,,Male,Lagos,Credit,TXN1058,3/24/2024,Transfer,1421.02,1349.23,POS,No,0.92
+Mary Johnson,,Female,Lagos,Savings,TXN1059,4/4/2024,Deposit,1933.33,3663.92,ATM,No,2.67
+John Williams,56,Male,Abuja,Savings,TXN1060,2/10/2024,Transfer,642.03,1238.97,ATM,No,11.02
+Michael Davis,42,Female,Port Harcourt,Savings,TXN1061,7/1/2024,Payment,1626.77,4187.12,ATM,No,18.65
+Michael Davis,40,Male,Port Harcourt,Current,TXN1062,1/20/2024,Deposit,1324.59,4826.03,Mobile App,No,17.78
+James Robert,,Male,Abuja,Credit,TXN1063,3/31/2024,Payment,550.40,-93.39,Mobile App,No,12.10
+Mary Johnson,,Male,Port Harcourt,Current,TXN1064,3/13/2024,Transfer,285.36,1325.96,POS,Yes,5.92
+John Williams,,Female,Abuja,Current,TXN1065,12/2/2024,Payment,428.22,443.69,POS,No,1.05
+William Wilson,,Male,Port Harcourt,Credit,TXN1066,1/24/2024,Payment,297.17,914.50,Mobile App,No,12.80
+Patricia Brown,30,Male,Ibadan,Savings,TXN1067,6/4/2024,Withdrawal,356.84,457.03,Web,No,3.90
+Patricia Brown,36,Female,Ibadan,Credit,TXN1068,4/5/2024,Deposit,198.85,257.74,Mobile App,No,0.82
+Mary Johnson,32,Female,Ibadan,Current,TXN1069,7/2/2024,Deposit,1249.33,2288.75,Web,No,4.32
+William Wilson,24,Female,Port Harcourt,Credit,TXN1070,2/21/2024,Deposit,511.22,4101.74,Web,No,6.99
+John Williams,65,Male,Ibadan,Credit,TXN1071,3/15/2024,Withdrawal,994.19,-73.94,Mobile App,No,11.84
+Patricia Brown,24,Female,Port Harcourt,Current,TXN1072,2/17/2024,Transfer,1873.54,1039.44,Mobile App,Yes,1.37
+Mary Johnson,47,Male,Ibadan,Savings,TXN1073,2/15/2024,Transfer,192.36,2232.81,ATM,No,15.24
+David Taylor,28,Female,Abuja,Credit,TXN1074,3/26/2024,Deposit,381.95,3583.28,Web,No,17.62
+James Robert,,Male,Abuja,Current,TXN1075,1/26/2024,Payment,873.32,568.13,POS,No,2.70
+Linda Miller,,Female,Ibadan,Credit,TXN1076,11/4/2024,Deposit,1343.16,-242.51,Web,No,15.60
+David Taylor,,Male,Abuja,Savings,TXN1077,4/11/2024,Withdrawal,374.53,3605.56,POS,No,8.64
+James Robert,48,Male,Ibadan,Savings,TXN1078,1/31/2024,Transfer,642.95,1721.47,POS,No,0.97
+Mary Johnson,,Male,Abuja,Credit,TXN1079,3/20/2024,Withdrawal,1583.44,935.95,POS,No,16.75
+Elizabeth Moore,24,Female,Ibadan,Current,TXN1080,2/18/2024,Transfer,1352.15,4149.43,Mobile App,No,19.42
+Mary Johnson,55,Female,Port Harcourt,Savings,TXN1081,3/5/2024,Transfer,1006.79,3934.44,Web,No,16.77
+David Taylor,,Female,Ibadan,Current,TXN1082,11/1/2024,Payment,888.31,1030.01,POS,No,6.53
+Michael Davis,,Female,Port Harcourt,Current,TXN1083,3/21/2024,Transfer,566.71,2971.62,ATM,No,16.20
+Mary Johnson,26,Male,Lagos,Savings,TXN1084,3/17/2024,Payment,1964.73,3835.14,ATM,No,7.91
+John Williams,32,Female,Abuja,Savings,TXN1085,3/29/2024,Deposit,623.88,-18.67,POS,No,7.53
+Michael Davis,20,Male,Port Harcourt,Savings,TXN1086,1/21/2024,Payment,1212.21,1813.92,Web,No,8.37
+Jennifer Anderson,23,Female,Port Harcourt,Savings,TXN1087,3/17/2024,Deposit,1015.04,-113.81,POS,No,13.60
+William Wilson,41,Male,Port Harcourt,Savings,TXN1088,1/27/2024,Payment,1097.04,736.49,POS,No,0.93
+James Robert,29,Female,Lagos,Credit,TXN1089,1/13/2024,Deposit,1896.50,-334.96,Mobile App,No,17.65
+William Wilson,20,Male,Abuja,Credit,TXN1090,3/26/2024,Payment,1938.09,3961.20,Web,No,10.56
+James Robert,,Male,Ibadan,Savings,TXN1091,4/22/2024,Deposit,1610.45,2358.75,Mobile App,No,6.44
+James Robert,,Female,Abuja,Credit,TXN1092,1/20/2024,Transfer,1619.26,3423.14,Mobile App,No,1.63
+Mary Johnson,24,Male,Ibadan,Credit,TXN1093,4/30/2024,Withdrawal,1066.73,1201.36,POS,No,18.72
+James Robert,,Male,Abuja,Savings,TXN1094,1/2/2024,Deposit,1141.78,-62.53,ATM,No,10.06
+David Taylor,40,Male,Abuja,Savings,TXN1095,8/2/2024,Withdrawal,412.01,4774.90,POS,No,10.97
+Michael Davis,,Male,Port Harcourt,Credit,TXN1096,9/3/2024,Payment,644.54,2459.03,Mobile App,No,14.01
+Mary Johnson,19,Female,Port Harcourt,Credit,TXN1097,2/6/2024,Transfer,646.55,2745.11,ATM,No,8.42
+James Robert,,Male,Port Harcourt,Savings,TXN1098,1/22/2024,Withdrawal,1142.11,1020.26,ATM,No,17.90
+Elizabeth Moore,26,Female,Ibadan,Current,TXN1099,1/29/2024,Withdrawal,1866.51,2454.14,Mobile App,No,1.64
+James Robert,,Female,Ibadan,Credit,TXN1100,1/20/2024,Withdrawal,1238.50,1555.82,POS,No,6.90
+Patricia Brown,,Male,Ibadan,Credit,TXN1101,1/4/2024,Transfer,1311.88,4577.93,Mobile App,No,8.07
+Patricia Brown,54,Female,Abuja,Current,TXN1102,3/18/2024,Withdrawal,1637.98,3799.92,POS,No,17.82
+Elizabeth Moore,,Female,Port Harcourt,Current,TXN1103,1/25/2024,Payment,989.71,931.90,POS,No,6.33
+William Wilson,,Male,Abuja,Current,TXN1104,3/18/2024,Payment,366.70,241.83,Mobile App,No,12.05
+Mary Johnson,,Female,Abuja,Credit,TXN1105,2/28/2024,Payment,814.94,1741.04,Web,No,12.34
+Patricia Brown,51,Female,Port Harcourt,Current,TXN1106,4/26/2024,Deposit,1670.25,3235.45,POS,Yes,18.31
+Michael Davis,26,Female,Ibadan,Current,TXN1107,2/16/2024,Payment,708.17,432.46,ATM,No,1.41
+Linda Miller,23,Male,Port Harcourt,Savings,TXN1108,4/14/2024,Payment,834.10,4886.60,ATM,No,15.70
+William Wilson,,Female,Lagos,Current,TXN1109,4/7/2024,Transfer,1511.02,-142.74,Web,No,19.21
+James Robert,24,Male,Abuja,Savings,TXN1110,1/1/2024,Deposit,1445.47,1201.91,ATM,No,12.99
+Linda Miller,64,Female,Abuja,Current,TXN1111,1/21/2024,Transfer,1530.93,1967.14,Web,No,13.99
+David Taylor,42,Male,Abuja,Current,TXN1112,3/25/2024,Deposit,355.45,2459.74,Mobile App,No,11.01
+David Taylor,,Male,Abuja,Savings,TXN1113,3/6/2024,Payment,53.99,3122.17,Mobile App,No,17.37
+James Robert,,Male,Ibadan,Current,TXN1114,2/22/2024,Payment,1500.46,4956.31,Mobile App,No,8.56
+David Taylor,22,Male,Ibadan,Current,TXN1115,5/2/2024,Deposit,1080.21,1771.37,Mobile App,No,9.67
+James Robert,36,Female,Abuja,Current,TXN1116,1/24/2024,Payment,234.05,1739.92,Web,No,19.46
+Michael Davis,56,Male,Ibadan,Credit,TXN1117,2/19/2024,Payment,257.09,4943.03,Web,No,1.89
+James Robert,25,Female,Port Harcourt,Credit,TXN1118,2/17/2024,Withdrawal,678.84,2897.56,POS,No,10.08
+William Wilson,23,Female,Abuja,Credit,TXN1119,3/29/2024,Payment,921.89,1007.41,Web,No,4.09
+Elizabeth Moore,,Female,Ibadan,Credit,TXN1120,4/29/2024,Payment,1702.58,-55.29,ATM,No,6.51
+William Wilson,,Female,Port Harcourt,Savings,TXN1121,3/23/2024,Transfer,946.42,461.34,ATM,No,2.82
+James Robert,57,Male,Lagos,Credit,TXN1122,3/24/2024,Deposit,679.14,-167.22,Mobile App,No,11.38
+William Wilson,,Male,Abuja,Savings,TXN1123,3/4/2024,Payment,1454.47,4704.11,Mobile App,No,2.88
+Elizabeth Moore,,Female,Abuja,Savings,TXN1124,2/29/2024,Deposit,1700.13,3813.76,Mobile App,No,11.11
+John Williams,,Female,Abuja,Savings,TXN1125,1/17/2024,Payment,1568.58,4781.05,ATM,No,9.56
+Jennifer Anderson,,Male,Abuja,Current,TXN1126,1/15/2024,Withdrawal,964.58,3169.42,POS,No,9.29
+James Robert,60,Male,Ibadan,Current,TXN1127,3/20/2024,Transfer,1335.07,3194.17,POS,No,13.46
+Patricia Brown,27,Male,Port Harcourt,Current,TXN1128,1/31/2024,Transfer,176.80,3351.80,ATM,No,8.52
+Mary Johnson,,Male,Ibadan,Savings,TXN1129,1/5/2024,Deposit,246.67,4552.83,POS,No,2.13
+William Wilson,51,Male,Lagos,Savings,TXN1130,4/4/2024,Withdrawal,1844.01,1836.16,Mobile App,No,9.55
+Linda Miller,44,Female,Lagos,Current,TXN1131,2/16/2024,Payment,733.84,-451.46,Mobile App,No,12.08
+David Taylor,,Female,Abuja,Current,TXN1132,2/21/2024,Deposit,1842.46,199.58,Web,No,16.96
+John Williams,,Female,Abuja,Current,TXN1133,4/10/2024,Withdrawal,145.24,3203.70,Mobile App,No,4.92
+David Taylor,65,Male,Abuja,Savings,TXN1134,2/5/2024,Deposit,214.88,741.07,ATM,No,18.82
+Michael Davis,31,Female,Ibadan,Credit,TXN1135,3/23/2024,Deposit,672.11,1362.79,ATM,No,5.69
+Michael Davis,,Female,Ibadan,Savings,TXN1136,2/25/2024,Withdrawal,517.10,4912.94,Mobile App,No,5.57
+John Williams,51,Male,Ibadan,Credit,TXN1137,4/25/2024,Withdrawal,1765.01,4484.19,Web,No,6.79
+William Wilson,62,Female,Ibadan,Current,TXN1138,1/30/2024,Deposit,1168.60,1409.46,Mobile App,No,2.44
+James Robert,35,Male,Abuja,Current,TXN1139,12/1/2024,Withdrawal,1613.22,55.20,Web,No,18.56
+David Taylor,,Female,Abuja,Savings,TXN1140,3/27/2024,Transfer,169.75,1778.09,Mobile App,No,2.92
+Mary Johnson,,Female,Ibadan,Savings,TXN1141,4/25/2024,Withdrawal,888.30,1526.52,Web,No,6.49
+Patricia Brown,42,Female,Port Harcourt,Current,TXN1142,2/11/2024,Withdrawal,1171.72,2883.95,ATM,No,3.78
+James Robert,,Female,Abuja,Savings,TXN1143,2/25/2024,Deposit,1791.10,3585.89,ATM,No,17.69
+Mary Johnson,41,Female,Abuja,Current,TXN1144,2/19/2024,Deposit,1876.02,2430.87,POS,No,11.37
+James Robert,,Female,Abuja,Current,TXN1145,8/4/2024,Withdrawal,385.82,1976.12,ATM,No,2.31
+James Robert,58,Male,Ibadan,Savings,TXN1146,11/2/2024,Deposit,1998.88,1447.21,Mobile App,No,6.94
+Michael Davis,,Female,Port Harcourt,Savings,TXN1147,1/13/2024,Deposit,1052.13,3463.64,Web,No,1.97
+Michael Davis,,Male,Lagos,Savings,TXN1148,4/18/2024,Transfer,1484.78,3856.64,Web,Yes,16.69
+Mary Johnson,,Female,Abuja,Credit,TXN1149,2/10/2024,Transfer,32.31,-401.14,Web,No,5.11
+Mary Johnson,,Female,Ibadan,Savings,TXN1150,2/22/2024,Transfer,997.86,3990.41,ATM,No,13.90
+Jennifer Anderson,28,Male,Abuja,Credit,TXN1151,4/13/2024,Deposit,1898.77,2142.81,Web,No,16.58
+David Taylor,32,Female,Abuja,Savings,TXN1152,2/20/2024,Withdrawal,16.87,4524.38,Mobile App,No,9.42
+John Williams,,Female,Abuja,Credit,TXN1153,12/2/2024,Deposit,739.11,4034.26,Mobile App,No,2.80
+Michael Davis,39,Female,Ibadan,Current,TXN1154,4/12/2024,Deposit,223.20,1424.29,Web,No,13.80
+Elizabeth Moore,,Male,Abuja,Current,TXN1155,3/18/2024,Withdrawal,672.59,1203.21,Mobile App,No,15.67
+John Williams,,Male,Abuja,Current,TXN1156,2/2/2024,Transfer,201.85,3612.19,Web,No,12.74
+David Taylor,,Female,Ibadan,Credit,TXN1157,2/29/2024,Withdrawal,143.35,2637.47,Mobile App,No,3.36
+David Taylor,,Male,Port Harcourt,Savings,TXN1158,10/4/2024,Transfer,387.46,3405.83,Web,No,10.57
+John Williams,65,Male,Port Harcourt,Current,TXN1159,9/3/2024,Payment,530.18,-332.73,Web,No,5.61
+Elizabeth Moore,33,Male,Abuja,Savings,TXN1160,3/24/2024,Transfer,1204.37,-472.96,POS,No,11.31
+John Williams,,Male,Ibadan,Current,TXN1161,3/11/2024,Withdrawal,779.35,4924.46,POS,No,15.67
+Michael Davis,,Male,Abuja,Current,TXN1162,2/20/2024,Transfer,1423.25,1803.18,ATM,No,7.27
+Michael Davis,42,Male,Abuja,Current,TXN1163,1/4/2024,Transfer,195.05,1617.67,POS,No,18.93
+John Williams,,Female,Abuja,Credit,TXN1164,7/3/2024,Transfer,1832.86,1959.78,Web,Yes,4.30
+Mary Johnson,,Male,Ibadan,Savings,TXN1165,5/2/2024,Payment,1300.87,4710.51,POS,No,4.12
+Jennifer Anderson,19,Female,Abuja,Current,TXN1166,3/10/2024,Payment,1359.92,4745.25,POS,No,9.47
+David Taylor,29,Male,Lagos,Savings,TXN1167,9/2/2024,Withdrawal,1663.30,761.51,POS,No,1.91
+William Wilson,,Male,Ibadan,Current,TXN1168,1/28/2024,Transfer,1691.88,626.83,ATM,No,3.75
+Elizabeth Moore,44,Male,Ibadan,Credit,TXN1169,3/26/2024,Payment,1860.08,3858.98,Mobile App,No,8.10
+William Wilson,,Male,Ibadan,Credit,TXN1170,4/3/2024,Withdrawal,694.69,3593.04,ATM,No,8.91
+John Williams,,Female,Lagos,Credit,TXN1171,4/29/2024,Withdrawal,1220.83,580.50,Web,No,2.82
+Jennifer Anderson,,Female,Ibadan,Current,TXN1172,1/21/2024,Deposit,645.00,2236.47,POS,No,9.56
+Linda Miller,64,Female,Lagos,Credit,TXN1173,1/19/2024,Withdrawal,1660.72,630.59,POS,No,8.40
+Michael Davis,,Male,Abuja,Credit,TXN1174,4/27/2024,Withdrawal,483.12,3013.26,ATM,No,18.93
+Elizabeth Moore,52,Male,Port Harcourt,Credit,TXN1175,4/22/2024,Payment,1847.84,4159.47,POS,No,6.35
+Linda Miller,,Male,Port Harcourt,Savings,TXN1176,3/16/2024,Deposit,169.75,1451.26,ATM,No,15.70
+Elizabeth Moore,,Female,Abuja,Savings,TXN1177,3/3/2024,Deposit,1854.57,-381.58,Web,No,5.67
+John Williams,,Female,Abuja,Savings,TXN1178,1/23/2024,Deposit,1768.99,2032.21,Mobile App,No,19.12
+Patricia Brown,,Female,Port Harcourt,Savings,TXN1179,3/19/2024,Payment,1078.48,3401.20,Web,No,3.45
+Patricia Brown,54,Female,Lagos,Credit,TXN1180,2/26/2024,Deposit,1569.91,4095.90,Web,No,2.48
+Michael Davis,,Female,Port Harcourt,Credit,TXN1181,1/21/2024,Deposit,1315.61,3628.55,Mobile App,No,19.94
+Linda Miller,,Male,Ibadan,Savings,TXN1182,1/19/2024,Payment,1979.87,615.88,Mobile App,No,18.55
+John Williams,56,Female,Ibadan,Current,TXN1183,10/2/2024,Deposit,180.34,2827.44,Mobile App,No,12.40
+Mary Johnson,,Male,Abuja,Savings,TXN1184,2/5/2024,Payment,349.43,596.68,ATM,No,13.14
+Linda Miller,61,Male,Port Harcourt,Savings,TXN1185,4/16/2024,Payment,1654.58,2395.11,ATM,No,18.43
+Mary Johnson,42,Male,Ibadan,Current,TXN1186,1/17/2024,Payment,1063.61,1754.38,Mobile App,No,17.38
+Jennifer Anderson,,Male,Ibadan,Savings,TXN1187,9/1/2024,Withdrawal,1118.89,2429.55,POS,No,10.06
+Mary Johnson,,Male,Port Harcourt,Savings,TXN1188,3/1/2024,Withdrawal,136.81,1099.44,Web,No,5.10
+Patricia Brown,,Male,Abuja,Credit,TXN1189,2/26/2024,Withdrawal,71.02,470.16,Mobile App,No,4.67
+John Williams,24,Female,Abuja,Credit,TXN1190,1/29/2024,Withdrawal,293.78,2308.25,POS,No,19.52
+Michael Davis,34,Female,Ibadan,Credit,TXN1191,4/16/2024,Withdrawal,1260.61,4083.11,Web,No,3.01
+John Williams,,Female,Ibadan,Savings,TXN1192,1/30/2024,Transfer,732.02,3859.24,Web,No,5.31
+Elizabeth Moore,,Female,Ibadan,Savings,TXN1193,4/28/2024,Deposit,888.74,-477.87,Mobile App,No,15.58
+Jennifer Anderson,,Female,Ibadan,Savings,TXN1194,2/7/2024,Transfer,110.48,76.76,Web,No,8.33
+Mary Johnson,,Male,Port Harcourt,Credit,TXN1195,12/4/2024,Payment,546.29,-477.30,Mobile App,No,17.54
+Jennifer Anderson,42,Female,Lagos,Credit,TXN1196,4/21/2024,Transfer,812.97,2998.75,Mobile App,No,13.30
+David Taylor,38,Female,Port Harcourt,Savings,TXN1197,4/25/2024,Withdrawal,708.68,4745.73,Mobile App,No,6.53
+William Wilson,49,Female,Abuja,Savings,TXN1198,4/5/2024,Withdrawal,367.42,4608.69,POS,Yes,8.09
+Elizabeth Moore,29,Female,Ibadan,Credit,TXN1199,4/13/2024,Withdrawal,1727.71,3614.98,Web,No,14.77
+David Taylor,57,Male,Lagos,Credit,TXN1200,2/17/2024,Transfer,1333.99,1167.74,Web,No,13.16
+William Wilson,,Female,Ibadan,Savings,TXN1201,7/4/2024,Deposit,1175.24,4437.92,ATM,No,6.79
+Jennifer Anderson,,Female,Abuja,Credit,TXN1202,4/20/2024,Deposit,508.93,-226.39,Mobile App,No,19.88
+David Taylor,48,Female,Ibadan,Credit,TXN1203,3/25/2024,Withdrawal,1266.85,4262.06,ATM,No,3.39
+Jennifer Anderson,,Female,Abuja,Savings,TXN1204,2/9/2024,Payment,998.95,148.25,POS,No,11.23
+Michael Davis,,Female,Port Harcourt,Savings,TXN1205,3/16/2024,Payment,20.01,2417.64,ATM,No,13.34
+Linda Miller,22,Male,Port Harcourt,Credit,TXN1206,1/2/2024,Deposit,718.96,2149.38,Mobile App,No,14.21
+Linda Miller,33,Male,Abuja,Credit,TXN1207,1/5/2024,Withdrawal,180.55,1502.74,Web,No,4.07
+John Williams,54,Male,Port Harcourt,Current,TXN1208,4/1/2024,Deposit,920.59,4431.62,POS,No,3.70
+David Taylor,26,Female,Ibadan,Credit,TXN1209,2/9/2024,Transfer,1202.02,4013.05,POS,No,4.91
+David Taylor,,Male,Ibadan,Credit,TXN1210,2/28/2024,Deposit,363.77,-376.79,Mobile App,Yes,1.27
+David Taylor,,Female,Port Harcourt,Credit,TXN1211,1/26/2024,Payment,219.01,4215.24,Mobile App,No,14.22
+Jennifer Anderson,,Female,Lagos,Current,TXN1212,4/20/2024,Transfer,1443.28,1406.94,Mobile App,No,1.16
+William Wilson,,Male,Abuja,Savings,TXN1213,1/2/2024,Withdrawal,507.23,-484.83,Mobile App,No,17.37
+Patricia Brown,45,Male,Ibadan,Current,TXN1214,2/13/2024,Deposit,345.88,4542.40,Mobile App,No,11.78
+Jennifer Anderson,,Female,Abuja,Credit,TXN1215,1/3/2024,Withdrawal,188.31,3614.41,Mobile App,No,7.59
+David Taylor,,Male,Ibadan,Current,TXN1216,1/30/2024,Transfer,711.48,4898.07,ATM,No,13.98
+Jennifer Anderson,,Male,Ibadan,Savings,TXN1217,11/3/2024,Withdrawal,703.04,3483.89,Web,No,4.56
+Jennifer Anderson,45,Female,Lagos,Current,TXN1218,3/26/2024,Payment,251.86,1170.24,POS,No,2.15
+Jennifer Anderson,41,Female,Abuja,Current,TXN1219,5/2/2024,Payment,1992.81,4512.39,POS,No,2.41
+Michael Davis,,Male,Abuja,Current,TXN1220,9/4/2024,Withdrawal,1963.73,4845.02,Web,No,2.62
+Elizabeth Moore,65,Male,Port Harcourt,Credit,TXN1221,3/16/2024,Deposit,292.22,1839.77,Mobile App,No,11.71
+James Robert,,Male,Ibadan,Credit,TXN1222,1/29/2024,Transfer,845.48,2620.80,POS,No,2.91
+Patricia Brown,34,Female,Abuja,Credit,TXN1223,2/27/2024,Transfer,549.26,-27.13,Web,No,4.71
+Jennifer Anderson,,Male,Abuja,Savings,TXN1224,3/28/2024,Withdrawal,462.56,3057.31,Web,No,3.36
+Jennifer Anderson,,Male,Ibadan,Savings,TXN1225,10/4/2024,Withdrawal,1227.42,3692.93,ATM,No,3.73
+William Wilson,,Female,Lagos,Credit,TXN1226,2/21/2024,Transfer,1154.50,321.74,POS,No,9.97
+Michael Davis,,Female,Ibadan,Credit,TXN1227,1/9/2024,Payment,493.55,1924.89,ATM,No,15.20
+Mary Johnson,,Male,Abuja,Savings,TXN1228,1/25/2024,Withdrawal,863.17,2417.74,POS,No,2.89
+William Wilson,31,Male,Ibadan,Current,TXN1229,5/1/2024,Payment,326.08,998.48,POS,No,4.73
+Elizabeth Moore,27,Male,Abuja,Credit,TXN1230,1/28/2024,Withdrawal,475.57,586.58,POS,No,0.16
+Elizabeth Moore,21,Male,Lagos,Savings,TXN1231,8/4/2024,Payment,297.31,3519.03,POS,No,4.29
+William Wilson,36,Female,Ibadan,Savings,TXN1232,3/29/2024,Payment,1610.22,-397.43,ATM,No,19.18
+David Taylor,52,Male,Abuja,Current,TXN1233,4/26/2024,Transfer,1751.94,1702.73,Mobile App,No,9.72
+William Wilson,,Male,Ibadan,Credit,TXN1234,2/12/2024,Transfer,636.68,781.36,POS,No,18.63
+Mary Johnson,60,Male,Abuja,Savings,TXN1235,2/19/2024,Deposit,1867.19,1416.15,Mobile App,No,1.59
+William Wilson,45,Female,Ibadan,Credit,TXN1236,4/29/2024,Deposit,869.92,2681.86,Mobile App,No,17.75
+Linda Miller,37,Female,Lagos,Savings,TXN1237,4/21/2024,Transfer,29.89,2629.86,Mobile App,No,16.33
+Mary Johnson,19,Female,Ibadan,Savings,TXN1238,11/3/2024,Transfer,36.01,-471.99,Web,No,7.41
+Linda Miller,,Male,Abuja,Current,TXN1239,3/13/2024,Withdrawal,198.68,2069.79,POS,No,17.48
+Mary Johnson,63,Female,Port Harcourt,Savings,TXN1240,1/6/2024,Deposit,1717.27,2114.55,Mobile App,No,13.12
+Michael Davis,38,Male,Port Harcourt,Savings,TXN1241,4/2/2024,Transfer,206.17,3090.81,Mobile App,No,5.92
+Jennifer Anderson,,Male,Abuja,Savings,TXN1242,4/7/2024,Deposit,912.08,2253.06,Web,No,9.96
+Linda Miller,32,Male,Lagos,Current,TXN1243,2/25/2024,Payment,360.47,963.22,Mobile App,No,4.72
+Mary Johnson,,Male,Ibadan,Savings,TXN1244,3/14/2024,Deposit,248.54,-281.94,Web,No,9.89
+James Robert,,Female,Port Harcourt,Savings,TXN1245,4/25/2024,Withdrawal,513.91,-213.99,ATM,No,12.42
+James Robert,,Male,Abuja,Savings,TXN1246,1/30/2024,Payment,737.33,1398.04,Web,No,2.09
+John Williams,54,Male,Port Harcourt,Current,TXN1247,2/25/2024,Payment,1349.46,2118.87,Web,No,1.36
+Michael Davis,57,Male,Port Harcourt,Credit,TXN1248,1/17/2024,Transfer,1080.91,4225.29,ATM,No,1.85
+Michael Davis,,Female,Ibadan,Credit,TXN1249,2/16/2024,Deposit,525.05,2763.46,ATM,No,8.46
+David Taylor,28,Female,Ibadan,Current,TXN1250,11/3/2024,Deposit,1293.99,904.66,Mobile App,No,9.69
+Linda Miller,,Male,Ibadan,Current,TXN1251,1/23/2024,Withdrawal,1811.57,984.65,Mobile App,No,3.08
+Linda Miller,,Female,Abuja,Credit,TXN1252,3/2/2024,Transfer,798.06,3305.28,Web,No,14.61
+John Williams,20,Male,Abuja,Credit,TXN1253,2/29/2024,Withdrawal,913.91,2252.42,Web,No,13.80
+William Wilson,40,Male,Lagos,Current,TXN1254,5/2/2024,Withdrawal,452.49,560.80,ATM,No,16.33
+Mary Johnson,49,Female,Abuja,Credit,TXN1255,4/7/2024,Transfer,1866.67,791.44,Mobile App,No,12.37
+David Taylor,,Male,Ibadan,Current,TXN1256,2/1/2024,Deposit,302.60,1667.93,Web,No,15.26
+James Robert,,Male,Ibadan,Credit,TXN1257,1/19/2024,Deposit,1859.78,975.35,Web,No,17.74
+William Wilson,,Male,Abuja,Savings,TXN1258,4/14/2024,Payment,1436.95,3458.27,POS,No,3.09
+Elizabeth Moore,,Female,Abuja,Credit,TXN1259,1/22/2024,Deposit,883.93,1017.70,POS,No,14.59
+Jennifer Anderson,60,Female,Ibadan,Credit,TXN1260,2/13/2024,Withdrawal,367.76,2743.67,Web,No,6.23
+John Williams,65,Female,Lagos,Current,TXN1261,2/18/2024,Transfer,218.25,1088.33,Web,No,11.65
+Michael Davis,21,Male,Ibadan,Savings,TXN1262,11/4/2024,Withdrawal,1657.87,1679.67,ATM,No,16.03
+Jennifer Anderson,28,Female,Ibadan,Savings,TXN1263,3/17/2024,Withdrawal,585.85,227.93,ATM,No,14.21
+Jennifer Anderson,20,Female,Port Harcourt,Savings,TXN1264,1/17/2024,Payment,569.96,880.77,POS,No,7.22
+James Robert,47,Male,Port Harcourt,Credit,TXN1265,1/19/2024,Withdrawal,1866.13,918.22,ATM,No,3.81
+Patricia Brown,,Female,Ibadan,Current,TXN1266,5/1/2024,Transfer,1682.91,4116.05,ATM,No,18.02
+David Taylor,,Female,Ibadan,Current,TXN1267,3/14/2024,Transfer,470.70,3950.79,Mobile App,No,1.19
+David Taylor,,Female,Abuja,Current,TXN1268,3/15/2024,Transfer,378.45,3580.12,ATM,No,14.02
+David Taylor,20,Male,Ibadan,Savings,TXN1269,3/25/2024,Transfer,149.71,1459.90,Mobile App,No,4.25
+David Taylor,40,Female,Lagos,Current,TXN1270,2/22/2024,Payment,1033.27,3663.35,Web,No,16.96
+Michael Davis,58,Female,Port Harcourt,Current,TXN1271,1/1/2024,Payment,615.10,3670.74,Web,No,9.70
+Patricia Brown,24,Female,Ibadan,Current,TXN1272,4/29/2024,Payment,1923.34,2364.33,ATM,No,14.65
+James Robert,60,Female,Ibadan,Current,TXN1273,1/25/2024,Payment,749.60,4335.92,Web,No,8.61
+Michael Davis,32,Female,Ibadan,Credit,TXN1274,1/15/2024,Payment,1068.30,14.39,ATM,No,6.45
+Mary Johnson,,Male,Abuja,Savings,TXN1275,5/1/2024,Deposit,286.47,2719.31,Mobile App,No,18.66
+William Wilson,25,Male,Abuja,Current,TXN1276,8/1/2024,Transfer,1861.40,740.71,Mobile App,No,4.30
+William Wilson,27,Male,Abuja,Credit,TXN1277,12/4/2024,Payment,57.33,1317.55,Web,No,9.53
+James Robert,,Male,Ibadan,Credit,TXN1278,2/4/2024,Withdrawal,1194.61,3513.99,Mobile App,No,3.03
+Mary Johnson,,Female,Ibadan,Credit,TXN1279,3/29/2024,Transfer,1495.94,4133.56,ATM,No,15.74
+Elizabeth Moore,,Female,Ibadan,Current,TXN1280,2/27/2024,Deposit,1896.89,4444.94,Web,No,3.75
+John Williams,34,Female,Abuja,Savings,TXN1281,2/3/2024,Transfer,193.18,952.95,Mobile App,No,10.44
+Mary Johnson,,Male,Ibadan,Credit,TXN1282,4/25/2024,Transfer,228.46,2083.95,ATM,No,12.46
+Mary Johnson,26,Male,Abuja,Savings,TXN1283,4/16/2024,Withdrawal,279.75,1053.56,ATM,No,14.01
+Jennifer Anderson,,Female,Abuja,Savings,TXN1284,1/3/2024,Transfer,1074.44,79.50,POS,No,8.00
+Mary Johnson,24,Female,Abuja,Savings,TXN1285,7/1/2024,Withdrawal,762.64,1663.58,POS,No,8.56
+Jennifer Anderson,,Male,Port Harcourt,Current,TXN1286,1/29/2024,Payment,1161.36,2617.45,Web,No,4.84
+Michael Davis,,Male,Ibadan,Savings,TXN1287,1/22/2024,Payment,487.37,-57.38,Web,Yes,6.76
+James Robert,58,Male,Abuja,Credit,TXN1288,4/30/2024,Payment,1025.99,1244.37,ATM,No,6.52
+Elizabeth Moore,,Male,Ibadan,Savings,TXN1289,1/21/2024,Withdrawal,168.63,1149.85,Web,No,16.81
+Linda Miller,23,Male,Lagos,Credit,TXN1290,3/23/2024,Deposit,333.40,428.31,Web,No,13.30
+Mary Johnson,30,Male,Ibadan,Current,TXN1291,2/16/2024,Transfer,1384.70,735.05,Mobile App,No,2.06
+James Robert,64,Female,Abuja,Credit,TXN1292,4/30/2024,Deposit,1385.20,191.23,POS,No,17.81
+Michael Davis,53,Male,Abuja,Savings,TXN1293,1/25/2024,Payment,1010.55,2805.62,ATM,No,12.43
+David Taylor,,Male,Port Harcourt,Credit,TXN1294,3/22/2024,Deposit,1902.22,4345.74,ATM,No,6.92
+James Robert,,Female,Lagos,Current,TXN1295,12/4/2024,Payment,696.12,1123.41,POS,Yes,2.61
+William Wilson,27,Female,Port Harcourt,Current,TXN1296,2/27/2024,Transfer,703.82,-373.58,Web,No,9.95
+William Wilson,,Female,Ibadan,Savings,TXN1297,4/14/2024,Deposit,1591.28,327.07,Web,Yes,11.15
+Jennifer Anderson,,Male,Abuja,Current,TXN1298,1/21/2024,Payment,360.21,2144.45,Web,No,17.04
+John Williams,24,Male,Lagos,Credit,TXN1299,6/1/2024,Deposit,1299.90,416.49,Web,No,14.17
