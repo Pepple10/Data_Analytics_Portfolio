@@ -1,0 +1,422 @@
+<!doctype html>
+<html>
+  <head>
+    <title>My Analytics Portfolio</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: Arial, sans-serif;
+        background: #f8fafc;
+        color: #1a1a2e;
+      }
+
+      /* SECTIONS */
+      section {
+        padding: 100px 80px;
+      }
+
+      /* HERO */
+      .hero {
+        min-height: 100vh;
+        background: #1a1a2e;
+        color: white;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+        position: relative;
+        overflow: hidden;
+      }
+
+      .hero h1 {
+        font-size: 72px;
+        margin-bottom: 20px;
+      }
+
+      .hero p {
+        font-size: 18px;
+        opacity: 0.8;
+      }
+
+      /* ABOUT */
+      .about {
+        background: #fffef7;
+      }
+
+      .about h2 {
+        font-size: 40px;
+        margin-bottom: 20px;
+      }
+
+      .about p {
+        max-width: 700px;
+        line-height: 1.8;
+        color: #4b5563;
+      }
+
+      /* PROJECTS */
+      .projects h2 {
+        font-size: 40px;
+        margin-bottom: 40px;
+      }
+
+      .grid{
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+  align-items: stretch;
+}
+      /* CARDS */
+      .card{
+  background: white;
+  padding: 28px;
+  border-radius: 24px;
+ 
+.card p{
+  flex-grow:1;
+}
+.card{
+  transition: transform 0.3s ease,
+              box-shadow 0.3s ease;
+}
+
+  min-height: 260px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+
+  height: 100%;
+}
+
+      /* HOVER */
+      .card:hover {
+        transform: translateY(-8px);
+      }
+
+      /* CARD COLORS */
+      .card:nth-child(1) {
+        background: #e8f0fe;
+      }
+
+      .card:nth-child(2) {
+        background: #e6fffb;
+      }
+
+      .card:nth-child(3) {
+        background: #f3e8ff;
+      }
+
+      .card:nth-child(4) {
+        background: #fff4e6;
+      }
+
+      .card:nth-child(5) {
+        background: #eaf7e6;
+      }
+
+      .card:nth-child(6) {
+        background: #f1f5f9;
+      }
+
+      /* CARD TEXT */
+      .card h3 {
+        font-size: 22px;
+        margin-bottom: 14px;
+      }
+
+      .card p {
+        color: #4b5563;
+        line-height: 1.6;
+        margin-bottom: 20px;
+      }
+
+      /* TOOLS */
+      .tools {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+
+      .tools span {
+        background: #eef2f7;
+        padding: 8px 14px;
+        border-radius: 999px;
+        font-size: 12px;
+      }
+
+      /* MOBILE */
+      @media (max-width: 900px) {
+
+        section {
+          padding: 80px 24px;
+        }
+
+        .grid {
+          grid-template-columns: 1fr;
+        }
+
+        .hero h1 {
+          font-size: 48px;
+        }
+      }
+
+        /* ANIMATION STATES */
+
+        .hidden {
+          opacity: 0;
+          transform: translateY(40px);
+          transition:
+            opacity 0.8s ease,
+            transform 0.8s ease;
+        }
+
+        .show {
+          opacity: 1;
+          transform: translateY(0);
+        }
+
+        .card-link{
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.navbar{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  padding:20px 80px;
+
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+
+  background:white;
+  box-shadow:0 5px 20px rgba(0,0,0,0.05);
+  z-index:1000;
+}
+
+.logo{
+  font-weight:700;
+  font-size:18px;
+  color:#1A1A2E;
+}
+
+.nav-links{
+  display:flex;
+  gap:30px;
+}
+
+.nav-links a{
+  text-decoration:none;
+  color:#4B5563;
+  font-weight:500;
+}
+
+.nav-links a:hover{
+  color:#1A1A2E;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+.hero{
+  padding-top:120px;
+}
+    </style>
+  </head>
+  <body>
+    <nav class="navbar">
+
+  <div class="logo">My Portfolio</div>
+
+  <div class="nav-links">
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+  </div>
+
+</nav>
+    <!-- PAGE 1 -->
+  <div class="card hidden">
+    <section id="home" class="hero hidden">
+      <h1>Insight through data.</h1>
+      <p>PEPPLE ISOBONYE VICTOR — Business Analyst & Project Manager</p>
+    </section>
+
+
+    <!-- PAGE 2 -->
+    <section id="about" class="about hidden">
+      <h2>About Me</h2>
+
+      <div class="about-grid">
+        <div class="about-text">
+          <p>
+            Data analyst focused on transforming raw datasets into actionable
+            insights using SQL, Python, and Power BI.
+          </p>
+
+          <p>
+            I enjoy building dashboards, cleaning messy data, and finding
+            patterns that help businesses make better decisions.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- PAGE 3 -->
+    <section id="projects" class="projects hidden">
+      <h2>Projects</h2>
+
+      <div class="projects grid">
+       
+    <a href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Retail-Sales-Analysis" target="_blank" class="card-link">
+  <div class="card hidden">
+          <h3>Sales Dashboard</h3>
+
+          <p>
+            Built a Power BI dashboard to track revenue, customer trends, and
+            regional sales performance.
+          </p>
+
+          <div class="tools">
+            <span>Power BI</span>
+            <span>SQL</span>
+            <span>Excel</span>
+          </div>
+        </div>
+          </a>
+
+      <a href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Marketing performance analysis" target="_blank" class="card-link">
+        <div class="card hidden">
+           <h3>Market Performance Analysis</h3>
+
+    <p>
+      Analyzed customer purchase behavior and evaluated campaign performance across multiple marketing channels to identify high-converting sources and optimize marketing spend.
+    </p>
+
+    <div class="tools">
+      <span>SQL</span>
+      <span>Excel</span>
+      <span>Power BI</span>
+          </div>
+        </div>
+      </a>
+
+<a href="https://github.com/pepple10/data_analytics_portfolio/tree/main/NovaMart_E-Commerce_Analysis" target="_blank" class="card-link">
+        <div class="card hidden">
+           <h3>NovaMart E-Commerce Analysis</h3>
+
+    <p>
+      Analyzed e-commerce sales data to understand customer behavior, product performance, and revenue trends to improve sales strategy and decision-making.
+    </p>
+
+    <div class="tools">
+      <span>SQL</span>
+      <span>Excel</span>
+      <span>Power BI</span>
+    </div>
+        </div>
+</a>
+
+<a href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Bank Transaction Analysis" target="_blank" class="card-link">
+        <div class="card hidden">
+          <h3>Bank Transaction Analysis</h3>
+
+          <p>
+            Analyzed bank transaction data to identify spending patterns and
+            unusual transaction behavior.
+          </p>
+
+          <div class="tools">
+            <span>SQL</span>
+            <span>Power BI</span>
+            <span>Excel</span>
+          </div>
+        </div>
+      </a>
+
+    <a href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Customer Segmentation Analysis" target="_blank" class="card-link">
+        <div class="card hidden">
+          <h3>Customer Segmentation</h3
+
+          <p>
+            Segmented customers based on purchasing behavior and demographics
+            for targeted marketing.
+          </p>
+
+          <div class="tools">
+            <span>Python</span>
+            <span>Pandas</span>
+            <span>SQL</span>
+          </div>
+        </div>
+      </a>
+
+      <a href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Financial_Transcations_Analysis" target="_blank" class="card-link">
+        <div class="card hidden">
+          <h3>Financial Transaction Analysis</h3>
+
+          <p>
+            Analyzed financial transactions to track cash flow, detect
+            anomalies, and evaluate trends.
+          </p>
+
+          <div class="tools">
+            <span>Excel</span>
+            <span>SQL</span>
+            <span>Power BI</span>
+          </div>
+        </div>
+      </a>
+
+          <a href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Customer Analytics Project" target="_blank" class="card-link">
+        <div class="card hidden">
+          <h3>Financial Transaction Analysis</h3>
+
+          <p>
+           Developed a full-scale Customer Analytics Dashboard project using Excel, MySQL, Power BI, and Jira to analyze customer purchasing behaviour, marketing perfrormance, and support trends. The project involved data cleaning, SQL-based business analysis, interactive dashboard creation, and Agile-style project management workflow tracking to deliver actionable business insights and recommendations.
+          </p>
+
+          <div class="tools">
+            <span>Excel</span>
+            <span>SQL</span>
+            <span>Power BI</span>
+            <span>Jira</span>
+          </div>
+        </div>
+      </a>
+      </div>
+    
+    </section>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const observer = new IntersectionObserver((entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              entry.target.classList.add("show");
+            }
+          });
+        });
+
+        const hiddenElements = document.querySelectorAll(".hidden");
+
+        hiddenElements.forEach((el) => {
+          observer.observe(el);
+        });
+      });
+    </script>
+  </body>
+</html>
