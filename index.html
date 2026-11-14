@@ -3,286 +3,259 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Pepple Isobonye Victor — Data Analyst Portfolio</title>
+<title>Pepple Isobonye Victor — Business Data Analyst | Excel &amp; Power BI</title>
+<meta name="description" content="Freelance business data analyst helping businesses clean spreadsheets, track sales and inventory, and build clear Excel reports and Power BI dashboards.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
 :root{
-  box-sizing:border-box;
-  padding-top:env(safe-area-inset-top,0px);
-  padding-bottom:env(safe-area-inset-bottom,0px);
-  --bg:#faf8ff; --surface:#ffffff; --text:#25213a; --muted:#6b6785;
-  --accent:#8b6fd6; --accent-soft:#ece6fb; --border:#e6e0f5;
-  --glow1:#e3d9fb; --glow2:#fbe3f1; --shadow:0 12px 32px rgba(120,95,190,.10);
-  --c1:#ece6fb; --c2:#e3f0fb; --c3:#fbe6f1; --c4:#e4f6ee; --c5:#fdf0dc; --c6:#eceaf6;
-  color-scheme:light;
-}
-@media (prefers-color-scheme:dark){
-  :root:not([data-theme="light"]){
-    --bg:#16131f; --surface:#201c2e; --text:#f1eefb; --muted:#a8a3c0;
-    --accent:#b9a2f5; --accent-soft:#2c2640; --border:#322c47;
-    --glow1:#2d2450; --glow2:#3a2038; --shadow:0 12px 32px rgba(0,0,0,.35);
-    --c1:#2a2342; --c2:#1f2a3f; --c3:#3a2438; --c4:#1f3330; --c5:#3a3023; --c6:#272438;
-    color-scheme:dark;
-  }
-}
-:root[data-theme="dark"]{
-  --bg:#16131f; --surface:#201c2e; --text:#f1eefb; --muted:#a8a3c0;
-  --accent:#b9a2f5; --accent-soft:#2c2640; --border:#322c47;
-  --glow1:#2d2450; --glow2:#3a2038; --shadow:0 12px 32px rgba(0,0,0,.35);
-  --c1:#2a2342; --c2:#1f2a3f; --c3:#3a2438; --c4:#1f3330; --c5:#3a3023; --c6:#272438;
-  color-scheme:dark;
-}
+  box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
+  --bg:#faf8ff;--surface:#fff;--text:#25213a;--muted:#5f5a7a;--accent:#6a4bc4;--soft:#ece6fb;--border:#e3dcf4;
+  --glow1:#e3d9fb;--glow2:#fbe3f1;--shadow:0 12px 32px rgba(120,95,190,.10);color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#16131f;--surface:#201c2e;--text:#f1eefb;--muted:#b0abc8;--accent:#b9a2f5;--soft:#2c2640;--border:#322c47;
+  --glow1:#2d2450;--glow2:#3a2038;--shadow:0 12px 32px rgba(0,0,0,.35);color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#16131f;--surface:#201c2e;--text:#f1eefb;--muted:#b0abc8;--accent:#b9a2f5;--soft:#2c2640;--border:#322c47;
+  --glow1:#2d2450;--glow2:#3a2038;--shadow:0 12px 32px rgba(0,0,0,.35);color-scheme:dark}
 *{margin:0;padding:0;box-sizing:border-box}
-html{scroll-behavior:smooth;scroll-padding-top:calc(88px + env(safe-area-inset-top,0px))}
+html{scroll-behavior:smooth;scroll-padding-top:calc(96px + env(safe-area-inset-top,0px))}
 body{font-family:"Plus Jakarta Sans",system-ui,-apple-system,"Segoe UI",Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.6;-webkit-font-smoothing:antialiased}
-body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:30;background:var(--bg)}
 a{color:inherit;text-decoration:none}
+:focus-visible{outline:3px solid var(--accent);outline-offset:3px;border-radius:6px}
 .wrap{max-width:1120px;margin:0 auto;padding:0 24px}
+section{padding:88px 0}
+.eyebrow{color:var(--accent);font-weight:800;font-size:13px;letter-spacing:.12em;text-transform:uppercase;margin-bottom:10px}
+h2{font-size:clamp(28px,4vw,40px);letter-spacing:-.03em;line-height:1.15;margin-bottom:14px}
+.intro{color:var(--muted);max-width:640px;font-size:17px;margin-bottom:36px}
 
-/* NAV */
-header{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;padding:14px 0;backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);background:color-mix(in srgb,var(--bg) 78%,transparent);border-bottom:1px solid var(--border)}
-nav{display:flex;align-items:center;justify-content:space-between;gap:16px}
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;padding:12px 0;backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);background:color-mix(in srgb,var(--bg) 82%,transparent);border-bottom:1px solid var(--border)}
+nav{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
 .logo{font-weight:800;letter-spacing:-.02em;display:flex;align-items:center;gap:10px}
-.logo i{width:30px;height:30px;border-radius:10px;background:var(--accent);color:#fff;display:grid;place-items:center;font-style:normal;font-size:13px}
-.links{display:flex;align-items:center;gap:6px}
-.links a{padding:8px 14px;border-radius:999px;font-size:14px;font-weight:600;color:var(--muted);transition:.2s}
-.links a:hover{background:var(--accent-soft);color:var(--text)}
+.logo i{width:30px;height:30px;border-radius:10px;background:var(--accent);color:var(--bg);display:grid;place-items:center;font-style:normal;font-size:13px}
+.links{display:flex;gap:2px}
+.links a{padding:8px 13px;border-radius:999px;font-size:14px;font-weight:600;color:var(--muted);white-space:nowrap;transition:.2s}
+.links a:hover{background:var(--soft);color:var(--text)}
+.navr{display:flex;align-items:center;gap:10px}
 #theme{border:1px solid var(--border);background:var(--surface);color:var(--text);width:38px;height:38px;border-radius:50%;cursor:pointer;font-size:16px}
+.btn{display:inline-block;padding:13px 26px;border-radius:999px;font-weight:700;font-size:15px;transition:.2s;cursor:pointer;border:0}
+.btn.primary{background:var(--accent);color:var(--bg);box-shadow:0 8px 22px color-mix(in srgb,var(--accent) 30%,transparent)}
+.btn.primary:hover{transform:translateY(-2px)}
+.btn.ghost{background:var(--surface);border:1px solid var(--border);color:var(--text)}
+.btn.ghost:hover{background:var(--soft)}
+.btn.sm{padding:9px 18px;font-size:14px}
 
 /* HERO */
-.hero{position:relative;overflow:hidden;padding:110px 0 120px;text-align:center}
+.hero{position:relative;overflow:hidden;padding:84px 0 96px}
 .hero::before,.hero::after{content:"";position:absolute;border-radius:50%;filter:blur(70px);z-index:-1}
 .hero::before{width:420px;height:420px;background:var(--glow1);top:-120px;left:-80px}
-.hero::after{width:380px;height:380px;background:var(--glow2);bottom:-140px;right:-60px}
-.pill{display:inline-flex;align-items:center;gap:8px;background:var(--accent-soft);color:var(--accent);font-weight:700;font-size:13px;padding:8px 16px;border-radius:999px;margin-bottom:28px}
-.pill b{width:8px;height:8px;border-radius:50%;background:var(--accent)}
-h1{font-size:clamp(40px,7vw,76px);line-height:1.05;letter-spacing:-.035em;font-weight:800;margin-bottom:22px}
+.hero::after{width:360px;height:360px;background:var(--glow2);bottom:-140px;right:-40px}
+.hero .wrap{display:grid;grid-template-columns:1.25fr 1fr;gap:40px;align-items:center}
+.pill{display:inline-block;background:var(--soft);color:var(--accent);font-weight:700;font-size:13px;padding:7px 15px;border-radius:999px;margin-bottom:22px}
+h1{font-size:clamp(34px,5.2vw,58px);line-height:1.08;letter-spacing:-.035em;font-weight:800;margin-bottom:20px}
 h1 span{color:var(--accent)}
-.sub{max-width:560px;margin:0 auto 34px;color:var(--muted);font-size:18px}
-.cta{display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
-.btn{padding:14px 26px;border-radius:999px;font-weight:700;font-size:15px;transition:.2s}
-.btn.primary{background:var(--accent);color:#fff;box-shadow:0 8px 22px rgba(139,111,214,.35)}
-.btn.primary:hover{transform:translateY(-2px)}
-.btn.ghost{background:var(--surface);border:1px solid var(--border)}
-.btn.ghost:hover{background:var(--accent-soft)}
+.sub{color:var(--muted);font-size:18px;max-width:520px;margin-bottom:30px}
+.cta{display:flex;gap:12px;flex-wrap:wrap}
+.mock{background:var(--surface);border:1px solid var(--border);border-radius:28px;padding:26px;box-shadow:var(--shadow)}
+.mock .dots{display:flex;gap:6px;margin-bottom:18px}.mock .dots b{width:10px;height:10px;border-radius:50%;background:var(--border)}
+.kp{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:18px}
+.kp div{background:var(--soft);border-radius:14px;height:54px}
+.bars{display:flex;align-items:flex-end;gap:10px;height:130px}
+.bars i{flex:1;border-radius:8px 8px 3px 3px;background:var(--accent);opacity:.85}
+.bars i:nth-child(even){opacity:.4}
 
-/* SECTIONS */
-section{padding:90px 0}
-.eyebrow{color:var(--accent);font-weight:700;font-size:13px;letter-spacing:.12em;text-transform:uppercase;margin-bottom:10px}
-h2{font-size:clamp(30px,4vw,42px);letter-spacing:-.03em;line-height:1.15;margin-bottom:36px}
-
-/* ABOUT */
-.about{display:grid;grid-template-columns:1.3fr 1fr;gap:28px;align-items:start}
-.panel{background:var(--surface);border:1px solid var(--border);border-radius:28px;padding:34px;box-shadow:var(--shadow)}
-.panel p{color:var(--muted);font-size:17px}
-.panel p+p{margin-top:16px}
-.panel h3{font-size:16px;margin-bottom:16px}
-.chips{display:flex;flex-wrap:wrap;gap:10px}
-.chips span,.tools span{background:var(--accent-soft);color:var(--text);padding:7px 14px;border-radius:999px;font-size:13px;font-weight:600}
-
-/* PROJECTS */
-.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}
-.card{display:flex;flex-direction:column;justify-content:space-between;gap:22px;min-height:290px;padding:28px;border-radius:26px;border:1px solid var(--border);box-shadow:var(--shadow);transition:transform .3s ease,box-shadow .3s ease}
-.card:hover{transform:translateY(-8px)}
-.card:nth-child(1){background:var(--c1)}.card:nth-child(2){background:var(--c2)}.card:nth-child(3){background:var(--c3)}
-.card:nth-child(4){background:var(--c4)}.card:nth-child(5){background:var(--c5)}.card:nth-child(6){background:var(--c6)}
-.card:nth-child(7){background:var(--c1);grid-column:1/-1;min-height:0}
-.num{font-size:13px;font-weight:800;color:var(--accent);margin-bottom:12px}
-.card h3{font-size:21px;letter-spacing:-.02em;margin-bottom:10px;line-height:1.25}
-.card p{color:var(--muted);font-size:15px}
+/* CARDS */
+.panel{background:var(--surface);border:1px solid var(--border);border-radius:26px;padding:28px;box-shadow:var(--shadow)}
+.grid{display:grid;gap:22px}.g4{grid-template-columns:repeat(4,1fr)}.g3{grid-template-columns:repeat(3,1fr)}
+.svc{display:flex;flex-direction:column;transition:transform .3s}.svc:hover{transform:translateY(-6px)}
+.ico{width:44px;height:44px;border-radius:14px;background:var(--soft);display:grid;place-items:center;font-size:20px;margin-bottom:16px}
+.svc h3{font-size:19px;letter-spacing:-.02em;margin-bottom:8px;line-height:1.25}
+.svc .why{color:var(--muted);font-size:14.5px;margin-bottom:14px}
+ul.tick{list-style:none;display:grid;gap:7px;font-size:14px}
+ul.tick li{padding-left:22px;position:relative}
+ul.tick li::before{content:"✓";position:absolute;left:0;color:var(--accent);font-weight:800}
+.note{margin-top:22px;color:var(--muted);font-size:14px}
+.proj{display:flex;flex-direction:column;justify-content:space-between;gap:18px;transition:transform .3s}
+.proj:hover{transform:translateY(-6px)}
+.proj h3{font-size:19px;letter-spacing:-.02em;margin-bottom:10px;line-height:1.25}
+.proj dl{font-size:14px;color:var(--muted);display:grid;gap:8px}
+.proj dt{font-weight:800;color:var(--text);font-size:12px;letter-spacing:.06em;text-transform:uppercase}
 .tools{display:flex;flex-wrap:wrap;gap:8px}
-.tools span{background:color-mix(in srgb,var(--surface) 75%,transparent);font-size:12px;padding:6px 12px}
-.more{margin-top:18px;font-size:14px;font-weight:700;color:var(--accent)}
+.tools span,.chips span{background:var(--soft);padding:6px 13px;border-radius:999px;font-size:12.5px;font-weight:600}
+.view{font-weight:700;font-size:14px;color:var(--accent)}
+.alt{background:color-mix(in srgb,var(--soft) 55%,transparent)}
 
 /* FOUNDRY */
-.f-head{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:14px}
-.status{background:var(--accent);color:#fff;font-size:12px;font-weight:700;padding:6px 14px;border-radius:999px}
-.f-lead{max-width:720px;color:var(--muted);font-size:17px;margin-bottom:30px}
-.fstats{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-bottom:22px}
-.stat{background:var(--surface);border:1px solid var(--border);border-radius:22px;padding:22px;text-align:center}
-.stat b{display:block;font-size:30px;letter-spacing:-.03em;color:var(--accent)}
-.stat span{font-size:13px;color:var(--muted);font-weight:600}
-.f3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-bottom:22px}
-.f3 .panel{padding:28px}
-.f3 h3{display:flex;align-items:center;gap:10px}
-.tag{font-size:11px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:4px 10px;border-radius:999px;background:var(--accent-soft);color:var(--accent)}
-.f3 ul{list-style:none;display:grid;gap:10px}
-.f3 li{color:var(--muted);font-size:15px;padding-left:20px;position:relative}
-.f3 li::before{content:"";position:absolute;left:0;top:9px;width:8px;height:8px;border-radius:50%;background:var(--accent)}
-.f3 .plan li::before{background:transparent;border:2px solid var(--accent);top:7px;width:9px;height:9px}
-.f3 .vision{border-style:dashed;box-shadow:none;background:transparent}
-.f3 .vision li::before{background:var(--border)}
-.flow{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:6px 0 18px}
-.flow span{background:var(--accent-soft);padding:7px 14px;border-radius:999px;font-size:13px;font-weight:600}
-.flow i{color:var(--accent);font-style:normal;font-weight:700}
-.motto{margin-top:26px;text-align:center;color:var(--accent);font-weight:700;font-style:italic}
+.f-head{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+.f-head h3{font-size:clamp(26px,3.5vw,34px);letter-spacing:-.03em}
+.status{background:var(--accent);color:var(--bg);font-size:12px;font-weight:700;padding:6px 14px;border-radius:999px}
+.fstats{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:26px 0 20px}
+.stat{background:var(--surface);border:1px solid var(--border);border-radius:22px;padding:20px;text-align:center}
+.stat b{display:block;font-size:28px;letter-spacing:-.03em;color:var(--accent)}.stat span{font-size:13px;color:var(--muted);font-weight:600}
+.tag{font-size:11px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:4px 10px;border-radius:999px;background:var(--soft);color:var(--accent);margin-left:8px}
+.f3 h4{font-size:16px;margin-bottom:14px}
+.f3 li{color:var(--muted)}
+.vision{border-style:dashed;box-shadow:none;background:transparent}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0}
+.motto{margin-top:22px;text-align:center;color:var(--accent);font-weight:700;font-style:italic}
 
-footer{border-top:1px solid var(--border);padding:40px 0;text-align:center;color:var(--muted);font-size:14px}
+/* ABOUT + CONTACT */
+.about{max-width:760px}.about p{color:var(--muted);font-size:17px;margin-bottom:16px}
+.about ul{display:flex;flex-wrap:wrap;gap:10px;list-style:none;margin-top:20px}
+.about li{background:var(--soft);padding:8px 16px;border-radius:999px;font-weight:600;font-size:14px}
+.contact{text-align:center;padding:56px 28px}
+.contact h2{max-width:640px;margin:0 auto 14px}.contact p{color:var(--muted);max-width:560px;margin:0 auto 28px;font-size:17px}
+.contact .cta{justify-content:center}
+footer{border-top:1px solid var(--border);padding:34px 0;text-align:center;color:var(--muted);font-size:14px}
 footer a{color:var(--accent);font-weight:700}
 
-/* MOTION */
-.js .reveal{opacity:0;transform:translateY(30px);transition:opacity .8s ease,transform .8s ease}
+.js .reveal{opacity:0;transform:translateY(24px);transition:opacity .7s ease,transform .7s ease}
 .js .reveal.show{opacity:1;transform:none}
-@media (prefers-reduced-motion:reduce){.js .reveal{opacity:1;transform:none;transition:none}html{scroll-behavior:auto}}
+@media (prefers-reduced-motion:reduce){.js .reveal{opacity:1;transform:none;transition:none}html{scroll-behavior:auto}*{transition:none!important}}
 
-@media (max-width:900px){
-  .grid{grid-template-columns:1fr}.about{grid-template-columns:1fr}.f3{grid-template-columns:1fr}.fstats{grid-template-columns:1fr 1fr}
-  .card:nth-child(7){grid-column:auto}
-  section{padding:64px 0}.hero{padding:70px 0 80px}
-  .links a:not(.keep){display:none}
+@media (max-width:1000px){.g4{grid-template-columns:repeat(2,1fr)}.fstats{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:760px){
+  section{padding:60px 0}.hero{padding:48px 0 64px}
+  .hero .wrap,.g4,.g3{grid-template-columns:1fr}.mock{display:none}
+  .links{order:3;width:100%;overflow-x:auto;padding-bottom:2px}
 }
 </style>
 </head>
 <body>
 <header>
-  <nav class="wrap">
+  <nav class="wrap" aria-label="Main">
     <a href="#home" class="logo"><i>PV</i> Pepple Victor</a>
     <div class="links">
-      <a href="#home">Home</a><a href="#about">About</a><a href="#foundry">Foundry</a><a href="#projects" class="keep">Projects</a>
-      <button id="theme" aria-label="Toggle light or dark mode">◐</button>
+      <a href="#home">Home</a><a href="#services">Services</a><a href="#projects">Projects</a><a href="#about">About</a><a href="#foundry">Project Foundry</a><a href="#contact">Contact</a>
     </div>
+    <div class="navr"><a class="btn primary sm" href="#contact">Hire Me</a><button id="theme" aria-label="Toggle light or dark mode">◐</button></div>
   </nav>
 </header>
 
 <main>
-  <section id="home" class="hero">
-    <div class="wrap reveal">
-      <div class="pill"><b></b> Business Intelligence &amp; Analytics</div>
-      <h1>Insight through <span>data.</span></h1>
-      <p class="sub">I’m Pepple Isobonye Victor, a business intelligence analyst who turns messy data into dashboards, insights, and better business decisions.</p>
-      <div class="cta">
-        <a class="btn primary" href="#projects">View projects</a>
-        <a class="btn ghost" href="https://github.com/pepple10/data_analytics_portfolio" target="_blank" rel="noopener">GitHub</a>
-      </div>
+<section id="home" class="hero">
+  <div class="wrap">
+    <div class="reveal">
+      <div class="pill">Freelance · Excel &amp; Power BI</div>
+      <h1>Business Data Analyst <span>| Excel &amp; Power BI</span></h1>
+      <p class="sub">I help businesses turn disorganized data into structured spreadsheets, meaningful reports, and clear business insights.</p>
+      <div class="cta"><a class="btn primary" href="#services">Explore My Services</a><a class="btn ghost" href="#projects">View My Projects</a></div>
     </div>
-  </section>
-
-  <section id="about">
-    <div class="wrap">
-      <div class="eyebrow reveal">About</div>
-      <h2 class="reveal">Turning raw numbers into decisions.</h2>
-      <div class="about">
-        <div class="panel reveal">
-          <p>Business intelligence and data analyst focused on transforming raw datasets into actionable insights using SQL, Python, and Power BI.</p>
-          <p>I enjoy building dashboards, cleaning messy data, and finding patterns that help businesses make better decisions.</p>
-        </div>
-        <div class="panel reveal">
-          <h3>Toolkit</h3>
-          <div class="chips"><span>SQL</span><span>Python</span><span>Pandas</span><span>Power BI</span><span>Excel</span><span>MySQL</span><span>Jira</span></div>
-        </div>
-      </div>
+    <div class="mock reveal" aria-hidden="true">
+      <div class="dots"><b></b><b></b><b></b></div>
+      <div class="kp"><div></div><div></div><div></div></div>
+      <div class="bars"><i style="height:45%"></i><i style="height:70%"></i><i style="height:55%"></i><i style="height:85%"></i><i style="height:62%"></i><i style="height:95%"></i><i style="height:78%"></i></div>
     </div>
-  </section>
+  </div>
+</section>
 
-  <section id="foundry">
-    <div class="wrap">
-      <div class="eyebrow reveal">Flagship project</div>
-      <div class="f-head reveal"><h2 style="margin-bottom:0">Project Foundry</h2><span class="status">In active development · V2.6</span></div>
-      <p class="f-lead reveal">A configurable, multi-industry synthetic data platform that generates realistic, structured datasets for analytics practice, dashboard building, experimentation, and business simulation. I’m building it as a scalable platform, not a pile of one-off scripts.</p>
-
-      <div class="fstats reveal">
-        <div class="stat"><b>54</b><span>passing tests</span></div>
-        <div class="stat"><b>2</b><span>industries supported</span></div>
-        <div class="stat"><b>3</b><span>data quality profiles</span></div>
-        <div class="stat"><b>10–10k</b><span>records per run</span></div>
-      </div>
-
-      <div class="panel reveal" style="margin-bottom:22px">
-        <h3>How a dataset gets made</h3>
-        <div class="flow"><span>Request</span><i>→</i><span>Validate</span><i>→</i><span>Specify</span><i>→</i><span>Industry generator</span><i>→</i><span>Quality transforms</span><i>→</i><span>CSV export</span><i>→</i><span>Metadata</span><i>→</i><span>Regenerate</span></div>
-        <p>Every run gets its own ID and output folder, so nothing is overwritten. Seeds and fixed reference dates make any dataset reproducible from its saved JSON metadata.</p>
-      </div>
-
-      <div class="f3">
-        <div class="panel reveal">
-          <h3>Built <span class="tag">Implemented</span></h3>
-          <ul>
-            <li>Modular Python engine with a generator factory and dataclass models</li>
-            <li>SaaS Customer and Finance Transaction datasets, including NGN, KES, GHS, ZAR, and EGP currency mapping</li>
-            <li>Clean, Realistic, and Messy profiles with controlled missing values and duplicates, with identifiers protected</li>
-            <li>Seed-based reproducibility and regeneration from metadata</li>
-            <li>Request validation and CLI workflows covered by Pytest</li>
-          </ul>
-        </div>
-        <div class="panel plan reveal">
-          <h3>Building now <span class="tag">V2.6</span></h3>
-          <ul>
-            <li>FastAPI and Pydantic backend wrapping the existing engine</li>
-            <li>React, TypeScript, and Vite frontend</li>
-            <li>Dashboard, generation forms, progress, and validation feedback</li>
-            <li>Run history, CSV downloads, and metadata access</li>
-            <li>Accessible, responsive interface</li>
-          </ul>
-        </div>
-        <div class="panel vision reveal">
-          <h3>Vision <span class="tag">Planned</span></h3>
-          <ul>
-            <li>More industry generators and reusable templates</li>
-            <li>Relational dataset generation</li>
-            <li>Dataset profiling, versioning, and lineage</li>
-            <li>Evidence-backed business scenarios and analytics training environments</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="tools reveal"><span>Python</span><span>Faker</span><span>Pytest</span><span>FastAPI</span><span>Pydantic</span><span>React</span><span>TypeScript</span><span>Vite</span></div>
-      <p class="motto reveal">One disciplined step at a time.</p>
+<section id="services" class="alt">
+  <div class="wrap">
+    <div class="eyebrow reveal">Services</div>
+    <h2 class="reveal">How I Can Help Your Business</h2>
+    <p class="intro reveal">If your numbers live in messy spreadsheets or take hours to report on, these are the problems I solve.</p>
+    <div class="grid g4">
+      <article class="panel svc reveal"><div class="ico" aria-hidden="true">🧹</div><h3>Excel Data Cleaning</h3><p class="why">For spreadsheets that are cluttered, inconsistent, or hard to trust.</p>
+        <ul class="tick"><li>Remove duplicate records</li><li>Standardize inconsistent entries</li><li>Organize messy spreadsheets</li><li>Handle missing data per agreed requirements</li><li>Improve spreadsheet structure</li></ul></article>
+      <article class="panel svc reveal"><div class="ico" aria-hidden="true">📊</div><h3>Excel Business Reporting</h3><p class="why">For owners who want to see how the business is performing without digging.</p>
+        <ul class="tick"><li>Sales summaries</li><li>Revenue tracking</li><li>Inventory reporting</li><li>PivotTables and formulas</li><li>Performance summaries</li></ul></article>
+      <article class="panel svc reveal"><div class="ico" aria-hidden="true">📦</div><h3>Excel Inventory &amp; Sales Tracking</h3><p class="why">For shops that lose track of stock or sales across notebooks and sheets.</p>
+        <ul class="tick"><li>Product inventory records</li><li>Stock-in and stock-out tracking</li><li>Low-stock indicators</li><li>Sales transaction tracking</li><li>Revenue summaries</li></ul></article>
+      <article class="panel svc reveal"><div class="ico" aria-hidden="true">📈</div><h3>Power BI Dashboards</h3><p class="why">For businesses ready for interactive, always-ready reporting.</p>
+        <ul class="tick"><li>Interactive dashboards</li><li>Sales performance analysis</li><li>Marketing performance reporting</li><li>Customer insights</li><li>Business performance monitoring</li></ul></article>
     </div>
-  </section>
+    <p class="note reveal">Scope, deliverables, and timelines are agreed with you before work starts.</p>
+  </div>
+</section>
 
-  <section id="projects">
-    <div class="wrap">
-      <div class="eyebrow reveal">Projects</div>
-      <h2 class="reveal">Selected work</h2>
-      <div class="grid">
-        <a class="card reveal" href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Retail-Sales-Analysis" target="_blank" rel="noopener">
-          <div><div class="num">01</div><h3>Sales Dashboard</h3><p>Built a Power BI dashboard to track revenue, customer trends, and regional sales performance.</p></div>
-          <div class="tools"><span>Power BI</span><span>SQL</span><span>Excel</span></div>
-        </a>
-        <a class="card reveal" href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Marketing%20performance%20analysis" target="_blank" rel="noopener">
-          <div><div class="num">02</div><h3>Marketing Performance Analysis</h3><p>Analyzed customer purchase behavior and campaign performance across channels to find high-converting sources and optimize marketing spend.</p></div>
-          <div class="tools"><span>SQL</span><span>Excel</span><span>Power BI</span></div>
-        </a>
-        <a class="card reveal" href="https://github.com/pepple10/data_analytics_portfolio/tree/main/NovaMart_E-Commerce_Analysis" target="_blank" rel="noopener">
-          <div><div class="num">03</div><h3>NovaMart E-Commerce Analysis</h3><p>Analyzed e-commerce sales data to understand customer behavior, product performance, and revenue trends.</p></div>
-          <div class="tools"><span>SQL</span><span>Excel</span><span>Power BI</span></div>
-        </a>
-        <a class="card reveal" href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Bank%20Transaction%20Analysis" target="_blank" rel="noopener">
-          <div><div class="num">04</div><h3>Bank Transaction Analysis</h3><p>Analyzed bank transaction data to identify spending patterns and unusual transaction behavior.</p></div>
-          <div class="tools"><span>SQL</span><span>Power BI</span><span>Excel</span></div>
-        </a>
-        <a class="card reveal" href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Customer%20Segmentation%20Analysis" target="_blank" rel="noopener">
-          <div><div class="num">05</div><h3>Customer Segmentation</h3><p>Segmented customers by purchasing behavior and demographics for targeted marketing.</p></div>
-          <div class="tools"><span>Python</span><span>Pandas</span><span>SQL</span></div>
-        </a>
-        <a class="card reveal" href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Financial_Transcations_Analysis" target="_blank" rel="noopener">
-          <div><div class="num">06</div><h3>Financial Transaction Analysis</h3><p>Analyzed financial transactions to track cash flow, detect anomalies, and evaluate trends.</p></div>
-          <div class="tools"><span>Excel</span><span>SQL</span><span>Power BI</span></div>
-        </a>
-        <a class="card reveal" href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Customer%20Analytics%20Project" target="_blank" rel="noopener">
-          <div><div class="num">07 · Featured</div><h3>Customer Analytics Dashboard</h3><p>A full-scale project using Excel, MySQL, Power BI, and Jira to analyze customer purchasing behavior, marketing performance, and support trends. It covered data cleaning, SQL-based business analysis, interactive dashboards, and Agile-style workflow tracking to deliver actionable recommendations.</p></div>
-          <div class="tools"><span>Excel</span><span>SQL</span><span>Power BI</span><span>Jira</span></div>
-        </a>
-      </div>
+<section id="projects">
+  <div class="wrap">
+    <div class="eyebrow reveal">Projects</div>
+    <h2 class="reveal">Selected Business Analytics Projects</h2>
+    <p class="intro reveal">Portfolio projects built on practice datasets to demonstrate how I approach real business questions.</p>
+    <div class="grid g3">
+      <article class="panel proj reveal"><div><h3>Sales Dashboard</h3><dl><dt>Objective</dt><dd>See revenue, customer trends, and regional sales in one place.</dd><dt>Deliverable</dt><dd>A Power BI dashboard tracking revenue, customer trends, and regional sales performance.</dd></dl></div>
+        <div><div class="tools"><span>Power BI</span><span>SQL</span><span>Excel</span></div><p style="margin-top:14px"><a class="view" href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Retail-Sales-Analysis" target="_blank" rel="noopener">View project →</a></p></div></article>
+      <article class="panel proj reveal"><div><h3>Marketing Performance Analysis</h3><dl><dt>Objective</dt><dd>Find which marketing channels convert and where spend should go.</dd><dt>Deliverable</dt><dd>Analysis of customer purchase behavior and campaign performance across channels, identifying high-converting sources.</dd></dl></div>
+        <div><div class="tools"><span>SQL</span><span>Excel</span><span>Power BI</span></div><p style="margin-top:14px"><a class="view" href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Marketing%20performance%20analysis" target="_blank" rel="noopener">View project →</a></p></div></article>
+      <article class="panel proj reveal"><div><h3>NovaMart E-Commerce Analysis</h3><dl><dt>Objective</dt><dd>Understand customers, products, and revenue in an online store.</dd><dt>Deliverable</dt><dd>Sales analysis covering customer behavior, product performance, and revenue trends to support sales strategy.</dd></dl></div>
+        <div><div class="tools"><span>SQL</span><span>Excel</span><span>Power BI</span></div><p style="margin-top:14px"><a class="view" href="https://github.com/pepple10/data_analytics_portfolio/tree/main/NovaMart_E-Commerce_Analysis" target="_blank" rel="noopener">View project →</a></p></div></article>
+      <article class="panel proj reveal"><div><h3>Customer Analytics Dashboard</h3><dl><dt>Objective</dt><dd>Analyze purchasing behavior, marketing performance, and support trends end to end.</dd><dt>Deliverable</dt><dd>Cleaned data, SQL analysis, an interactive dashboard, Jira-tracked workflow, and written recommendations.</dd></dl></div>
+        <div><div class="tools"><span>Excel</span><span>MySQL</span><span>Power BI</span><span>Jira</span></div><p style="margin-top:14px"><a class="view" href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Customer%20Analytics%20Project" target="_blank" rel="noopener">View project →</a></p></div></article>
+      <article class="panel proj reveal"><div><h3>Customer Segmentation</h3><dl><dt>Objective</dt><dd>Group customers so marketing can be targeted.</dd><dt>Deliverable</dt><dd>Customer segments based on purchasing behavior and demographics.</dd></dl></div>
+        <div><div class="tools"><span>Python</span><span>Pandas</span><span>SQL</span></div><p style="margin-top:14px"><a class="view" href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Customer%20Segmentation%20Analysis" target="_blank" rel="noopener">View project →</a></p></div></article>
+      <article class="panel proj reveal"><div><h3>Financial Transaction Analysis</h3><dl><dt>Objective</dt><dd>Track cash flow and spot anomalies in financial records.</dd><dt>Deliverable</dt><dd>Analysis of cash flow, anomalies, and trends in transaction data.</dd></dl></div>
+        <div><div class="tools"><span>Excel</span><span>SQL</span><span>Power BI</span></div><p style="margin-top:14px"><a class="view" href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Financial_Transcations_Analysis" target="_blank" rel="noopener">View project →</a></p></div></article>
+      <article class="panel proj reveal"><div><h3>Bank Transaction Analysis</h3><dl><dt>Objective</dt><dd>Understand spending patterns and unusual activity.</dd><dt>Deliverable</dt><dd>Analysis identifying spending patterns and unusual transaction behavior.</dd></dl></div>
+        <div><div class="tools"><span>SQL</span><span>Power BI</span><span>Excel</span></div><p style="margin-top:14px"><a class="view" href="https://github.com/pepple10/data_analytics_portfolio/tree/main/Bank%20Transaction%20Analysis" target="_blank" rel="noopener">View project →</a></p></div></article>
     </div>
-  </section>
+  </div>
+</section>
+
+<section id="about" class="alt">
+  <div class="wrap about">
+    <div class="eyebrow reveal">About</div>
+    <h2 class="reveal">Careful with data, clear in reporting.</h2>
+    <p class="reveal">I’m Pepple Isobonye Victor. I use Excel, SQL, Python, and Power BI to clean, analyze, and communicate data so business owners can see what is actually going on.</p>
+    <p class="reveal">I work in a structured, detail-focused way, and I keep learning and building so my reporting gets sharper with every project.</p>
+    <ul class="reveal"><li>Analytical thinking</li><li>Attention to detail</li><li>Structured problem-solving</li><li>Business-focused reporting</li><li>Continuous development</li></ul>
+  </div>
+</section>
+
+<section id="foundry">
+  <div class="wrap">
+    <div class="eyebrow reveal">Technical Development &amp; Data Projects</div>
+    <h2 class="reveal">Beyond spreadsheets: what I build for myself</h2>
+    <div class="f-head reveal"><h3>Project Foundry</h3><span class="status">In active development · V2.6</span></div>
+    <p class="intro reveal" style="margin-bottom:0">A configurable, multi-industry synthetic data platform that generates realistic, structured datasets for analytics practice, dashboards, and simulation. Built as a scalable platform, not a pile of one-off scripts.</p>
+    <div class="fstats reveal"><div class="stat"><b>54</b><span>passing tests</span></div><div class="stat"><b>2</b><span>industries supported</span></div><div class="stat"><b>3</b><span>data quality profiles</span></div><div class="stat"><b>10–10k</b><span>records per run</span></div></div>
+    <div class="grid g3 f3">
+      <div class="panel reveal"><h4>Built <span class="tag">Implemented</span></h4><ul class="tick"><li>Modular Python engine with generator factory</li><li>SaaS Customer and Finance Transaction datasets</li><li>Clean, Realistic, and Messy quality profiles</li><li>Seed-based reproducibility and regeneration from metadata</li><li>Validation, CLI workflows, and Pytest coverage</li></ul></div>
+      <div class="panel reveal"><h4>Building now <span class="tag">V2.6</span></h4><ul class="tick"><li>FastAPI and Pydantic backend</li><li>React, TypeScript, and Vite frontend</li><li>Generation forms, run history, and downloads</li><li>Accessible, responsive interface</li></ul></div>
+      <div class="panel vision reveal"><h4>Vision <span class="tag">Planned</span></h4><ul class="tick"><li>More industry generators and templates</li><li>Relational dataset generation</li><li>Dataset profiling, versioning, and lineage</li><li>Business scenarios and analytics training environments</li></ul></div>
+    </div>
+    <div class="chips reveal" aria-label="Development history"><span>V2.0 Foundation</span><span>V2.1 Generation control</span><span>V2.2 Data quality</span><span>V2.3 Reproducibility</span><span>V2.4 Metadata</span><span>V2.5 Multi-industry</span><span>V2.6 Web app (current)</span></div>
+    <div class="tools reveal"><span>Python</span><span>Faker</span><span>Pytest</span><span>FastAPI</span><span>Pydantic</span><span>React</span><span>TypeScript</span><span>Vite</span></div>
+    <p class="motto reveal">One disciplined step at a time.</p>
+  </div>
+</section>
+
+<section id="contact" class="alt">
+  <div class="wrap">
+    <div class="panel contact reveal">
+      <div class="eyebrow">Contact</div>
+      <h2>Have a Spreadsheet or Reporting Problem? Let’s Work Together.</h2>
+      <p>Whether you need help cleaning your data, organizing business records, or building a reporting dashboard, let’s discuss how I can help.</p>
+      <div class="cta" id="cbtns"></div>
+    </div>
+  </div>
+</section>
 </main>
 
-<footer><div class="wrap">© 2026 Pepple Isobonye Victor · <a href="https://github.com/pepple10" target="_blank" rel="noopener">github.com/pepple10</a></div></footer>
+<footer><div class="wrap">© 2026 Pepple Isobonye Victor · Business Data Analyst · <a href="https://github.com/pepple10" target="_blank" rel="noopener">GitHub</a></div></footer>
 
 <script>
+/* ---- ADD YOUR CONTACT DETAILS HERE ----
+   email: "you@example.com"   whatsapp: "2348012345678" (country code, digits only) */
+var CONTACT={email:"",whatsapp:"",github:"https://github.com/pepple10"};
+
 document.documentElement.classList.add("js");
 (function(){
-  var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add("show");io.unobserve(e.target)}})},{threshold:.12});
+  var main=CONTACT.email?"mailto:"+CONTACT.email+"?subject=Project%20enquiry":CONTACT.whatsapp?"https://wa.me/"+CONTACT.whatsapp.replace(/\D/g,""):CONTACT.github;
+  var h='<a class="btn primary" href="'+main+'" target="_blank" rel="noopener">Discuss Your Project</a>';
+  if(CONTACT.whatsapp)h+='<a class="btn ghost" href="https://wa.me/'+CONTACT.whatsapp.replace(/\D/g,"")+'" target="_blank" rel="noopener">WhatsApp</a>';
+  if(CONTACT.email)h+='<a class="btn ghost" href="mailto:'+CONTACT.email+'">Email me</a>';
+  h+='<a class="btn ghost" href="'+CONTACT.github+'" target="_blank" rel="noopener">GitHub</a>';
+  document.getElementById("cbtns").innerHTML=h;
+
+  var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add("show");io.unobserve(e.target)}})},{threshold:.1});
   document.querySelectorAll(".reveal").forEach(function(el){io.observe(el)});
   var root=document.documentElement,btn=document.getElementById("theme");
   try{var t=localStorage.getItem("theme");if(t)root.setAttribute("data-theme",t)}catch(e){}
   btn.addEventListener("click",function(){
     var dark=root.getAttribute("data-theme")==="dark"||(!root.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme: dark)").matches);
-    var next=dark?"light":"dark";
-    root.setAttribute("data-theme",next);
-    try{localStorage.setItem("theme",next)}catch(e){}
+    var n=dark?"light":"dark";root.setAttribute("data-theme",n);
+    try{localStorage.setItem("theme",n)}catch(e){}
   });
 })();
 </script>
